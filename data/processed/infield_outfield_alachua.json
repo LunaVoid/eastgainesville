@@ -1,0 +1,3890 @@
+{
+  "2017-18": {
+    "0022": {
+      "school_name": "EARLY LEARNING ACADEMY AT DUVAL",
+      "total_classes": 158.0,
+      "in_field": 158.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0031": {
+      "school_name": "J. J. FINLEY ELEMENTARY SCHOOL",
+      "total_classes": 563.0,
+      "in_field": 563.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0041": {
+      "school_name": "STEPHEN FOSTER ELEMENTARY SCHOOL",
+      "total_classes": 443.0,
+      "in_field": 443.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0052": {
+      "school_name": "A.QUINN JONES CENTER",
+      "total_classes": 200.0,
+      "in_field": 200.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0071": {
+      "school_name": "LAKE FOREST ELEMENTARY SCHOOL",
+      "total_classes": 280.0,
+      "in_field": 280.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0081": {
+      "school_name": "SIDNEY LANIER CENTER",
+      "total_classes": 408.0,
+      "in_field": 408.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0082": {
+      "school_name": "HOSPITAL HOMEBOUND",
+      "total_classes": 34.0,
+      "in_field": 34.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0091": {
+      "school_name": "LITTLEWOOD ELEMENTARY SCHOOL",
+      "total_classes": 802.0,
+      "in_field": 794.0,
+      "out_of_field": 8.0,
+      "pct_in_field": 0.99002493765,
+      "pct_out_of_field": 0.00997506234
+    },
+    "0101": {
+      "school_name": "W. A. METCALFE ELEMENTARY SCHOOL",
+      "total_classes": 322.0,
+      "in_field": 322.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0111": {
+      "school_name": "JOSEPH WILLIAMS ELEMENTARY SCHOOL",
+      "total_classes": 406.0,
+      "in_field": 406.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0112": {
+      "school_name": "ABRAHAM LINCOLN MIDDLE SCHOOL",
+      "total_classes": 231.0,
+      "in_field": 231.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0121": {
+      "school_name": "HOWARD W. BISHOP MIDDLE SCHOOL",
+      "total_classes": 237.0,
+      "in_field": 237.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0141": {
+      "school_name": "WESTWOOD MIDDLE SCHOOL",
+      "total_classes": 358.0,
+      "in_field": 358.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0151": {
+      "school_name": "GAINESVILLE HIGH SCHOOL",
+      "total_classes": 759.0,
+      "in_field": 759.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0161": {
+      "school_name": "ALACHUA ELEMENTARY SCHOOL",
+      "total_classes": 269.0,
+      "in_field": 269.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0171": {
+      "school_name": "ARCHER ELEMENTARY",
+      "total_classes": 365.0,
+      "in_field": 365.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0201": {
+      "school_name": "HAWTHORNE MIDDLE/HIGH SCHOOL",
+      "total_classes": 160.0,
+      "in_field": 153.0,
+      "out_of_field": 7.0,
+      "pct_in_field": 0.95625,
+      "pct_out_of_field": 0.04375
+    },
+    "0221": {
+      "school_name": "A. L. MEBANE MIDDLE SCHOOL",
+      "total_classes": 156.0,
+      "in_field": 139.0,
+      "out_of_field": 17.0,
+      "pct_in_field": 0.89102564102,
+      "pct_out_of_field": 0.10897435897
+    },
+    "0261": {
+      "school_name": "NEWBERRY HIGH SCHOOL",
+      "total_classes": 278.0,
+      "in_field": 278.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0271": {
+      "school_name": "SANTA FE HIGH SCHOOL",
+      "total_classes": 504.0,
+      "in_field": 491.0,
+      "out_of_field": 13.0,
+      "pct_in_field": 0.9742063492,
+      "pct_out_of_field": 0.02579365079
+    },
+    "0281": {
+      "school_name": "CHESTER SHELL ELEMENTARY SCHOOL",
+      "total_classes": 294.0,
+      "in_field": 283.0,
+      "out_of_field": 11.0,
+      "pct_in_field": 0.96258503401,
+      "pct_out_of_field": 0.03741496598
+    },
+    "0311": {
+      "school_name": "MYRA TERWILLIGER ELEMENTARY SCHOOL",
+      "total_classes": 532.0,
+      "in_field": 532.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0321": {
+      "school_name": "IDYLWILD ELEMENTARY SCHOOL",
+      "total_classes": 692.0,
+      "in_field": 692.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0331": {
+      "school_name": "GLEN SPRINGS ELEMENTARY SCHOOL",
+      "total_classes": 435.0,
+      "in_field": 435.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0341": {
+      "school_name": "MARJORIE KINNAN RAWLINGS ELEMENTARY SCHOOL",
+      "total_classes": 227.0,
+      "in_field": 227.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0411": {
+      "school_name": "PROFESSIONAL ACADEMY MAGNET AT LOFTEN HIGH SCHOOL",
+      "total_classes": 83.0,
+      "in_field": 83.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0421": {
+      "school_name": "EASTSIDE HIGH SCHOOL",
+      "total_classes": 616.0,
+      "in_field": 585.0,
+      "out_of_field": 31.0,
+      "pct_in_field": 0.94967532467,
+      "pct_out_of_field": 0.05032467532
+    },
+    "0431": {
+      "school_name": "F. W. BUCHHOLZ HIGH SCHOOL",
+      "total_classes": 751.0,
+      "in_field": 751.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0461": {
+      "school_name": "HIGH SPRINGS COMMUNITY SCHOOL",
+      "total_classes": 626.0,
+      "in_field": 626.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0481": {
+      "school_name": "FORT CLARKE MIDDLE SCHOOL",
+      "total_classes": 330.0,
+      "in_field": 330.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0482": {
+      "school_name": "HIDDEN OAK ELEMENTARY SCHOOL",
+      "total_classes": 698.0,
+      "in_field": 698.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0492": {
+      "school_name": "FEARNSIDE FAMILY SERVICES CENTER",
+      "total_classes": 1.0,
+      "in_field": 1.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0501": {
+      "school_name": "KIMBALL WILES ELEMENTARY SCHOOL",
+      "total_classes": 639.0,
+      "in_field": 639.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0502": {
+      "school_name": "KANAPAHA MIDDLE SCHOOL",
+      "total_classes": 348.0,
+      "in_field": 346.0,
+      "out_of_field": 2.0,
+      "pct_in_field": 0.99425287356,
+      "pct_out_of_field": 0.00574712643
+    },
+    "0510": {
+      "school_name": "LAWTON M. CHILES ELEMENTARY SCHOOL",
+      "total_classes": 548.0,
+      "in_field": 548.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0520": {
+      "school_name": "MEADOWBROOK ELEMENTARY SCHOOL",
+      "total_classes": 663.0,
+      "in_field": 663.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0531": {
+      "school_name": "NEWBERRY ELEMENTARY SCHOOL",
+      "total_classes": 487.0,
+      "in_field": 474.0,
+      "out_of_field": 13.0,
+      "pct_in_field": 0.97330595482,
+      "pct_out_of_field": 0.02669404517
+    },
+    "0541": {
+      "school_name": "C. W. NORTON ELEMENTARY SCHOOL",
+      "total_classes": 479.0,
+      "in_field": 479.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0561": {
+      "school_name": "WILLIAM S. TALBOT ELEM SCHOOL",
+      "total_classes": 655.0,
+      "in_field": 655.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0571": {
+      "school_name": "W. W. IRBY ELEMENTARY SCHOOL",
+      "total_classes": 354.0,
+      "in_field": 354.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0591": {
+      "school_name": "OAK VIEW MIDDLE SCHOOL",
+      "total_classes": 282.0,
+      "in_field": 282.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0602": {
+      "school_name": "ALACHUA ACADEMY",
+      "total_classes": 41.0,
+      "in_field": 41.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0603": {
+      "school_name": "AMIKIDS",
+      "total_classes": 74.0,
+      "in_field": 74.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0604": {
+      "school_name": "PACE",
+      "total_classes": 85.0,
+      "in_field": 85.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0950": {
+      "school_name": "THE ONE ROOM SCHOOL HOUSE PROJECT",
+      "total_classes": 92.0,
+      "in_field": 92.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0951": {
+      "school_name": "MICANOPY AREA COOPERATIVE SCHOOL, INC.",
+      "total_classes": 100.0,
+      "in_field": 100.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0953": {
+      "school_name": "CARING & SHARING LEARNING SCHOOL",
+      "total_classes": 63.0,
+      "in_field": 63.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0955": {
+      "school_name": "THE EINSTEIN SCHOOL, INC.",
+      "total_classes": 86.0,
+      "in_field": 84.0,
+      "out_of_field": 2.0,
+      "pct_in_field": 0.97674418604,
+      "pct_out_of_field": 0.02325581395
+    },
+    "0956": {
+      "school_name": "EXPRESSIONS LEARNING ARTS ACADEMY",
+      "total_classes": 49.0,
+      "in_field": 49.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0957": {
+      "school_name": "ALACHUA LEARNING ACADEMY ELEMENTARY",
+      "total_classes": 48.0,
+      "in_field": 45.0,
+      "out_of_field": 3.0,
+      "pct_in_field": 0.9375,
+      "pct_out_of_field": 0.0625
+    },
+    "0958": {
+      "school_name": "GENESIS PREPARATORY SCHOOL",
+      "total_classes": 33.0,
+      "in_field": 33.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0961": {
+      "school_name": "MICANOPY MIDDLE SCHOOL, INC.",
+      "total_classes": 38.0,
+      "in_field": 38.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0981": {
+      "school_name": "HEALTHY LEARNING ACADEMY CHARTER SCHOOL",
+      "total_classes": 60.0,
+      "in_field": 60.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "0991": {
+      "school_name": "SIATECH GAINESVILLE",
+      "total_classes": 104.0,
+      "in_field": 102.0,
+      "out_of_field": 2.0,
+      "pct_in_field": 0.98076923076,
+      "pct_out_of_field": 0.01923076923
+    },
+    "1003": {
+      "school_name": "ALACHUA MYCROSCHOOL OF INTEGRATED ACADEMICS AND TECHNOLOGIES (MYCROSCHOOL GAINESVILLE)",
+      "total_classes": 145.0,
+      "in_field": 145.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "1010": {
+      "school_name": "ONE ROOM MIDDLE SCHOOL",
+      "total_classes": 21.0,
+      "in_field": 21.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "1011": {
+      "school_name": "ALACHUA LEARNING ACADEMY MIDDLE",
+      "total_classes": 39.0,
+      "in_field": 38.0,
+      "out_of_field": 1.0,
+      "pct_in_field": 0.97435897435,
+      "pct_out_of_field": 0.02564102564
+    },
+    "1012": {
+      "school_name": "BOULWARE SPRINGS CHARTER",
+      "total_classes": 75.0,
+      "in_field": 75.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "1013": {
+      "school_name": "RESILIENCE CHARTER SCHOOL INC",
+      "total_classes": 46.0,
+      "in_field": 40.0,
+      "out_of_field": 6.0,
+      "pct_in_field": 0.86956521739,
+      "pct_out_of_field": 0.1304347826
+    },
+    "7004": {
+      "school_name": "ALACHUA ESCHOOL (VIRTUAL FRANCHISE)",
+      "total_classes": 188.0,
+      "in_field": 188.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "7023": {
+      "school_name": "ALACHUA VIRTUAL INSTRUCTION PROGRAM (DISTRICT PROVIDED)",
+      "total_classes": 44.0,
+      "in_field": 44.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    },
+    "9029": {
+      "school_name": "ALACHUA REGIONAL JUVENILE DETENTION CENTER",
+      "total_classes": 86.0,
+      "in_field": 86.0,
+      "out_of_field": 0.0,
+      "pct_in_field": 1.0,
+      "pct_out_of_field": 0.0
+    }
+  },
+  "2018-19": {
+    "0022": {
+      "school_name": "EARLY LEARNING ACADEMY AT DUVAL",
+      "total_classes": 151,
+      "in_field": 151,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0031": {
+      "school_name": "J. J. FINLEY ELEMENTARY SCHOOL",
+      "total_classes": 527,
+      "in_field": 515,
+      "out_of_field": 12,
+      "pct_in_field": 0.9772296015180264,
+      "pct_out_of_field": 0.022770398481973438
+    },
+    "0041": {
+      "school_name": "STEPHEN FOSTER ELEMENTARY SCHOOL",
+      "total_classes": 425,
+      "in_field": 364,
+      "out_of_field": 61,
+      "pct_in_field": 0.8564705882352941,
+      "pct_out_of_field": 0.14352941176470588
+    },
+    "0052": {
+      "school_name": "A.QUINN JONES CENTER",
+      "total_classes": 170,
+      "in_field": 137,
+      "out_of_field": 33,
+      "pct_in_field": 0.8058823529411765,
+      "pct_out_of_field": 0.19411764705882348
+    },
+    "0071": {
+      "school_name": "LAKE FOREST ELEMENTARY SCHOOL",
+      "total_classes": 332,
+      "in_field": 280,
+      "out_of_field": 52,
+      "pct_in_field": 0.8433734939759036,
+      "pct_out_of_field": 0.1566265060240964
+    },
+    "0081": {
+      "school_name": "SIDNEY LANIER CENTER",
+      "total_classes": 402,
+      "in_field": 402,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0082": {
+      "school_name": "HOSPITAL HOMEBOUND",
+      "total_classes": 31,
+      "in_field": 31,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0091": {
+      "school_name": "LITTLEWOOD ELEMENTARY SCHOOL",
+      "total_classes": 794,
+      "in_field": 770,
+      "out_of_field": 24,
+      "pct_in_field": 0.969773299748111,
+      "pct_out_of_field": 0.03022670025188916
+    },
+    "0101": {
+      "school_name": "W. A. METCALFE ELEMENTARY SCHOOL",
+      "total_classes": 300,
+      "in_field": 240,
+      "out_of_field": 60,
+      "pct_in_field": 0.8,
+      "pct_out_of_field": 0.2
+    },
+    "0111": {
+      "school_name": "JOSEPH WILLIAMS ELEMENTARY SCHOOL",
+      "total_classes": 443,
+      "in_field": 413,
+      "out_of_field": 30,
+      "pct_in_field": 0.9322799097065464,
+      "pct_out_of_field": 0.06772009029345372
+    },
+    "0112": {
+      "school_name": "ABRAHAM LINCOLN MIDDLE SCHOOL",
+      "total_classes": 236,
+      "in_field": 221,
+      "out_of_field": 15,
+      "pct_in_field": 0.9364406779661018,
+      "pct_out_of_field": 0.0635593220338983
+    },
+    "0121": {
+      "school_name": "HOWARD W. BISHOP MIDDLE SCHOOL",
+      "total_classes": 248,
+      "in_field": 248,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0141": {
+      "school_name": "WESTWOOD MIDDLE SCHOOL",
+      "total_classes": 377,
+      "in_field": 368,
+      "out_of_field": 9,
+      "pct_in_field": 0.9761273209549072,
+      "pct_out_of_field": 0.023872679045092833
+    },
+    "0151": {
+      "school_name": "GAINESVILLE HIGH SCHOOL",
+      "total_classes": 640,
+      "in_field": 627,
+      "out_of_field": 13,
+      "pct_in_field": 0.9796875,
+      "pct_out_of_field": 0.0203125
+    },
+    "0161": {
+      "school_name": "ALACHUA ELEMENTARY SCHOOL",
+      "total_classes": 287,
+      "in_field": 279,
+      "out_of_field": 8,
+      "pct_in_field": 0.9721254355400696,
+      "pct_out_of_field": 0.027874564459930303
+    },
+    "0171": {
+      "school_name": "ARCHER ELEMENTARY",
+      "total_classes": 364,
+      "in_field": 364,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0201": {
+      "school_name": "HAWTHORNE MIDDLE/HIGH SCHOOL",
+      "total_classes": 154,
+      "in_field": 147,
+      "out_of_field": 7,
+      "pct_in_field": 0.9545454545454547,
+      "pct_out_of_field": 0.045454545454545456
+    },
+    "0221": {
+      "school_name": "A. L. MEBANE MIDDLE SCHOOL",
+      "total_classes": 159,
+      "in_field": 143,
+      "out_of_field": 16,
+      "pct_in_field": 0.8993710691823901,
+      "pct_out_of_field": 0.10062893081761003
+    },
+    "0261": {
+      "school_name": "NEWBERRY HIGH SCHOOL",
+      "total_classes": 294,
+      "in_field": 294,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0271": {
+      "school_name": "SANTA FE HIGH SCHOOL",
+      "total_classes": 504,
+      "in_field": 496,
+      "out_of_field": 8,
+      "pct_in_field": 0.9841269841269839,
+      "pct_out_of_field": 0.01587301587301587
+    },
+    "0281": {
+      "school_name": "CHESTER SHELL ELEMENTARY SCHOOL",
+      "total_classes": 296,
+      "in_field": 278,
+      "out_of_field": 18,
+      "pct_in_field": 0.9391891891891891,
+      "pct_out_of_field": 0.060810810810810814
+    },
+    "0311": {
+      "school_name": "MYRA TERWILLIGER ELEMENTARY SCHOOL",
+      "total_classes": 449,
+      "in_field": 432,
+      "out_of_field": 17,
+      "pct_in_field": 0.9621380846325165,
+      "pct_out_of_field": 0.03786191536748328
+    },
+    "0321": {
+      "school_name": "IDYLWILD ELEMENTARY SCHOOL",
+      "total_classes": 681,
+      "in_field": 642,
+      "out_of_field": 39,
+      "pct_in_field": 0.9427312775330393,
+      "pct_out_of_field": 0.05726872246696035
+    },
+    "0331": {
+      "school_name": "GLEN SPRINGS ELEMENTARY SCHOOL",
+      "total_classes": 408,
+      "in_field": 391,
+      "out_of_field": 17,
+      "pct_in_field": 0.9583333333333336,
+      "pct_out_of_field": 0.04166666666666666
+    },
+    "0341": {
+      "school_name": "MARJORIE KINNAN RAWLINGS ELEMENTARY SCHOOL",
+      "total_classes": 262,
+      "in_field": 238,
+      "out_of_field": 24,
+      "pct_in_field": 0.9083969465648851,
+      "pct_out_of_field": 0.09160305343511449
+    },
+    "0411": {
+      "school_name": "PROFESSIONAL ACADEMY MAGNET AT LOFTEN HIGH SCHOOL",
+      "total_classes": 78,
+      "in_field": 78,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0421": {
+      "school_name": "EASTSIDE HIGH SCHOOL",
+      "total_classes": 678,
+      "in_field": 668,
+      "out_of_field": 10,
+      "pct_in_field": 0.9852507374631272,
+      "pct_out_of_field": 0.014749262536873153
+    },
+    "0431": {
+      "school_name": "F. W. BUCHHOLZ HIGH SCHOOL",
+      "total_classes": 798,
+      "in_field": 798,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0461": {
+      "school_name": "HIGH SPRINGS COMMUNITY SCHOOL",
+      "total_classes": 634,
+      "in_field": 627,
+      "out_of_field": 7,
+      "pct_in_field": 0.9889589905362778,
+      "pct_out_of_field": 0.011041009463722398
+    },
+    "0481": {
+      "school_name": "FORT CLARKE MIDDLE SCHOOL",
+      "total_classes": 339,
+      "in_field": 336,
+      "out_of_field": 3,
+      "pct_in_field": 0.9911504424778762,
+      "pct_out_of_field": 0.008849557522123894
+    },
+    "0482": {
+      "school_name": "HIDDEN OAK ELEMENTARY SCHOOL",
+      "total_classes": 707,
+      "in_field": 688,
+      "out_of_field": 19,
+      "pct_in_field": 0.9731258840169731,
+      "pct_out_of_field": 0.02687411598302688
+    },
+    "0492": {
+      "school_name": "FEARNSIDE FAMILY SERVICES CENTER",
+      "total_classes": 1,
+      "in_field": 1,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0501": {
+      "school_name": "KIMBALL WILES ELEMENTARY SCHOOL",
+      "total_classes": 712,
+      "in_field": 712,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0502": {
+      "school_name": "KANAPAHA MIDDLE SCHOOL",
+      "total_classes": 321,
+      "in_field": 311,
+      "out_of_field": 10,
+      "pct_in_field": 0.9688473520249219,
+      "pct_out_of_field": 0.031152647975077875
+    },
+    "0510": {
+      "school_name": "LAWTON M. CHILES ELEMENTARY SCHOOL",
+      "total_classes": 507,
+      "in_field": 502,
+      "out_of_field": 5,
+      "pct_in_field": 0.990138067061144,
+      "pct_out_of_field": 0.009861932938856016
+    },
+    "0520": {
+      "school_name": "MEADOWBROOK ELEMENTARY SCHOOL",
+      "total_classes": 618,
+      "in_field": 618,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0531": {
+      "school_name": "NEWBERRY ELEMENTARY SCHOOL",
+      "total_classes": 501,
+      "in_field": 469,
+      "out_of_field": 32,
+      "pct_in_field": 0.9361277445109782,
+      "pct_out_of_field": 0.06387225548902196
+    },
+    "0541": {
+      "school_name": "C. W. NORTON ELEMENTARY SCHOOL",
+      "total_classes": 554,
+      "in_field": 482,
+      "out_of_field": 72,
+      "pct_in_field": 0.8700361010830325,
+      "pct_out_of_field": 0.12996389891696747
+    },
+    "0561": {
+      "school_name": "WILLIAM S. TALBOT ELEM SCHOOL",
+      "total_classes": 710,
+      "in_field": 710,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0571": {
+      "school_name": "W. W. IRBY ELEMENTARY SCHOOL",
+      "total_classes": 327,
+      "in_field": 321,
+      "out_of_field": 6,
+      "pct_in_field": 0.9816513761467888,
+      "pct_out_of_field": 0.018348623853211014
+    },
+    "0591": {
+      "school_name": "OAK VIEW MIDDLE SCHOOL",
+      "total_classes": 311,
+      "in_field": 311,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0602": {
+      "school_name": "ALACHUA ACADEMY",
+      "total_classes": 64,
+      "in_field": 62,
+      "out_of_field": 2,
+      "pct_in_field": 0.96875,
+      "pct_out_of_field": 0.03125
+    },
+    "0603": {
+      "school_name": "AMIKIDS",
+      "total_classes": 58,
+      "in_field": 44,
+      "out_of_field": 14,
+      "pct_in_field": 0.7586206896551722,
+      "pct_out_of_field": 0.24137931034482757
+    },
+    "0604": {
+      "school_name": "PACE",
+      "total_classes": 88,
+      "in_field": 88,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0950": {
+      "school_name": "THE ONE ROOM SCHOOL HOUSE PROJECT",
+      "total_classes": 89,
+      "in_field": 89,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0951": {
+      "school_name": "MICANOPY AREA COOPERATIVE SCHOOL, INC.",
+      "total_classes": 89,
+      "in_field": 77,
+      "out_of_field": 12,
+      "pct_in_field": 0.8651685393258429,
+      "pct_out_of_field": 0.13483146067415724
+    },
+    "0953": {
+      "school_name": "CARING & SHARING LEARNING SCHOOL",
+      "total_classes": 69,
+      "in_field": 57,
+      "out_of_field": 12,
+      "pct_in_field": 0.826086956521739,
+      "pct_out_of_field": 0.17391304347826086
+    },
+    "0955": {
+      "school_name": "THE EINSTEIN SCHOOL, INC.",
+      "total_classes": 78,
+      "in_field": 78,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0956": {
+      "school_name": "EXPRESSIONS LEARNING ARTS ACADEMY",
+      "total_classes": 57,
+      "in_field": 57,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0957": {
+      "school_name": "ALACHUA LEARNING ACADEMY ELEMENTARY",
+      "total_classes": 49,
+      "in_field": 47,
+      "out_of_field": 2,
+      "pct_in_field": 0.9591836734693878,
+      "pct_out_of_field": 0.04081632653061224
+    },
+    "0958": {
+      "school_name": "GENESIS PREPARATORY SCHOOL",
+      "total_classes": 32,
+      "in_field": 32,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0961": {
+      "school_name": "MICANOPY  ACADEMY",
+      "total_classes": 53,
+      "in_field": 53,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0981": {
+      "school_name": "HEALTHY LEARNING ACADEMY CHARTER SCHOOL",
+      "total_classes": 60,
+      "in_field": 60,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0991": {
+      "school_name": "SIATECH AT GAINESVILLE",
+      "total_classes": 165,
+      "in_field": 165,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "1003": {
+      "school_name": "NORTH CENTRAL FLORIDA PUBLIC CHARTER SCHOOL",
+      "total_classes": 111,
+      "in_field": 111,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "1011": {
+      "school_name": "ALACHUA LEARNING ACADEMY MIDDLE",
+      "total_classes": 49,
+      "in_field": 45,
+      "out_of_field": 4,
+      "pct_in_field": 0.9183673469387756,
+      "pct_out_of_field": 0.08163265306122448
+    },
+    "1012": {
+      "school_name": "BOULWARE SPRINGS CHARTER",
+      "total_classes": 75,
+      "in_field": 75,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "1013": {
+      "school_name": "RESILIENCE CHARTER SCHOOL INC",
+      "total_classes": 42,
+      "in_field": 33,
+      "out_of_field": 9,
+      "pct_in_field": 0.7857142857142856,
+      "pct_out_of_field": 0.21428571428571425
+    },
+    "7004": {
+      "school_name": "ALACHUA ESCHOOL (VIRTUAL FRANCHISE)",
+      "total_classes": 222,
+      "in_field": 222,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "7023": {
+      "school_name": "ALACHUA VIRTUAL INSTRUCTION PROGRAM (DISTRICT PROVIDED)",
+      "total_classes": 36,
+      "in_field": 36,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "9029": {
+      "school_name": "ALACHUA REGIONAL JUVENILE DETENTION CENTER",
+      "total_classes": 77,
+      "in_field": 62,
+      "out_of_field": 15,
+      "pct_in_field": 0.8051948051948051,
+      "pct_out_of_field": 0.19480519480519476
+    }
+  },
+  "2019-20": {
+    "0022": {
+      "school_name": "EARLY LEARNING ACADEMY AT DUVAL",
+      "total_classes": 164,
+      "in_field": 155,
+      "out_of_field": 9,
+      "pct_in_field": 0.9451219512195124,
+      "pct_out_of_field": 0.054878048780487805
+    },
+    "0031": {
+      "school_name": "J. J. FINLEY ELEMENTARY SCHOOL",
+      "total_classes": 555,
+      "in_field": 519,
+      "out_of_field": 36,
+      "pct_in_field": 0.935135135135135,
+      "pct_out_of_field": 0.06486486486486488
+    },
+    "0041": {
+      "school_name": "STEPHEN FOSTER ELEMENTARY SCHOOL",
+      "total_classes": 354,
+      "in_field": 345,
+      "out_of_field": 9,
+      "pct_in_field": 0.974576271186441,
+      "pct_out_of_field": 0.02542372881355932
+    },
+    "0052": {
+      "school_name": "A.QUINN JONES CENTER",
+      "total_classes": 183,
+      "in_field": 139,
+      "out_of_field": 44,
+      "pct_in_field": 0.7595628415300547,
+      "pct_out_of_field": 0.24043715846994537
+    },
+    "0071": {
+      "school_name": "LAKE FOREST ELEMENTARY SCHOOL",
+      "total_classes": 384,
+      "in_field": 378,
+      "out_of_field": 6,
+      "pct_in_field": 0.984375,
+      "pct_out_of_field": 0.015625
+    },
+    "0081": {
+      "school_name": "SIDNEY LANIER CENTER",
+      "total_classes": 445,
+      "in_field": 445,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0082": {
+      "school_name": "HOSPITAL HOMEBOUND",
+      "total_classes": 43,
+      "in_field": 43,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0091": {
+      "school_name": "LITTLEWOOD ELEMENTARY SCHOOL",
+      "total_classes": 864,
+      "in_field": 831,
+      "out_of_field": 33,
+      "pct_in_field": 0.9618055555555555,
+      "pct_out_of_field": 0.03819444444444445
+    },
+    "0101": {
+      "school_name": "W. A. METCALFE ELEMENTARY SCHOOL",
+      "total_classes": 273,
+      "in_field": 206,
+      "out_of_field": 67,
+      "pct_in_field": 0.7545787545787545,
+      "pct_out_of_field": 0.2454212454212454
+    },
+    "0111": {
+      "school_name": "JOSEPH WILLIAMS ELEMENTARY SCHOOL",
+      "total_classes": 421,
+      "in_field": 367,
+      "out_of_field": 54,
+      "pct_in_field": 0.8717339667458435,
+      "pct_out_of_field": 0.1282660332541568
+    },
+    "0112": {
+      "school_name": "ABRAHAM LINCOLN MIDDLE SCHOOL",
+      "total_classes": 222,
+      "in_field": 207,
+      "out_of_field": 15,
+      "pct_in_field": 0.9324324324324321,
+      "pct_out_of_field": 0.06756756756756759
+    },
+    "0121": {
+      "school_name": "HOWARD W. BISHOP MIDDLE SCHOOL",
+      "total_classes": 242,
+      "in_field": 236,
+      "out_of_field": 6,
+      "pct_in_field": 0.9752066115702481,
+      "pct_out_of_field": 0.02479338842975207
+    },
+    "0141": {
+      "school_name": "WESTWOOD MIDDLE SCHOOL",
+      "total_classes": 347,
+      "in_field": 342,
+      "out_of_field": 5,
+      "pct_in_field": 0.9855907780979826,
+      "pct_out_of_field": 0.014409221902017289
+    },
+    "0151": {
+      "school_name": "GAINESVILLE HIGH SCHOOL",
+      "total_classes": 792,
+      "in_field": 780,
+      "out_of_field": 12,
+      "pct_in_field": 0.9848484848484848,
+      "pct_out_of_field": 0.015151515151515152
+    },
+    "0161": {
+      "school_name": "ALACHUA ELEMENTARY SCHOOL",
+      "total_classes": 274,
+      "in_field": 250,
+      "out_of_field": 24,
+      "pct_in_field": 0.9124087591240881,
+      "pct_out_of_field": 0.08759124087591245
+    },
+    "0171": {
+      "school_name": "ARCHER ELEMENTARY",
+      "total_classes": 408,
+      "in_field": 408,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0201": {
+      "school_name": "HAWTHORNE MIDDLE/HIGH SCHOOL",
+      "total_classes": 168,
+      "in_field": 165,
+      "out_of_field": 3,
+      "pct_in_field": 0.982142857142857,
+      "pct_out_of_field": 0.017857142857142853
+    },
+    "0221": {
+      "school_name": "A. L. MEBANE MIDDLE SCHOOL",
+      "total_classes": 160,
+      "in_field": 140,
+      "out_of_field": 20,
+      "pct_in_field": 0.875,
+      "pct_out_of_field": 0.125
+    },
+    "0261": {
+      "school_name": "NEWBERRY HIGH SCHOOL",
+      "total_classes": 297,
+      "in_field": 291,
+      "out_of_field": 6,
+      "pct_in_field": 0.97979797979798,
+      "pct_out_of_field": 0.020202020202020204
+    },
+    "0271": {
+      "school_name": "SANTA FE HIGH SCHOOL",
+      "total_classes": 495,
+      "in_field": 481,
+      "out_of_field": 14,
+      "pct_in_field": 0.9717171717171719,
+      "pct_out_of_field": 0.02828282828282828
+    },
+    "0281": {
+      "school_name": "CHESTER SHELL ELEMENTARY SCHOOL",
+      "total_classes": 280,
+      "in_field": 273,
+      "out_of_field": 7,
+      "pct_in_field": 0.975,
+      "pct_out_of_field": 0.025
+    },
+    "0311": {
+      "school_name": "MYRA TERWILLIGER ELEMENTARY SCHOOL",
+      "total_classes": 426,
+      "in_field": 412,
+      "out_of_field": 14,
+      "pct_in_field": 0.9671361502347421,
+      "pct_out_of_field": 0.032863849765258225
+    },
+    "0321": {
+      "school_name": "IDYLWILD ELEMENTARY SCHOOL",
+      "total_classes": 633,
+      "in_field": 581,
+      "out_of_field": 52,
+      "pct_in_field": 0.9178515007898898,
+      "pct_out_of_field": 0.0821484992101106
+    },
+    "0331": {
+      "school_name": "GLEN SPRINGS ELEMENTARY SCHOOL",
+      "total_classes": 358,
+      "in_field": 351,
+      "out_of_field": 7,
+      "pct_in_field": 0.9804469273743017,
+      "pct_out_of_field": 0.019553072625698328
+    },
+    "0341": {
+      "school_name": "MARJORIE KINNAN RAWLINGS ELEMENTARY SCHOOL",
+      "total_classes": 224,
+      "in_field": 213,
+      "out_of_field": 11,
+      "pct_in_field": 0.950892857142857,
+      "pct_out_of_field": 0.04910714285714285
+    },
+    "0411": {
+      "school_name": "PROFESSIONAL ACADEMY MAGNET AT LOFTEN HIGH SCHOOL",
+      "total_classes": 85,
+      "in_field": 78,
+      "out_of_field": 7,
+      "pct_in_field": 0.9176470588235295,
+      "pct_out_of_field": 0.08235294117647061
+    },
+    "0421": {
+      "school_name": "EASTSIDE HIGH SCHOOL",
+      "total_classes": 545,
+      "in_field": 521,
+      "out_of_field": 24,
+      "pct_in_field": 0.9559633027522936,
+      "pct_out_of_field": 0.044036697247706424
+    },
+    "0431": {
+      "school_name": "F. W. BUCHHOLZ HIGH SCHOOL",
+      "total_classes": 758,
+      "in_field": 758,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0461": {
+      "school_name": "HIGH SPRINGS COMMUNITY SCHOOL",
+      "total_classes": 622,
+      "in_field": 622,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0481": {
+      "school_name": "FORT CLARKE MIDDLE SCHOOL",
+      "total_classes": 342,
+      "in_field": 337,
+      "out_of_field": 5,
+      "pct_in_field": 0.9853801169590641,
+      "pct_out_of_field": 0.014619883040935673
+    },
+    "0482": {
+      "school_name": "HIDDEN OAK ELEMENTARY SCHOOL",
+      "total_classes": 705,
+      "in_field": 681,
+      "out_of_field": 24,
+      "pct_in_field": 0.9659574468085107,
+      "pct_out_of_field": 0.03404255319148937
+    },
+    "0492": {
+      "school_name": "FEARNSIDE FAMILY SERVICES CENTER",
+      "total_classes": 1,
+      "in_field": 1,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0501": {
+      "school_name": "KIMBALL WILES ELEMENTARY SCHOOL",
+      "total_classes": 675,
+      "in_field": 675,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0502": {
+      "school_name": "KANAPAHA MIDDLE SCHOOL",
+      "total_classes": 325,
+      "in_field": 314,
+      "out_of_field": 11,
+      "pct_in_field": 0.9661538461538464,
+      "pct_out_of_field": 0.033846153846153866
+    },
+    "0510": {
+      "school_name": "LAWTON M. CHILES ELEMENTARY SCHOOL",
+      "total_classes": 543,
+      "in_field": 543,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0520": {
+      "school_name": "MEADOWBROOK ELEMENTARY SCHOOL",
+      "total_classes": 640,
+      "in_field": 637,
+      "out_of_field": 3,
+      "pct_in_field": 0.9953125,
+      "pct_out_of_field": 0.0046875
+    },
+    "0531": {
+      "school_name": "NEWBERRY ELEMENTARY SCHOOL",
+      "total_classes": 467,
+      "in_field": 457,
+      "out_of_field": 10,
+      "pct_in_field": 0.9785867237687363,
+      "pct_out_of_field": 0.02141327623126338
+    },
+    "0541": {
+      "school_name": "C. W. NORTON ELEMENTARY SCHOOL",
+      "total_classes": 633,
+      "in_field": 577,
+      "out_of_field": 56,
+      "pct_in_field": 0.9115323854660349,
+      "pct_out_of_field": 0.08846761453396527
+    },
+    "0561": {
+      "school_name": "WILLIAM S. TALBOT ELEM SCHOOL",
+      "total_classes": 692,
+      "in_field": 641,
+      "out_of_field": 51,
+      "pct_in_field": 0.9263005780346824,
+      "pct_out_of_field": 0.07369942196531788
+    },
+    "0571": {
+      "school_name": "W. W. IRBY ELEMENTARY SCHOOL",
+      "total_classes": 325,
+      "in_field": 294,
+      "out_of_field": 31,
+      "pct_in_field": 0.9046153846153843,
+      "pct_out_of_field": 0.09538461538461536
+    },
+    "0591": {
+      "school_name": "OAK VIEW MIDDLE SCHOOL",
+      "total_classes": 324,
+      "in_field": 319,
+      "out_of_field": 5,
+      "pct_in_field": 0.984567901234568,
+      "pct_out_of_field": 0.0154320987654321
+    },
+    "0602": {
+      "school_name": "ALACHUA ACADEMY",
+      "total_classes": 55,
+      "in_field": 46,
+      "out_of_field": 9,
+      "pct_in_field": 0.8363636363636362,
+      "pct_out_of_field": 0.1636363636363636
+    },
+    "0603": {
+      "school_name": "AMIKIDS",
+      "total_classes": 23,
+      "in_field": 23,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0604": {
+      "school_name": "PACE",
+      "total_classes": 100,
+      "in_field": 100,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0924": {
+      "school_name": "SANTA FE COLLEGE HIGH SCHOOL DUAL ENROLLMENT",
+      "total_classes": 20,
+      "in_field": 20,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0950": {
+      "school_name": "THE ONE ROOM SCHOOL HOUSE PROJECT",
+      "total_classes": 82,
+      "in_field": 82,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0951": {
+      "school_name": "MICANOPY AREA COOPERATIVE SCHOOL, INC.",
+      "total_classes": 88,
+      "in_field": 84,
+      "out_of_field": 4,
+      "pct_in_field": 0.9545454545454547,
+      "pct_out_of_field": 0.045454545454545456
+    },
+    "0953": {
+      "school_name": "CARING & SHARING LEARNING SCHOOL",
+      "total_classes": 78,
+      "in_field": 78,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0955": {
+      "school_name": "THE EINSTEIN SCHOOL, INC.",
+      "total_classes": 86,
+      "in_field": 86,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0956": {
+      "school_name": "EXPRESSIONS LEARNING ARTS ACADEMY",
+      "total_classes": 57,
+      "in_field": 53,
+      "out_of_field": 4,
+      "pct_in_field": 0.9298245614035088,
+      "pct_out_of_field": 0.07017543859649121
+    },
+    "0957": {
+      "school_name": "ALACHUA LEARNING ACADEMY ELEMENTARY",
+      "total_classes": 45,
+      "in_field": 45,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0958": {
+      "school_name": "GENESIS PREPARATORY SCHOOL",
+      "total_classes": 41,
+      "in_field": 41,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0961": {
+      "school_name": "MICANOPY  ACADEMY",
+      "total_classes": 56,
+      "in_field": 46,
+      "out_of_field": 10,
+      "pct_in_field": 0.8214285714285712,
+      "pct_out_of_field": 0.1785714285714286
+    },
+    "0981": {
+      "school_name": "HEALTHY LEARNING ACADEMY CHARTER SCHOOL",
+      "total_classes": 53,
+      "in_field": 53,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0991": {
+      "school_name": "SIATECH AT GAINESVILLE",
+      "total_classes": 137,
+      "in_field": 137,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "1003": {
+      "school_name": "NORTH CENTRAL FLORIDA PUBLIC CHARTER SCHOOL",
+      "total_classes": 142,
+      "in_field": 142,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "1011": {
+      "school_name": "ALACHUA LEARNING ACADEMY MIDDLE",
+      "total_classes": 40,
+      "in_field": 39,
+      "out_of_field": 1,
+      "pct_in_field": 0.975,
+      "pct_out_of_field": 0.025
+    },
+    "1012": {
+      "school_name": "BOULWARE SPRINGS CHARTER",
+      "total_classes": 64,
+      "in_field": 59,
+      "out_of_field": 5,
+      "pct_in_field": 0.921875,
+      "pct_out_of_field": 0.078125
+    },
+    "1013": {
+      "school_name": "RESILIENCE CHARTER SCHOOL INC",
+      "total_classes": 38,
+      "in_field": 37,
+      "out_of_field": 1,
+      "pct_in_field": 0.9736842105263155,
+      "pct_out_of_field": 0.026315789473684206
+    },
+    "7004": {
+      "school_name": "ALACHUA ESCHOOL (VIRTUAL FRANCHISE)",
+      "total_classes": 265,
+      "in_field": 265,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "7023": {
+      "school_name": "ALACHUA VIRTUAL INSTRUCTION PROGRAM (DISTRICT PROVIDED)",
+      "total_classes": 36,
+      "in_field": 36,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "9029": {
+      "school_name": "ALACHUA REGIONAL JUVENILE DETENTION CENTER",
+      "total_classes": 78,
+      "in_field": 35,
+      "out_of_field": 43,
+      "pct_in_field": 0.4487179487179488,
+      "pct_out_of_field": 0.5512820512820512
+    }
+  },
+  "2020-21": {
+    "0022": {
+      "school_name": "EARLY LEARNING ACADEMY AT DUVAL",
+      "total_classes": 121,
+      "in_field": 114,
+      "out_of_field": 7,
+      "pct_in_field": 0.94214876033,
+      "pct_out_of_field": 0.05785123966
+    },
+    "0031": {
+      "school_name": "CAROLYN BEATRICE PARKER ELEMENTARY",
+      "total_classes": 471,
+      "in_field": 431,
+      "out_of_field": 40,
+      "pct_in_field": 0.91507430997,
+      "pct_out_of_field": 0.08492569002
+    },
+    "0041": {
+      "school_name": "STEPHEN FOSTER ELEMENTARY SCHOOL",
+      "total_classes": 314,
+      "in_field": 303,
+      "out_of_field": 11,
+      "pct_in_field": 0.96496815286,
+      "pct_out_of_field": 0.03503184713
+    },
+    "0052": {
+      "school_name": "A.QUINN JONES CENTER",
+      "total_classes": 244,
+      "in_field": 180,
+      "out_of_field": 64,
+      "pct_in_field": 0.73770491803,
+      "pct_out_of_field": 0.26229508196
+    },
+    "0071": {
+      "school_name": "LAKE FOREST ELEMENTARY SCHOOL",
+      "total_classes": 358,
+      "in_field": 330,
+      "out_of_field": 28,
+      "pct_in_field": 0.92178770949,
+      "pct_out_of_field": 0.0782122905
+    },
+    "0081": {
+      "school_name": "SIDNEY LANIER CENTER",
+      "total_classes": 408,
+      "in_field": 408,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0082": {
+      "school_name": "HOSPITAL HOMEBOUND",
+      "total_classes": 43,
+      "in_field": 43,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0091": {
+      "school_name": "LITTLEWOOD ELEMENTARY SCHOOL",
+      "total_classes": 830,
+      "in_field": 794,
+      "out_of_field": 36,
+      "pct_in_field": 0.95662650602,
+      "pct_out_of_field": 0.04337349397
+    },
+    "0101": {
+      "school_name": "W. A. METCALFE ELEMENTARY SCHOOL",
+      "total_classes": 259,
+      "in_field": 225,
+      "out_of_field": 34,
+      "pct_in_field": 0.86872586872,
+      "pct_out_of_field": 0.13127413127
+    },
+    "0111": {
+      "school_name": "JOSEPH WILLIAMS ELEMENTARY SCHOOL",
+      "total_classes": 475,
+      "in_field": 468,
+      "out_of_field": 7,
+      "pct_in_field": 0.98526315789,
+      "pct_out_of_field": 0.0147368421
+    },
+    "0112": {
+      "school_name": "ABRAHAM LINCOLN MIDDLE SCHOOL",
+      "total_classes": 236,
+      "in_field": 202,
+      "out_of_field": 34,
+      "pct_in_field": 0.85593220338,
+      "pct_out_of_field": 0.14406779661
+    },
+    "0121": {
+      "school_name": "HOWARD W. BISHOP MIDDLE SCHOOL",
+      "total_classes": 230,
+      "in_field": 230,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0141": {
+      "school_name": "WESTWOOD MIDDLE SCHOOL",
+      "total_classes": 357,
+      "in_field": 343,
+      "out_of_field": 14,
+      "pct_in_field": 0.96078431372,
+      "pct_out_of_field": 0.03921568627
+    },
+    "0151": {
+      "school_name": "GAINESVILLE HIGH SCHOOL",
+      "total_classes": 719,
+      "in_field": 679,
+      "out_of_field": 40,
+      "pct_in_field": 0.94436717663,
+      "pct_out_of_field": 0.05563282336
+    },
+    "0161": {
+      "school_name": "ALACHUA ELEMENTARY SCHOOL",
+      "total_classes": 252,
+      "in_field": 222,
+      "out_of_field": 30,
+      "pct_in_field": 0.88095238095,
+      "pct_out_of_field": 0.11904761904
+    },
+    "0171": {
+      "school_name": "ARCHER ELEMENTARY",
+      "total_classes": 364,
+      "in_field": 302,
+      "out_of_field": 62,
+      "pct_in_field": 0.82967032967,
+      "pct_out_of_field": 0.17032967032
+    },
+    "0201": {
+      "school_name": "HAWTHORNE MIDDLE/HIGH SCHOOL",
+      "total_classes": 193,
+      "in_field": 190,
+      "out_of_field": 3,
+      "pct_in_field": 0.98445595854,
+      "pct_out_of_field": 0.01554404145
+    },
+    "0221": {
+      "school_name": "A. L. MEBANE MIDDLE SCHOOL",
+      "total_classes": 175,
+      "in_field": 153,
+      "out_of_field": 22,
+      "pct_in_field": 0.87428571428,
+      "pct_out_of_field": 0.12571428571
+    },
+    "0261": {
+      "school_name": "NEWBERRY HIGH SCHOOL",
+      "total_classes": 314,
+      "in_field": 311,
+      "out_of_field": 3,
+      "pct_in_field": 0.99044585987,
+      "pct_out_of_field": 0.00955414012
+    },
+    "0271": {
+      "school_name": "SANTA FE HIGH SCHOOL",
+      "total_classes": 446,
+      "in_field": 444,
+      "out_of_field": 2,
+      "pct_in_field": 0.99551569506,
+      "pct_out_of_field": 0.00448430493
+    },
+    "0281": {
+      "school_name": "CHESTER SHELL ELEMENTARY SCHOOL",
+      "total_classes": 329,
+      "in_field": 300,
+      "out_of_field": 29,
+      "pct_in_field": 0.91185410334,
+      "pct_out_of_field": 0.08814589665
+    },
+    "0311": {
+      "school_name": "MYRA TERWILLIGER ELEMENTARY SCHOOL",
+      "total_classes": 413,
+      "in_field": 406,
+      "out_of_field": 7,
+      "pct_in_field": 0.98305084745,
+      "pct_out_of_field": 0.01694915254
+    },
+    "0321": {
+      "school_name": "IDYLWILD ELEMENTARY SCHOOL",
+      "total_classes": 580,
+      "in_field": 566,
+      "out_of_field": 14,
+      "pct_in_field": 0.97586206896,
+      "pct_out_of_field": 0.02413793103
+    },
+    "0331": {
+      "school_name": "GLEN SPRINGS ELEMENTARY SCHOOL",
+      "total_classes": 237,
+      "in_field": 230,
+      "out_of_field": 7,
+      "pct_in_field": 0.97046413502,
+      "pct_out_of_field": 0.02953586497
+    },
+    "0341": {
+      "school_name": "MARJORIE KINNAN RAWLINGS ELEMENTARY SCHOOL",
+      "total_classes": 350,
+      "in_field": 350,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0411": {
+      "school_name": "PROFESSIONAL ACADEMY MAGNET AT LOFTEN HIGH SCHOOL",
+      "total_classes": 88,
+      "in_field": 78,
+      "out_of_field": 10,
+      "pct_in_field": 0.88636363636,
+      "pct_out_of_field": 0.11363636363
+    },
+    "0421": {
+      "school_name": "EASTSIDE HIGH SCHOOL",
+      "total_classes": 512,
+      "in_field": 470,
+      "out_of_field": 42,
+      "pct_in_field": 0.91796875,
+      "pct_out_of_field": 0.08203125
+    },
+    "0431": {
+      "school_name": "F. W. BUCHHOLZ HIGH SCHOOL",
+      "total_classes": 790,
+      "in_field": 783,
+      "out_of_field": 7,
+      "pct_in_field": 0.9911392405,
+      "pct_out_of_field": 0.00886075949
+    },
+    "0461": {
+      "school_name": "HIGH SPRINGS COMMUNITY SCHOOL",
+      "total_classes": 618,
+      "in_field": 569,
+      "out_of_field": 49,
+      "pct_in_field": 0.92071197411,
+      "pct_out_of_field": 0.07928802588
+    },
+    "0481": {
+      "school_name": "FORT CLARKE MIDDLE SCHOOL",
+      "total_classes": 287,
+      "in_field": 249,
+      "out_of_field": 38,
+      "pct_in_field": 0.86759581881,
+      "pct_out_of_field": 0.13240418118
+    },
+    "0482": {
+      "school_name": "HIDDEN OAK ELEMENTARY SCHOOL",
+      "total_classes": 640,
+      "in_field": 614,
+      "out_of_field": 26,
+      "pct_in_field": 0.959375,
+      "pct_out_of_field": 0.040625
+    },
+    "0501": {
+      "school_name": "KIMBALL WILES ELEMENTARY SCHOOL",
+      "total_classes": 619,
+      "in_field": 619,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0502": {
+      "school_name": "KANAPAHA MIDDLE SCHOOL",
+      "total_classes": 338,
+      "in_field": 318,
+      "out_of_field": 20,
+      "pct_in_field": 0.94082840236,
+      "pct_out_of_field": 0.05917159763
+    },
+    "0510": {
+      "school_name": "LAWTON M. CHILES ELEMENTARY SCHOOL",
+      "total_classes": 568,
+      "in_field": 558,
+      "out_of_field": 10,
+      "pct_in_field": 0.98239436619,
+      "pct_out_of_field": 0.0176056338
+    },
+    "0520": {
+      "school_name": "MEADOWBROOK ELEMENTARY SCHOOL",
+      "total_classes": 642,
+      "in_field": 572,
+      "out_of_field": 70,
+      "pct_in_field": 0.89096573208,
+      "pct_out_of_field": 0.10903426791
+    },
+    "0531": {
+      "school_name": "NEWBERRY ELEMENTARY SCHOOL",
+      "total_classes": 442,
+      "in_field": 436,
+      "out_of_field": 6,
+      "pct_in_field": 0.98642533936,
+      "pct_out_of_field": 0.01357466063
+    },
+    "0541": {
+      "school_name": "C. W. NORTON ELEMENTARY SCHOOL",
+      "total_classes": 529,
+      "in_field": 468,
+      "out_of_field": 61,
+      "pct_in_field": 0.88468809073,
+      "pct_out_of_field": 0.11531190926
+    },
+    "0561": {
+      "school_name": "WILLIAM S. TALBOT ELEM SCHOOL",
+      "total_classes": 625,
+      "in_field": 595,
+      "out_of_field": 30,
+      "pct_in_field": 0.952,
+      "pct_out_of_field": 0.048
+    },
+    "0571": {
+      "school_name": "W. W. IRBY ELEMENTARY SCHOOL",
+      "total_classes": 304,
+      "in_field": 295,
+      "out_of_field": 9,
+      "pct_in_field": 0.97039473684,
+      "pct_out_of_field": 0.02960526315
+    },
+    "0591": {
+      "school_name": "OAK VIEW MIDDLE SCHOOL",
+      "total_classes": 326,
+      "in_field": 309,
+      "out_of_field": 17,
+      "pct_in_field": 0.94785276073,
+      "pct_out_of_field": 0.05214723926
+    },
+    "0602": {
+      "school_name": "ALACHUA ACADEMY",
+      "total_classes": 25,
+      "in_field": 4,
+      "out_of_field": 21,
+      "pct_in_field": 0.16,
+      "pct_out_of_field": 0.84
+    },
+    "0603": {
+      "school_name": "AMIKIDS",
+      "total_classes": 63,
+      "in_field": 41,
+      "out_of_field": 22,
+      "pct_in_field": 0.65079365079,
+      "pct_out_of_field": 0.3492063492
+    },
+    "0604": {
+      "school_name": "PACE",
+      "total_classes": 106,
+      "in_field": 106,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0924": {
+      "school_name": "SANTA FE COLLEGE HIGH SCHOOL DUAL ENROLLMENT",
+      "total_classes": 20,
+      "in_field": 20,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0950": {
+      "school_name": "THE ONE ROOM SCHOOL HOUSE PROJECT",
+      "total_classes": 76,
+      "in_field": 76,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0951": {
+      "school_name": "MICANOPY AREA COOPERATIVE SCHOOL, INC.",
+      "total_classes": 90,
+      "in_field": 90,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0953": {
+      "school_name": "CARING & SHARING LEARNING SCHOOL",
+      "total_classes": 73,
+      "in_field": 70,
+      "out_of_field": 3,
+      "pct_in_field": 0.95890410958,
+      "pct_out_of_field": 0.04109589041
+    },
+    "0955": {
+      "school_name": "THE EINSTEIN SCHOOL, INC.",
+      "total_classes": 74,
+      "in_field": 69,
+      "out_of_field": 5,
+      "pct_in_field": 0.93243243243,
+      "pct_out_of_field": 0.06756756756
+    },
+    "0956": {
+      "school_name": "EXPRESSIONS LEARNING ARTS ACADEMY",
+      "total_classes": 57,
+      "in_field": 57,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0957": {
+      "school_name": "ALACHUA LEARNING ACADEMY ELEMENTARY",
+      "total_classes": 45,
+      "in_field": 45,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0961": {
+      "school_name": "MICANOPY  ACADEMY",
+      "total_classes": 56,
+      "in_field": 56,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0981": {
+      "school_name": "HEALTHY LEARNING ACADEMY CHARTER SCHOOL",
+      "total_classes": 56,
+      "in_field": 56,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0991": {
+      "school_name": "SIATECH AT GAINESVILLE",
+      "total_classes": 193,
+      "in_field": 193,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "1003": {
+      "school_name": "NORTH CENTRAL FLORIDA PUBLIC CHARTER SCHOOL",
+      "total_classes": 157,
+      "in_field": 157,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "1011": {
+      "school_name": "ALACHUA LEARNING ACADEMY MIDDLE",
+      "total_classes": 31,
+      "in_field": 28,
+      "out_of_field": 3,
+      "pct_in_field": 0.90322580645,
+      "pct_out_of_field": 0.09677419354
+    },
+    "1012": {
+      "school_name": "BOULWARE SPRINGS CHARTER",
+      "total_classes": 72,
+      "in_field": 72,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "1013": {
+      "school_name": "RESILIENCE CHARTER SCHOOL INC",
+      "total_classes": 33,
+      "in_field": 33,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "7004": {
+      "school_name": "ALACHUA ESCHOOL (VIRTUAL FRANCHISE)",
+      "total_classes": 250,
+      "in_field": 250,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "7023": {
+      "school_name": "ALACHUA VIRTUAL INSTRUCTION PROGRAM (DISTRICT PROVIDED)",
+      "total_classes": 192,
+      "in_field": 192,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "9029": {
+      "school_name": "ALACHUA REGIONAL JUVENILE DETENTION CENTER",
+      "total_classes": 71,
+      "in_field": 42,
+      "out_of_field": 29,
+      "pct_in_field": 0.59154929577,
+      "pct_out_of_field": 0.40845070422
+    }
+  },
+  "2021-22": {
+    "0031": {
+      "school_name": "CAROLYN BEATRICE PARKER ELEMENTARY",
+      "total_classes": 434,
+      "in_field": 411,
+      "out_of_field": 23,
+      "pct_in_field": 0.94700460829,
+      "pct_out_of_field": 0.0529953917
+    },
+    "0041": {
+      "school_name": "STEPHEN FOSTER ELEMENTARY SCHOOL",
+      "total_classes": 347,
+      "in_field": 340,
+      "out_of_field": 7,
+      "pct_in_field": 0.97982708933,
+      "pct_out_of_field": 0.02017291066
+    },
+    "0052": {
+      "school_name": "A.QUINN JONES CENTER",
+      "total_classes": 220,
+      "in_field": 203,
+      "out_of_field": 17,
+      "pct_in_field": 0.92272727272,
+      "pct_out_of_field": 0.07727272727
+    },
+    "0071": {
+      "school_name": "LAKE FOREST ELEMENTARY SCHOOL",
+      "total_classes": 325,
+      "in_field": 321,
+      "out_of_field": 4,
+      "pct_in_field": 0.98769230769,
+      "pct_out_of_field": 0.0123076923
+    },
+    "0081": {
+      "school_name": "SIDNEY LANIER CENTER",
+      "total_classes": 331,
+      "in_field": 331,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0082": {
+      "school_name": "HOSPITAL HOMEBOUND",
+      "total_classes": 60,
+      "in_field": 60,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0091": {
+      "school_name": "LITTLEWOOD ELEMENTARY SCHOOL",
+      "total_classes": 791,
+      "in_field": 720,
+      "out_of_field": 71,
+      "pct_in_field": 0.91024020227,
+      "pct_out_of_field": 0.08975979772
+    },
+    "0101": {
+      "school_name": "W. A. METCALFE ELEMENTARY SCHOOL",
+      "total_classes": 260,
+      "in_field": 242,
+      "out_of_field": 18,
+      "pct_in_field": 0.93076923076,
+      "pct_out_of_field": 0.06923076923
+    },
+    "0111": {
+      "school_name": "JOSEPH WILLIAMS ELEMENTARY SCHOOL",
+      "total_classes": 411,
+      "in_field": 378,
+      "out_of_field": 33,
+      "pct_in_field": 0.91970802919,
+      "pct_out_of_field": 0.0802919708
+    },
+    "0112": {
+      "school_name": "ABRAHAM LINCOLN MIDDLE SCHOOL",
+      "total_classes": 251,
+      "in_field": 209,
+      "out_of_field": 42,
+      "pct_in_field": 0.8326693227,
+      "pct_out_of_field": 0.16733067729
+    },
+    "0121": {
+      "school_name": "HOWARD W. BISHOP MIDDLE SCHOOL",
+      "total_classes": 232,
+      "in_field": 220,
+      "out_of_field": 12,
+      "pct_in_field": 0.94827586206,
+      "pct_out_of_field": 0.05172413793
+    },
+    "0141": {
+      "school_name": "WESTWOOD MIDDLE SCHOOL",
+      "total_classes": 343,
+      "in_field": 341,
+      "out_of_field": 2,
+      "pct_in_field": 0.9941690962,
+      "pct_out_of_field": 0.00583090379
+    },
+    "0151": {
+      "school_name": "GAINESVILLE HIGH SCHOOL",
+      "total_classes": 769,
+      "in_field": 751,
+      "out_of_field": 18,
+      "pct_in_field": 0.97659297789,
+      "pct_out_of_field": 0.0234070221
+    },
+    "0161": {
+      "school_name": "ALACHUA ELEMENTARY SCHOOL",
+      "total_classes": 287,
+      "in_field": 262,
+      "out_of_field": 25,
+      "pct_in_field": 0.91289198606,
+      "pct_out_of_field": 0.08710801393
+    },
+    "0171": {
+      "school_name": "ARCHER ELEMENTARY",
+      "total_classes": 345,
+      "in_field": 345,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0201": {
+      "school_name": "HAWTHORNE MIDDLE/HIGH SCHOOL",
+      "total_classes": 209,
+      "in_field": 206,
+      "out_of_field": 3,
+      "pct_in_field": 0.98564593301,
+      "pct_out_of_field": 0.01435406698
+    },
+    "0221": {
+      "school_name": "A. L. MEBANE MIDDLE SCHOOL",
+      "total_classes": 168,
+      "in_field": 159,
+      "out_of_field": 9,
+      "pct_in_field": 0.94642857142,
+      "pct_out_of_field": 0.05357142857
+    },
+    "0261": {
+      "school_name": "NEWBERRY HIGH SCHOOL",
+      "total_classes": 263,
+      "in_field": 246,
+      "out_of_field": 17,
+      "pct_in_field": 0.93536121673,
+      "pct_out_of_field": 0.06463878326
+    },
+    "0271": {
+      "school_name": "SANTA FE HIGH SCHOOL",
+      "total_classes": 462,
+      "in_field": 461,
+      "out_of_field": 1,
+      "pct_in_field": 0.99783549783,
+      "pct_out_of_field": 0.00216450216
+    },
+    "0281": {
+      "school_name": "CHESTER SHELL ELEMENTARY SCHOOL",
+      "total_classes": 263,
+      "in_field": 263,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0311": {
+      "school_name": "MYRA TERWILLIGER ELEMENTARY SCHOOL",
+      "total_classes": 448,
+      "in_field": 438,
+      "out_of_field": 10,
+      "pct_in_field": 0.97767857142,
+      "pct_out_of_field": 0.02232142857
+    },
+    "0321": {
+      "school_name": "IDYLWILD ELEMENTARY SCHOOL",
+      "total_classes": 650,
+      "in_field": 558,
+      "out_of_field": 92,
+      "pct_in_field": 0.85846153846,
+      "pct_out_of_field": 0.14153846153
+    },
+    "0331": {
+      "school_name": "GLEN SPRINGS ELEMENTARY SCHOOL",
+      "total_classes": 357,
+      "in_field": 315,
+      "out_of_field": 42,
+      "pct_in_field": 0.88235294117,
+      "pct_out_of_field": 0.11764705882
+    },
+    "0341": {
+      "school_name": "MARJORIE KINNAN RAWLINGS ELEMENTARY SCHOOL",
+      "total_classes": 337,
+      "in_field": 337,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0411": {
+      "school_name": "PROFESSIONAL ACADEMY MAGNET AT LOFTEN HIGH SCHOOL",
+      "total_classes": 83,
+      "in_field": 83,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0421": {
+      "school_name": "EASTSIDE HIGH SCHOOL",
+      "total_classes": 562,
+      "in_field": 553,
+      "out_of_field": 9,
+      "pct_in_field": 0.98398576512,
+      "pct_out_of_field": 0.01601423487
+    },
+    "0431": {
+      "school_name": "F. W. BUCHHOLZ HIGH SCHOOL",
+      "total_classes": 695,
+      "in_field": 670,
+      "out_of_field": 25,
+      "pct_in_field": 0.96402877697,
+      "pct_out_of_field": 0.03597122302
+    },
+    "0461": {
+      "school_name": "HIGH SPRINGS COMMUNITY SCHOOL",
+      "total_classes": 587,
+      "in_field": 587,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0481": {
+      "school_name": "FORT CLARKE MIDDLE SCHOOL",
+      "total_classes": 323,
+      "in_field": 313,
+      "out_of_field": 10,
+      "pct_in_field": 0.96904024767,
+      "pct_out_of_field": 0.03095975232
+    },
+    "0482": {
+      "school_name": "HIDDEN OAK ELEMENTARY SCHOOL",
+      "total_classes": 669,
+      "in_field": 652,
+      "out_of_field": 17,
+      "pct_in_field": 0.97458893871,
+      "pct_out_of_field": 0.02541106128
+    },
+    "0501": {
+      "school_name": "KIMBALL WILES ELEMENTARY SCHOOL",
+      "total_classes": 622,
+      "in_field": 610,
+      "out_of_field": 12,
+      "pct_in_field": 0.98070739549,
+      "pct_out_of_field": 0.0192926045
+    },
+    "0502": {
+      "school_name": "KANAPAHA MIDDLE SCHOOL",
+      "total_classes": 335,
+      "in_field": 304,
+      "out_of_field": 31,
+      "pct_in_field": 0.90746268656,
+      "pct_out_of_field": 0.09253731343
+    },
+    "0510": {
+      "school_name": "LAWTON M. CHILES ELEMENTARY SCHOOL",
+      "total_classes": 537,
+      "in_field": 530,
+      "out_of_field": 7,
+      "pct_in_field": 0.98696461824,
+      "pct_out_of_field": 0.01303538175
+    },
+    "0520": {
+      "school_name": "MEADOWBROOK ELEMENTARY SCHOOL",
+      "total_classes": 677,
+      "in_field": 676,
+      "out_of_field": 1,
+      "pct_in_field": 0.99852289512,
+      "pct_out_of_field": 0.00147710487
+    },
+    "0531": {
+      "school_name": "NEWBERRY ELEMENTARY SCHOOL",
+      "total_classes": 485,
+      "in_field": 481,
+      "out_of_field": 4,
+      "pct_in_field": 0.99175257731,
+      "pct_out_of_field": 0.00824742268
+    },
+    "0541": {
+      "school_name": "C. W. NORTON ELEMENTARY SCHOOL",
+      "total_classes": 481,
+      "in_field": 447,
+      "out_of_field": 34,
+      "pct_in_field": 0.92931392931,
+      "pct_out_of_field": 0.07068607068
+    },
+    "0561": {
+      "school_name": "WILLIAM S. TALBOT ELEM SCHOOL",
+      "total_classes": 653,
+      "in_field": 644,
+      "out_of_field": 9,
+      "pct_in_field": 0.98621745788,
+      "pct_out_of_field": 0.01378254211
+    },
+    "0571": {
+      "school_name": "W. W. IRBY ELEMENTARY SCHOOL",
+      "total_classes": 319,
+      "in_field": 318,
+      "out_of_field": 1,
+      "pct_in_field": 0.99686520376,
+      "pct_out_of_field": 0.00313479623
+    },
+    "0591": {
+      "school_name": "OAK VIEW MIDDLE SCHOOL",
+      "total_classes": 332,
+      "in_field": 332,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0602": {
+      "school_name": "ALACHUA ACADEMY",
+      "total_classes": 13,
+      "in_field": 13,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0603": {
+      "school_name": "AMIKIDS",
+      "total_classes": 43,
+      "in_field": 43,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0604": {
+      "school_name": "PACE",
+      "total_classes": 86,
+      "in_field": 86,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0924": {
+      "school_name": "SANTA FE COLLEGE HIGH SCHOOL DUAL ENROLLMENT",
+      "total_classes": 24,
+      "in_field": 24,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0950": {
+      "school_name": "THE ONE ROOM SCHOOL HOUSE PROJECT",
+      "total_classes": 68,
+      "in_field": 68,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0951": {
+      "school_name": "MICANOPY AREA COOPERATIVE SCHOOL, INC.",
+      "total_classes": 93,
+      "in_field": 93,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0953": {
+      "school_name": "CARING & SHARING LEARNING SCHOOL",
+      "total_classes": 73,
+      "in_field": 73,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0955": {
+      "school_name": "THE EINSTEIN SCHOOL, INC.",
+      "total_classes": 72,
+      "in_field": 72,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0956": {
+      "school_name": "EXPRESSIONS LEARNING ARTS ACADEMY",
+      "total_classes": 57,
+      "in_field": 51,
+      "out_of_field": 6,
+      "pct_in_field": 0.8947368421,
+      "pct_out_of_field": 0.10526315789
+    },
+    "0957": {
+      "school_name": "ALACHUA LEARNING ACADEMY ELEMENTARY",
+      "total_classes": 45,
+      "in_field": 45,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0961": {
+      "school_name": "MICANOPY ACADEMY",
+      "total_classes": 54,
+      "in_field": 54,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0981": {
+      "school_name": "HEALTHY LEARNING ACADEMY CHARTER SCHOOL",
+      "total_classes": 58,
+      "in_field": 58,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0991": {
+      "school_name": "SIATECH AT GAINESVILLE",
+      "total_classes": 163,
+      "in_field": 163,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "1003": {
+      "school_name": "NORTH CENTRAL FLORIDA PUBLIC CHARTER SCHOOL",
+      "total_classes": 115,
+      "in_field": 115,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "1011": {
+      "school_name": "ALACHUA LEARNING ACADEMY MIDDLE",
+      "total_classes": 22,
+      "in_field": 18,
+      "out_of_field": 4,
+      "pct_in_field": 0.81818181818,
+      "pct_out_of_field": 0.18181818181
+    },
+    "1012": {
+      "school_name": "BOULWARE SPRINGS CHARTER",
+      "total_classes": 93,
+      "in_field": 93,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "1013": {
+      "school_name": "RESILIENCE CHARTER SCHOOL INC",
+      "total_classes": 50,
+      "in_field": 50,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "7004": {
+      "school_name": "ALACHUA ESCHOOL (VIRTUAL FRANCHISE)",
+      "total_classes": 174,
+      "in_field": 174,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "7023": {
+      "school_name": "ALACHUA VIRTUAL INSTRUCTION PROGRAM (DISTRICT PROVIDED)",
+      "total_classes": 48,
+      "in_field": 48,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "9029": {
+      "school_name": "ALACHUA REGIONAL JUVENILE DETENTION CENTER",
+      "total_classes": 35,
+      "in_field": 35,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    }
+  },
+  "2022-23": {
+    "0031": {
+      "school_name": "CAROLYN BEATRICE PARKER ELEMENTARY",
+      "total_classes": 367,
+      "in_field": 332,
+      "out_of_field": 35,
+      "pct_in_field": 0.904632152588556,
+      "pct_out_of_field": 0.09536784741144416
+    },
+    "0041": {
+      "school_name": "STEPHEN FOSTER ELEMENTARY SCHOOL",
+      "total_classes": 326,
+      "in_field": 312,
+      "out_of_field": 14,
+      "pct_in_field": 0.9570552147239264,
+      "pct_out_of_field": 0.0429447852760736
+    },
+    "0052": {
+      "school_name": "A.QUINN JONES CENTER",
+      "total_classes": 206,
+      "in_field": 199,
+      "out_of_field": 7,
+      "pct_in_field": 0.9660194174757283,
+      "pct_out_of_field": 0.03398058252427183
+    },
+    "0071": {
+      "school_name": "LAKE FOREST ELEMENTARY SCHOOL",
+      "total_classes": 291,
+      "in_field": 271,
+      "out_of_field": 20,
+      "pct_in_field": 0.9312714776632303,
+      "pct_out_of_field": 0.06872852233676977
+    },
+    "0081": {
+      "school_name": "SIDNEY LANIER CENTER",
+      "total_classes": 350,
+      "in_field": 350,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0082": {
+      "school_name": "HOSPITAL HOMEBOUND",
+      "total_classes": 50,
+      "in_field": 50,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0091": {
+      "school_name": "LITTLEWOOD ELEMENTARY SCHOOL",
+      "total_classes": 780,
+      "in_field": 728,
+      "out_of_field": 52,
+      "pct_in_field": 0.9333333333333336,
+      "pct_out_of_field": 0.06666666666666665
+    },
+    "0101": {
+      "school_name": "W. A. METCALFE ELEMENTARY SCHOOL",
+      "total_classes": 425,
+      "in_field": 376,
+      "out_of_field": 49,
+      "pct_in_field": 0.8847058823529411,
+      "pct_out_of_field": 0.11529411764705882
+    },
+    "0111": {
+      "school_name": "JOSEPH WILLIAMS ELEMENTARY SCHOOL",
+      "total_classes": 411,
+      "in_field": 404,
+      "out_of_field": 7,
+      "pct_in_field": 0.9829683698296835,
+      "pct_out_of_field": 0.017031630170316305
+    },
+    "0112": {
+      "school_name": "ABRAHAM LINCOLN MIDDLE SCHOOL",
+      "total_classes": 247,
+      "in_field": 226,
+      "out_of_field": 21,
+      "pct_in_field": 0.9149797570850204,
+      "pct_out_of_field": 0.08502024291497974
+    },
+    "0121": {
+      "school_name": "HOWARD W. BISHOP MIDDLE SCHOOL",
+      "total_classes": 262,
+      "in_field": 262,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0141": {
+      "school_name": "WESTWOOD MIDDLE SCHOOL",
+      "total_classes": 337,
+      "in_field": 332,
+      "out_of_field": 5,
+      "pct_in_field": 0.9851632047477747,
+      "pct_out_of_field": 0.014836795252225523
+    },
+    "0151": {
+      "school_name": "GAINESVILLE HIGH SCHOOL",
+      "total_classes": 768,
+      "in_field": 755,
+      "out_of_field": 13,
+      "pct_in_field": 0.9830729166666664,
+      "pct_out_of_field": 0.01692708333333333
+    },
+    "0161": {
+      "school_name": "ALACHUA ELEMENTARY SCHOOL",
+      "total_classes": 273,
+      "in_field": 253,
+      "out_of_field": 20,
+      "pct_in_field": 0.9267399267399267,
+      "pct_out_of_field": 0.07326007326007326
+    },
+    "0171": {
+      "school_name": "ARCHER ELEMENTARY",
+      "total_classes": 302,
+      "in_field": 302,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0201": {
+      "school_name": "HAWTHORNE MIDDLE/HIGH SCHOOL",
+      "total_classes": 243,
+      "in_field": 231,
+      "out_of_field": 12,
+      "pct_in_field": 0.9506172839506173,
+      "pct_out_of_field": 0.04938271604938272
+    },
+    "0221": {
+      "school_name": "A. L. MEBANE MIDDLE SCHOOL",
+      "total_classes": 141,
+      "in_field": 123,
+      "out_of_field": 18,
+      "pct_in_field": 0.8723404255319152,
+      "pct_out_of_field": 0.12765957446808507
+    },
+    "0261": {
+      "school_name": "NEWBERRY HIGH SCHOOL",
+      "total_classes": 323,
+      "in_field": 323,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0271": {
+      "school_name": "SANTA FE HIGH SCHOOL",
+      "total_classes": 387,
+      "in_field": 387,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0281": {
+      "school_name": "CHESTER SHELL ELEMENTARY SCHOOL",
+      "total_classes": 229,
+      "in_field": 229,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0311": {
+      "school_name": "MYRA TERWILLIGER ELEMENTARY SCHOOL",
+      "total_classes": 499,
+      "in_field": 468,
+      "out_of_field": 31,
+      "pct_in_field": 0.9378757515030063,
+      "pct_out_of_field": 0.062124248496994
+    },
+    "0321": {
+      "school_name": "IDYLWILD ELEMENTARY SCHOOL",
+      "total_classes": 510,
+      "in_field": 485,
+      "out_of_field": 25,
+      "pct_in_field": 0.9509803921568633,
+      "pct_out_of_field": 0.04901960784313725
+    },
+    "0331": {
+      "school_name": "GLEN SPRINGS ELEMENTARY SCHOOL",
+      "total_classes": 303,
+      "in_field": 296,
+      "out_of_field": 7,
+      "pct_in_field": 0.9768976897689773,
+      "pct_out_of_field": 0.0231023102310231
+    },
+    "0341": {
+      "school_name": "MARJORIE KINNAN RAWLINGS ELEMENTARY SCHOOL",
+      "total_classes": 345,
+      "in_field": 333,
+      "out_of_field": 12,
+      "pct_in_field": 0.9652173913043478,
+      "pct_out_of_field": 0.034782608695652174
+    },
+    "0411": {
+      "school_name": "PROFESSIONAL ACADEMY MAGNET AT LOFTEN HIGH SCHOOL",
+      "total_classes": 83,
+      "in_field": 83,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0421": {
+      "school_name": "EASTSIDE HIGH SCHOOL",
+      "total_classes": 520,
+      "in_field": 477,
+      "out_of_field": 43,
+      "pct_in_field": 0.9173076923076922,
+      "pct_out_of_field": 0.08269230769230768
+    },
+    "0431": {
+      "school_name": "F. W. BUCHHOLZ HIGH SCHOOL",
+      "total_classes": 642,
+      "in_field": 620,
+      "out_of_field": 22,
+      "pct_in_field": 0.9657320872274142,
+      "pct_out_of_field": 0.034267912772585674
+    },
+    "0461": {
+      "school_name": "HIGH SPRINGS COMMUNITY SCHOOL",
+      "total_classes": 601,
+      "in_field": 601,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0481": {
+      "school_name": "FORT CLARKE MIDDLE SCHOOL",
+      "total_classes": 305,
+      "in_field": 305,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0482": {
+      "school_name": "HIDDEN OAK ELEMENTARY SCHOOL",
+      "total_classes": 699,
+      "in_field": 698,
+      "out_of_field": 1,
+      "pct_in_field": 0.9985693848354796,
+      "pct_out_of_field": 0.001430615164520743
+    },
+    "0501": {
+      "school_name": "KIMBALL WILES ELEMENTARY SCHOOL",
+      "total_classes": 590,
+      "in_field": 553,
+      "out_of_field": 37,
+      "pct_in_field": 0.9372881355932204,
+      "pct_out_of_field": 0.06271186440677964
+    },
+    "0502": {
+      "school_name": "KANAPAHA MIDDLE SCHOOL",
+      "total_classes": 337,
+      "in_field": 309,
+      "out_of_field": 28,
+      "pct_in_field": 0.9169139465875374,
+      "pct_out_of_field": 0.08308605341246289
+    },
+    "0510": {
+      "school_name": "LAWTON M. CHILES ELEMENTARY SCHOOL",
+      "total_classes": 534,
+      "in_field": 534,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0520": {
+      "school_name": "MEADOWBROOK ELEMENTARY SCHOOL",
+      "total_classes": 682,
+      "in_field": 682,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0531": {
+      "school_name": "NEWBERRY ELEMENTARY SCHOOL",
+      "total_classes": 472,
+      "in_field": 466,
+      "out_of_field": 6,
+      "pct_in_field": 0.9872881355932205,
+      "pct_out_of_field": 0.01271186440677966
+    },
+    "0541": {
+      "school_name": "C. W. NORTON ELEMENTARY SCHOOL",
+      "total_classes": 408,
+      "in_field": 393,
+      "out_of_field": 15,
+      "pct_in_field": 0.9632352941176471,
+      "pct_out_of_field": 0.03676470588235294
+    },
+    "0561": {
+      "school_name": "WILLIAM S. TALBOT ELEM SCHOOL",
+      "total_classes": 518,
+      "in_field": 512,
+      "out_of_field": 6,
+      "pct_in_field": 0.9884169884169884,
+      "pct_out_of_field": 0.01158301158301158
+    },
+    "0571": {
+      "school_name": "W. W. IRBY ELEMENTARY SCHOOL",
+      "total_classes": 345,
+      "in_field": 345,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0591": {
+      "school_name": "OAK VIEW MIDDLE SCHOOL",
+      "total_classes": 342,
+      "in_field": 331,
+      "out_of_field": 11,
+      "pct_in_field": 0.9678362573099412,
+      "pct_out_of_field": 0.03216374269005848
+    },
+    "0601": {
+      "school_name": "CHALLENGE AT ALACHUA ACADEMY",
+      "total_classes": 39,
+      "in_field": 18,
+      "out_of_field": 21,
+      "pct_in_field": 0.4615384615384616,
+      "pct_out_of_field": 0.5384615384615382
+    },
+    "0603": {
+      "school_name": "AMIKIDS",
+      "total_classes": 25,
+      "in_field": 24,
+      "out_of_field": 1,
+      "pct_in_field": 0.96,
+      "pct_out_of_field": 0.04
+    },
+    "0604": {
+      "school_name": "PACE",
+      "total_classes": 89,
+      "in_field": 89,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0924": {
+      "school_name": "SANTA FE COLLEGE HIGH SCHOOL DUAL ENROLLMENT",
+      "total_classes": 21,
+      "in_field": 21,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0950": {
+      "school_name": "THE ONE ROOM SCHOOL HOUSE PROJECT",
+      "total_classes": 71,
+      "in_field": 67,
+      "out_of_field": 4,
+      "pct_in_field": 0.9436619718309858,
+      "pct_out_of_field": 0.05633802816901408
+    },
+    "0951": {
+      "school_name": "MICANOPY AREA COOPERATIVE SCHOOL, INC.",
+      "total_classes": 95,
+      "in_field": 91,
+      "out_of_field": 4,
+      "pct_in_field": 0.9578947368421056,
+      "pct_out_of_field": 0.04210526315789473
+    },
+    "0953": {
+      "school_name": "CARING & SHARING LEARNING SCHOOL",
+      "total_classes": 69,
+      "in_field": 69,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0955": {
+      "school_name": "THE EINSTEIN SCHOOL, INC.",
+      "total_classes": 83,
+      "in_field": 77,
+      "out_of_field": 6,
+      "pct_in_field": 0.9277108433734937,
+      "pct_out_of_field": 0.07228915662650602
+    },
+    "0956": {
+      "school_name": "EXPRESSIONS LEARNING ARTS ACADEMY",
+      "total_classes": 58,
+      "in_field": 52,
+      "out_of_field": 6,
+      "pct_in_field": 0.896551724137931,
+      "pct_out_of_field": 0.10344827586206898
+    },
+    "0957": {
+      "school_name": "ALACHUA LEARNING ACADEMY ELEMENTARY",
+      "total_classes": 45,
+      "in_field": 45,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0961": {
+      "school_name": "MICANOPY ACADEMY",
+      "total_classes": 67,
+      "in_field": 67,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0981": {
+      "school_name": "HEALTHY LEARNING ACADEMY CHARTER SCHOOL",
+      "total_classes": 51,
+      "in_field": 51,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0991": {
+      "school_name": "SIATECH MYCROSCHOOL, INC.",
+      "total_classes": 130,
+      "in_field": 130,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "1003": {
+      "school_name": "NORTH CENTRAL FLORIDA PUBLIC CHARTER SCHOOL",
+      "total_classes": 114,
+      "in_field": 114,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "1011": {
+      "school_name": "ALACHUA LEARNING ACADEMY MIDDLE",
+      "total_classes": 23,
+      "in_field": 22,
+      "out_of_field": 1,
+      "pct_in_field": 0.9565217391304349,
+      "pct_out_of_field": 0.043478260869565216
+    },
+    "1012": {
+      "school_name": "BOULWARE SPRINGS CHARTER",
+      "total_classes": 98,
+      "in_field": 98,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "1013": {
+      "school_name": "RESILIENCE CHARTER SCHOOL INC",
+      "total_classes": 48,
+      "in_field": 48,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "7004": {
+      "school_name": "ALACHUA ESCHOOL (VIRTUAL FRANCHISE)",
+      "total_classes": 160,
+      "in_field": 160,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "7023": {
+      "school_name": "ALACHUA VIRTUAL INSTRUCTION PROGRAM (DISTRICT PROVIDED)",
+      "total_classes": 36,
+      "in_field": 36,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "9025": {
+      "school_name": "ALACHUA REGIONAL JUEVNILE DETENTION CENTER",
+      "total_classes": 45,
+      "in_field": 22,
+      "out_of_field": 23,
+      "pct_in_field": 0.4888888888888889,
+      "pct_out_of_field": 0.5111111111111111
+    }
+  },
+  "2023-24": {
+    "0031": {
+      "school_name": "CAROLYN BEATRICE PARKER ELEMENTARY",
+      "total_classes": 365,
+      "in_field": 356,
+      "out_of_field": 9,
+      "pct_in_field": 0.9753424657534248,
+      "pct_out_of_field": 0.024657534246575352
+    },
+    "0041": {
+      "school_name": "STEPHEN FOSTER ELEMENTARY SCHOOL",
+      "total_classes": 300,
+      "in_field": 293,
+      "out_of_field": 7,
+      "pct_in_field": 0.9766666666666669,
+      "pct_out_of_field": 0.02333333333333334
+    },
+    "0052": {
+      "school_name": "A.QUINN JONES CENTER",
+      "total_classes": 139,
+      "in_field": 131,
+      "out_of_field": 8,
+      "pct_in_field": 0.9424460431654679,
+      "pct_out_of_field": 0.05755395683453236
+    },
+    "0071": {
+      "school_name": "LAKE FOREST ELEMENTARY SCHOOL",
+      "total_classes": 278,
+      "in_field": 272,
+      "out_of_field": 6,
+      "pct_in_field": 0.9784172661870503,
+      "pct_out_of_field": 0.021582733812949652
+    },
+    "0081": {
+      "school_name": "SIDNEY LANIER CENTER",
+      "total_classes": 362,
+      "in_field": 356,
+      "out_of_field": 6,
+      "pct_in_field": 0.9834254143646409,
+      "pct_out_of_field": 0.01657458563535912
+    },
+    "0082": {
+      "school_name": "HOSPITAL HOMEBOUND",
+      "total_classes": 35,
+      "in_field": 35,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0091": {
+      "school_name": "LITTLEWOOD ELEMENTARY SCHOOL",
+      "total_classes": 765,
+      "in_field": 674,
+      "out_of_field": 91,
+      "pct_in_field": 0.8810457516339872,
+      "pct_out_of_field": 0.11895424836601304
+    },
+    "0101": {
+      "school_name": "W. A. METCALFE ELEMENTARY SCHOOL",
+      "total_classes": 408,
+      "in_field": 387,
+      "out_of_field": 21,
+      "pct_in_field": 0.948529411764706,
+      "pct_out_of_field": 0.05147058823529413
+    },
+    "0111": {
+      "school_name": "JOSEPH WILLIAMS ELEMENTARY SCHOOL",
+      "total_classes": 414,
+      "in_field": 407,
+      "out_of_field": 7,
+      "pct_in_field": 0.9830917874396136,
+      "pct_out_of_field": 0.01690821256038647
+    },
+    "0112": {
+      "school_name": "ABRAHAM LINCOLN MIDDLE SCHOOL",
+      "total_classes": 265,
+      "in_field": 248,
+      "out_of_field": 17,
+      "pct_in_field": 0.9358490566037736,
+      "pct_out_of_field": 0.06415094339622641
+    },
+    "0121": {
+      "school_name": "HOWARD W. BISHOP MIDDLE SCHOOL",
+      "total_classes": 297,
+      "in_field": 294,
+      "out_of_field": 3,
+      "pct_in_field": 0.9898989898989897,
+      "pct_out_of_field": 0.010101010101010102
+    },
+    "0141": {
+      "school_name": "WESTWOOD MIDDLE SCHOOL",
+      "total_classes": 459,
+      "in_field": 431,
+      "out_of_field": 28,
+      "pct_in_field": 0.9389978213507624,
+      "pct_out_of_field": 0.06100217864923745
+    },
+    "0151": {
+      "school_name": "GAINESVILLE HIGH SCHOOL",
+      "total_classes": 803,
+      "in_field": 788,
+      "out_of_field": 15,
+      "pct_in_field": 0.9813200498132002,
+      "pct_out_of_field": 0.0186799501867995
+    },
+    "0161": {
+      "school_name": "ALACHUA ELEMENTARY SCHOOL",
+      "total_classes": 261,
+      "in_field": 226,
+      "out_of_field": 35,
+      "pct_in_field": 0.8659003831417622,
+      "pct_out_of_field": 0.1340996168582375
+    },
+    "0171": {
+      "school_name": "ARCHER ELEMENTARY",
+      "total_classes": 275,
+      "in_field": 275,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0201": {
+      "school_name": "HAWTHORNE MIDDLE/HIGH SCHOOL",
+      "total_classes": 258,
+      "in_field": 246,
+      "out_of_field": 12,
+      "pct_in_field": 0.9534883720930237,
+      "pct_out_of_field": 0.04651162790697675
+    },
+    "0221": {
+      "school_name": "A. L. MEBANE MIDDLE SCHOOL",
+      "total_classes": 221,
+      "in_field": 210,
+      "out_of_field": 11,
+      "pct_in_field": 0.9502262443438915,
+      "pct_out_of_field": 0.049773755656108594
+    },
+    "0261": {
+      "school_name": "NEWBERRY HIGH SCHOOL",
+      "total_classes": 328,
+      "in_field": 307,
+      "out_of_field": 21,
+      "pct_in_field": 0.9359756097560976,
+      "pct_out_of_field": 0.06402439024390244
+    },
+    "0271": {
+      "school_name": "SANTA FE HIGH SCHOOL",
+      "total_classes": 452,
+      "in_field": 452,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0281": {
+      "school_name": "CHESTER SHELL ELEMENTARY SCHOOL",
+      "total_classes": 261,
+      "in_field": 234,
+      "out_of_field": 27,
+      "pct_in_field": 0.896551724137931,
+      "pct_out_of_field": 0.10344827586206898
+    },
+    "0311": {
+      "school_name": "MYRA TERWILLIGER ELEMENTARY SCHOOL",
+      "total_classes": 517,
+      "in_field": 509,
+      "out_of_field": 8,
+      "pct_in_field": 0.9845261121856868,
+      "pct_out_of_field": 0.015473887814313345
+    },
+    "0321": {
+      "school_name": "IDYLWILD ELEMENTARY SCHOOL",
+      "total_classes": 536,
+      "in_field": 527,
+      "out_of_field": 9,
+      "pct_in_field": 0.9832089552238806,
+      "pct_out_of_field": 0.016791044776119413
+    },
+    "0331": {
+      "school_name": "GLEN SPRINGS ELEMENTARY SCHOOL",
+      "total_classes": 331,
+      "in_field": 331,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0341": {
+      "school_name": "MARJORIE KINNAN RAWLINGS ELEMENTARY SCHOOL",
+      "total_classes": 312,
+      "in_field": 259,
+      "out_of_field": 53,
+      "pct_in_field": 0.830128205128205,
+      "pct_out_of_field": 0.1698717948717949
+    },
+    "0411": {
+      "school_name": "PROFESSIONAL ACADEMY MAGNET AT LOFTEN HIGH SCHOOL",
+      "total_classes": 82,
+      "in_field": 82,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0421": {
+      "school_name": "EASTSIDE HIGH SCHOOL",
+      "total_classes": 486,
+      "in_field": 444,
+      "out_of_field": 42,
+      "pct_in_field": 0.9135802469135802,
+      "pct_out_of_field": 0.08641975308641975
+    },
+    "0431": {
+      "school_name": "F. W. BUCHHOLZ HIGH SCHOOL",
+      "total_classes": 746,
+      "in_field": 722,
+      "out_of_field": 24,
+      "pct_in_field": 0.9678284182305632,
+      "pct_out_of_field": 0.032171581769437005
+    },
+    "0461": {
+      "school_name": "HIGH SPRINGS COMMUNITY SCHOOL",
+      "total_classes": 579,
+      "in_field": 557,
+      "out_of_field": 22,
+      "pct_in_field": 0.9620034542314337,
+      "pct_out_of_field": 0.037996545768566495
+    },
+    "0481": {
+      "school_name": "FORT CLARKE MIDDLE SCHOOL",
+      "total_classes": 359,
+      "in_field": 352,
+      "out_of_field": 7,
+      "pct_in_field": 0.98050139275766,
+      "pct_out_of_field": 0.019498607242339823
+    },
+    "0482": {
+      "school_name": "HIDDEN OAK ELEMENTARY SCHOOL",
+      "total_classes": 683,
+      "in_field": 670,
+      "out_of_field": 13,
+      "pct_in_field": 0.9809663250366032,
+      "pct_out_of_field": 0.019033674963396776
+    },
+    "0501": {
+      "school_name": "KIMBALL WILES ELEMENTARY SCHOOL",
+      "total_classes": 588,
+      "in_field": 559,
+      "out_of_field": 29,
+      "pct_in_field": 0.9506802721088439,
+      "pct_out_of_field": 0.04931972789115644
+    },
+    "0502": {
+      "school_name": "KANAPAHA MIDDLE SCHOOL",
+      "total_classes": 466,
+      "in_field": 425,
+      "out_of_field": 41,
+      "pct_in_field": 0.9120171673819744,
+      "pct_out_of_field": 0.08798283261802574
+    },
+    "0510": {
+      "school_name": "LAWTON M. CHILES ELEMENTARY SCHOOL",
+      "total_classes": 523,
+      "in_field": 522,
+      "out_of_field": 1,
+      "pct_in_field": 0.9980879541108986,
+      "pct_out_of_field": 0.001912045889101338
+    },
+    "0520": {
+      "school_name": "MEADOWBROOK ELEMENTARY SCHOOL",
+      "total_classes": 781,
+      "in_field": 775,
+      "out_of_field": 6,
+      "pct_in_field": 0.9923175416133165,
+      "pct_out_of_field": 0.007682458386683739
+    },
+    "0531": {
+      "school_name": "NEWBERRY ELEMENTARY SCHOOL",
+      "total_classes": 520,
+      "in_field": 498,
+      "out_of_field": 22,
+      "pct_in_field": 0.9576923076923078,
+      "pct_out_of_field": 0.04230769230769233
+    },
+    "0541": {
+      "school_name": "C. W. NORTON ELEMENTARY SCHOOL",
+      "total_classes": 406,
+      "in_field": 399,
+      "out_of_field": 7,
+      "pct_in_field": 0.982758620689655,
+      "pct_out_of_field": 0.017241379310344827
+    },
+    "0561": {
+      "school_name": "WILLIAM S. TALBOT ELEM SCHOOL",
+      "total_classes": 518,
+      "in_field": 516,
+      "out_of_field": 2,
+      "pct_in_field": 0.9961389961389961,
+      "pct_out_of_field": 0.0038610038610038607
+    },
+    "0571": {
+      "school_name": "W. W. IRBY ELEMENTARY SCHOOL",
+      "total_classes": 319,
+      "in_field": 319,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0591": {
+      "school_name": "OAK VIEW MIDDLE SCHOOL",
+      "total_classes": 341,
+      "in_field": 339,
+      "out_of_field": 2,
+      "pct_in_field": 0.9941348973607038,
+      "pct_out_of_field": 0.005865102639296188
+    },
+    "0601": {
+      "school_name": "CHALLENGE AT ALACHUA ACADEMY",
+      "total_classes": 70,
+      "in_field": 54,
+      "out_of_field": 16,
+      "pct_in_field": 0.7714285714285712,
+      "pct_out_of_field": 0.22857142857142848
+    },
+    "0603": {
+      "school_name": "AMIKIDS",
+      "total_classes": 62,
+      "in_field": 62,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0604": {
+      "school_name": "PACE",
+      "total_classes": 98,
+      "in_field": 98,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0922": {
+      "school_name": "SANTA FE COLLEGE ACADEMY OF SCIENCE AND TECHNOLOGY",
+      "total_classes": 21,
+      "in_field": 20,
+      "out_of_field": 1,
+      "pct_in_field": 0.9523809523809528,
+      "pct_out_of_field": 0.04761904761904764
+    },
+    "0924": {
+      "school_name": "SANTA FE COLLEGE HIGH SCHOOL DUAL ENROLLMENT",
+      "total_classes": 14,
+      "in_field": 14,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0925": {
+      "school_name": "CONSTELLATION CHARTER SCHOOL OF GAINESVILLE",
+      "total_classes": 67,
+      "in_field": 45,
+      "out_of_field": 22,
+      "pct_in_field": 0.6716417910447765,
+      "pct_out_of_field": 0.3283582089552238
+    },
+    "0950": {
+      "school_name": "THE ONE ROOM SCHOOL HOUSE PROJECT",
+      "total_classes": 60,
+      "in_field": 60,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0951": {
+      "school_name": "MICANOPY AREA COOPERATIVE SCHOOL, INC.",
+      "total_classes": 94,
+      "in_field": 94,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0953": {
+      "school_name": "CARING & SHARING LEARNING SCHOOL",
+      "total_classes": 75,
+      "in_field": 75,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0955": {
+      "school_name": "THE EINSTEIN SCHOOL, INC.",
+      "total_classes": 74,
+      "in_field": 68,
+      "out_of_field": 6,
+      "pct_in_field": 0.9189189189189191,
+      "pct_out_of_field": 0.0810810810810811
+    },
+    "0956": {
+      "school_name": "EXPRESSIONS LEARNING ARTS ACADEMY",
+      "total_classes": 58,
+      "in_field": 52,
+      "out_of_field": 6,
+      "pct_in_field": 0.896551724137931,
+      "pct_out_of_field": 0.10344827586206898
+    },
+    "0957": {
+      "school_name": "ALACHUA LEARNING ACADEMY ELEMENTARY",
+      "total_classes": 47,
+      "in_field": 47,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0961": {
+      "school_name": "MICANOPY ACADEMY",
+      "total_classes": 70,
+      "in_field": 70,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0981": {
+      "school_name": "HEALTHY LEARNING ACADEMY CHARTER SCHOOL",
+      "total_classes": 55,
+      "in_field": 55,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0991": {
+      "school_name": "SIATECH MYCROSCHOOL, INC.",
+      "total_classes": 151,
+      "in_field": 138,
+      "out_of_field": 13,
+      "pct_in_field": 0.9139072847682118,
+      "pct_out_of_field": 0.0860927152317881
+    },
+    "1003": {
+      "school_name": "NORTH CENTRAL FLORIDA PUBLIC CHARTER SCHOOL",
+      "total_classes": 104,
+      "in_field": 100,
+      "out_of_field": 4,
+      "pct_in_field": 0.9615384615384611,
+      "pct_out_of_field": 0.03846153846153845
+    },
+    "1011": {
+      "school_name": "ALACHUA LEARNING ACADEMY MIDDLE",
+      "total_classes": 20,
+      "in_field": 20,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "1012": {
+      "school_name": "BOULWARE SPRINGS CHARTER",
+      "total_classes": 89,
+      "in_field": 58,
+      "out_of_field": 31,
+      "pct_in_field": 0.6516853932584271,
+      "pct_out_of_field": 0.3483146067415731
+    },
+    "1013": {
+      "school_name": "RESILIENCE CHARTER SCHOOL INC",
+      "total_classes": 52,
+      "in_field": 44,
+      "out_of_field": 8,
+      "pct_in_field": 0.8461538461538463,
+      "pct_out_of_field": 0.1538461538461538
+    },
+    "7004": {
+      "school_name": "ALACHUA ESCHOOL (VIRTUAL FRANCHISE)",
+      "total_classes": 112,
+      "in_field": 111,
+      "out_of_field": 1,
+      "pct_in_field": 0.9910714285714288,
+      "pct_out_of_field": 0.008928571428571426
+    },
+    "7023": {
+      "school_name": "ALACHUA VIRTUAL INSTRUCTION PROGRAM (DISTRICT PROVIDED)",
+      "total_classes": 36,
+      "in_field": 36,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "9025": {
+      "school_name": "ALACHUA REGIONAL JUEVNILE DETENTION CENTER",
+      "total_classes": 39,
+      "in_field": 29,
+      "out_of_field": 10,
+      "pct_in_field": 0.7435897435897437,
+      "pct_out_of_field": 0.2564102564102564
+    }
+  },
+  "2024-25": {
+    "0022": {
+      "school_name": "EARLY LEARNING ACADEMY AT DUVAL",
+      "total_classes": 17,
+      "in_field": 17,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0031": {
+      "school_name": "CAROLYN BEATRICE PARKER ELEMENTARY",
+      "total_classes": 357,
+      "in_field": 357,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0041": {
+      "school_name": "STEPHEN FOSTER ELEMENTARY SCHOOL",
+      "total_classes": 344,
+      "in_field": 330,
+      "out_of_field": 14,
+      "pct_in_field": 0.9593023255813955,
+      "pct_out_of_field": 0.04069767441860465
+    },
+    "0052": {
+      "school_name": "A.QUINN JONES CENTER",
+      "total_classes": 136,
+      "in_field": 136,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0071": {
+      "school_name": "LAKE FOREST ELEMENTARY SCHOOL",
+      "total_classes": 232,
+      "in_field": 212,
+      "out_of_field": 20,
+      "pct_in_field": 0.9137931034482761,
+      "pct_out_of_field": 0.08620689655172413
+    },
+    "0081": {
+      "school_name": "SIDNEY LANIER CENTER",
+      "total_classes": 266,
+      "in_field": 266,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0082": {
+      "school_name": "HOSPITAL HOMEBOUND",
+      "total_classes": 38,
+      "in_field": 38,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0091": {
+      "school_name": "LITTLEWOOD ELEMENTARY SCHOOL",
+      "total_classes": 744,
+      "in_field": 671,
+      "out_of_field": 73,
+      "pct_in_field": 0.9018817204301072,
+      "pct_out_of_field": 0.09811827956989248
+    },
+    "0101": {
+      "school_name": "W. A. METCALFE ELEMENTARY SCHOOL",
+      "total_classes": 443,
+      "in_field": 443,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0111": {
+      "school_name": "JOSEPH WILLIAMS ELEMENTARY SCHOOL",
+      "total_classes": 396,
+      "in_field": 368,
+      "out_of_field": 28,
+      "pct_in_field": 0.9292929292929294,
+      "pct_out_of_field": 0.0707070707070707
+    },
+    "0112": {
+      "school_name": "ABRAHAM LINCOLN MIDDLE SCHOOL",
+      "total_classes": 249,
+      "in_field": 234,
+      "out_of_field": 15,
+      "pct_in_field": 0.9397590361445782,
+      "pct_out_of_field": 0.06024096385542168
+    },
+    "0121": {
+      "school_name": "HOWARD W. BISHOP MIDDLE SCHOOL",
+      "total_classes": 307,
+      "in_field": 307,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0141": {
+      "school_name": "WESTWOOD MIDDLE SCHOOL",
+      "total_classes": 441,
+      "in_field": 436,
+      "out_of_field": 5,
+      "pct_in_field": 0.9886621315192748,
+      "pct_out_of_field": 0.011337868480725623
+    },
+    "0151": {
+      "school_name": "GAINESVILLE HIGH SCHOOL",
+      "total_classes": 799,
+      "in_field": 784,
+      "out_of_field": 15,
+      "pct_in_field": 0.9812265331664579,
+      "pct_out_of_field": 0.01877346683354193
+    },
+    "0161": {
+      "school_name": "ALACHUA ELEMENTARY SCHOOL",
+      "total_classes": 273,
+      "in_field": 246,
+      "out_of_field": 27,
+      "pct_in_field": 0.9010989010989011,
+      "pct_out_of_field": 0.0989010989010989
+    },
+    "0171": {
+      "school_name": "ARCHER ELEMENTARY",
+      "total_classes": 260,
+      "in_field": 260,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0201": {
+      "school_name": "HAWTHORNE MIDDLE/HIGH SCHOOL",
+      "total_classes": 173,
+      "in_field": 164,
+      "out_of_field": 9,
+      "pct_in_field": 0.9479768786127168,
+      "pct_out_of_field": 0.05202312138728324
+    },
+    "0221": {
+      "school_name": "A. L. MEBANE MIDDLE SCHOOL",
+      "total_classes": 182,
+      "in_field": 163,
+      "out_of_field": 19,
+      "pct_in_field": 0.8956043956043955,
+      "pct_out_of_field": 0.10439560439560439
+    },
+    "0261": {
+      "school_name": "NEWBERRY HIGH SCHOOL",
+      "total_classes": 349,
+      "in_field": 349,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0271": {
+      "school_name": "SANTA FE HIGH SCHOOL",
+      "total_classes": 479,
+      "in_field": 477,
+      "out_of_field": 2,
+      "pct_in_field": 0.9958246346555325,
+      "pct_out_of_field": 0.004175365344467642
+    },
+    "0281": {
+      "school_name": "CHESTER SHELL ELEMENTARY SCHOOL",
+      "total_classes": 200,
+      "in_field": 181,
+      "out_of_field": 19,
+      "pct_in_field": 0.905,
+      "pct_out_of_field": 0.095
+    },
+    "0311": {
+      "school_name": "MYRA TERWILLIGER ELEMENTARY SCHOOL",
+      "total_classes": 606,
+      "in_field": 591,
+      "out_of_field": 15,
+      "pct_in_field": 0.9752475247524752,
+      "pct_out_of_field": 0.024752475247524754
+    },
+    "0321": {
+      "school_name": "IDYLWILD ELEMENTARY SCHOOL",
+      "total_classes": 513,
+      "in_field": 459,
+      "out_of_field": 54,
+      "pct_in_field": 0.894736842105263,
+      "pct_out_of_field": 0.10526315789473682
+    },
+    "0331": {
+      "school_name": "GLEN SPRINGS ELEMENTARY SCHOOL",
+      "total_classes": 298,
+      "in_field": 290,
+      "out_of_field": 8,
+      "pct_in_field": 0.9731543624161072,
+      "pct_out_of_field": 0.026845637583892624
+    },
+    "0341": {
+      "school_name": "MARJORIE KINNAN RAWLINGS ELEMENTARY SCHOOL",
+      "total_classes": 263,
+      "in_field": 262,
+      "out_of_field": 1,
+      "pct_in_field": 0.9961977186311782,
+      "pct_out_of_field": 0.0038022813688212928
+    },
+    "0411": {
+      "school_name": "PROFESSIONAL ACADEMY MAGNET AT LOFTEN HIGH SCHOOL",
+      "total_classes": 80,
+      "in_field": 80,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0421": {
+      "school_name": "EASTSIDE HIGH SCHOOL",
+      "total_classes": 528,
+      "in_field": 491,
+      "out_of_field": 37,
+      "pct_in_field": 0.9299242424242424,
+      "pct_out_of_field": 0.07007575757575758
+    },
+    "0431": {
+      "school_name": "F. W. BUCHHOLZ HIGH SCHOOL",
+      "total_classes": 754,
+      "in_field": 754,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0461": {
+      "school_name": "HIGH SPRINGS COMMUNITY SCHOOL",
+      "total_classes": 613,
+      "in_field": 605,
+      "out_of_field": 8,
+      "pct_in_field": 0.9869494290375201,
+      "pct_out_of_field": 0.01305057096247961
+    },
+    "0481": {
+      "school_name": "FORT CLARKE MIDDLE SCHOOL",
+      "total_classes": 275,
+      "in_field": 261,
+      "out_of_field": 14,
+      "pct_in_field": 0.949090909090909,
+      "pct_out_of_field": 0.05090909090909092
+    },
+    "0482": {
+      "school_name": "HIDDEN OAK ELEMENTARY SCHOOL",
+      "total_classes": 592,
+      "in_field": 592,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0501": {
+      "school_name": "KIMBALL WILES ELEMENTARY SCHOOL",
+      "total_classes": 541,
+      "in_field": 529,
+      "out_of_field": 12,
+      "pct_in_field": 0.9778188539741219,
+      "pct_out_of_field": 0.022181146025878003
+    },
+    "0502": {
+      "school_name": "KANAPAHA MIDDLE SCHOOL",
+      "total_classes": 417,
+      "in_field": 417,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0510": {
+      "school_name": "LAWTON M. CHILES ELEMENTARY SCHOOL",
+      "total_classes": 574,
+      "in_field": 568,
+      "out_of_field": 6,
+      "pct_in_field": 0.9895470383275262,
+      "pct_out_of_field": 0.010452961672473868
+    },
+    "0520": {
+      "school_name": "MEADOWBROOK ELEMENTARY SCHOOL",
+      "total_classes": 640,
+      "in_field": 640,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0531": {
+      "school_name": "NEWBERRY ELEMENTARY SCHOOL",
+      "total_classes": 484,
+      "in_field": 440,
+      "out_of_field": 44,
+      "pct_in_field": 0.909090909090909,
+      "pct_out_of_field": 0.09090909090909091
+    },
+    "0541": {
+      "school_name": "C. W. NORTON ELEMENTARY SCHOOL",
+      "total_classes": 416,
+      "in_field": 409,
+      "out_of_field": 7,
+      "pct_in_field": 0.9831730769230768,
+      "pct_out_of_field": 0.01682692307692307
+    },
+    "0561": {
+      "school_name": "WILLIAM S. TALBOT ELEM SCHOOL",
+      "total_classes": 504,
+      "in_field": 497,
+      "out_of_field": 7,
+      "pct_in_field": 0.9861111111111112,
+      "pct_out_of_field": 0.01388888888888889
+    },
+    "0571": {
+      "school_name": "W. W. IRBY ELEMENTARY SCHOOL",
+      "total_classes": 287,
+      "in_field": 287,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0591": {
+      "school_name": "OAK VIEW MIDDLE SCHOOL",
+      "total_classes": 368,
+      "in_field": 357,
+      "out_of_field": 11,
+      "pct_in_field": 0.9701086956521741,
+      "pct_out_of_field": 0.029891304347826088
+    },
+    "0604": {
+      "school_name": "PACE",
+      "total_classes": 122,
+      "in_field": 122,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0922": {
+      "school_name": "SANTA FE COLLEGE ACADEMY OF SCIENCE AND TECHNOLOGY",
+      "total_classes": 83,
+      "in_field": 83,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0924": {
+      "school_name": "SANTA FE COLLEGE HIGH SCHOOL DUAL ENROLLMENT",
+      "total_classes": 13,
+      "in_field": 13,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0925": {
+      "school_name": "CONSTELLATION CHARTER SCHOOL OF GAINESVILLE",
+      "total_classes": 60,
+      "in_field": 45,
+      "out_of_field": 15,
+      "pct_in_field": 0.75,
+      "pct_out_of_field": 0.25
+    },
+    "0950": {
+      "school_name": "THE ONE ROOM SCHOOL HOUSE PROJECT",
+      "total_classes": 70,
+      "in_field": 70,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0951": {
+      "school_name": "MICANOPY AREA COOPERATIVE SCHOOL, INC.",
+      "total_classes": 113,
+      "in_field": 113,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0953": {
+      "school_name": "CARING & SHARING LEARNING SCHOOL",
+      "total_classes": 94,
+      "in_field": 94,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0955": {
+      "school_name": "THE EINSTEIN SCHOOL, INC.",
+      "total_classes": 84,
+      "in_field": 84,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0956": {
+      "school_name": "EXPRESSIONS LEARNING ARTS ACADEMY",
+      "total_classes": 58,
+      "in_field": 58,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0957": {
+      "school_name": "ALACHUA LEARNING ACADEMY ELEMENTARY",
+      "total_classes": 44,
+      "in_field": 42,
+      "out_of_field": 2,
+      "pct_in_field": 0.9545454545454547,
+      "pct_out_of_field": 0.045454545454545456
+    },
+    "0961": {
+      "school_name": "MICANOPY ACADEMY",
+      "total_classes": 47,
+      "in_field": 47,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0981": {
+      "school_name": "HEALTHY LEARNING ACADEMY CHARTER SCHOOL",
+      "total_classes": 52,
+      "in_field": 52,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "0991": {
+      "school_name": "SIATECH MYCROSCHOOL, INC.",
+      "total_classes": 127,
+      "in_field": 127,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "1003": {
+      "school_name": "NORTH CENTRAL FLORIDA PUBLIC CHARTER SCHOOL",
+      "total_classes": 120,
+      "in_field": 98,
+      "out_of_field": 22,
+      "pct_in_field": 0.8166666666666665,
+      "pct_out_of_field": 0.1833333333333333
+    },
+    "1011": {
+      "school_name": "ALACHUA LEARNING ACADEMY MIDDLE",
+      "total_classes": 25,
+      "in_field": 25,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "1012": {
+      "school_name": "BOULWARE SPRINGS CHARTER",
+      "total_classes": 98,
+      "in_field": 98,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "1013": {
+      "school_name": "RESILIENCE CHARTER SCHOOL INC",
+      "total_classes": 47,
+      "in_field": 30,
+      "out_of_field": 17,
+      "pct_in_field": 0.6382978723404258,
+      "pct_out_of_field": 0.3617021276595745
+    },
+    "7004": {
+      "school_name": "ALACHUA ESCHOOL (VIRTUAL FRANCHISE)",
+      "total_classes": 99,
+      "in_field": 99,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "7023": {
+      "school_name": "ALACHUA VIRTUAL INSTRUCTION PROGRAM (DISTRICT PROVIDED)",
+      "total_classes": 36,
+      "in_field": 36,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    },
+    "9025": {
+      "school_name": "ALACHUA REGIONAL JUVENILE DETENTION CENTER",
+      "total_classes": 32,
+      "in_field": 32,
+      "out_of_field": 0,
+      "pct_in_field": 1,
+      "pct_out_of_field": 0
+    }
+  }
+}
