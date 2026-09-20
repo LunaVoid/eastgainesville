@@ -1,0 +1,352 @@
+{
+  "2025": {
+    "0022": {
+      "school_name": "EARLY LEARNING ACADEMY AT DUVAL",
+      "student_count": 117,
+      "frpl_count": 117,
+      "frpl_rate": 1.0
+    },
+    "0031": {
+      "school_name": "CAROLYN BEATRICE PARKER ELEMENTARY",
+      "student_count": 501,
+      "frpl_count": 302,
+      "frpl_rate": 0.603
+    },
+    "0041": {
+      "school_name": "STEPHEN FOSTER ELEMENTARY SCHOOL",
+      "student_count": 403,
+      "frpl_count": 380,
+      "frpl_rate": 0.943
+    },
+    "0052": {
+      "school_name": "A.QUINN JONES CENTER",
+      "student_count": 95,
+      "frpl_count": 95,
+      "frpl_rate": 1.0
+    },
+    "0071": {
+      "school_name": "LAKE FOREST ELEMENTARY SCHOOL",
+      "student_count": 268,
+      "frpl_count": 268,
+      "frpl_rate": 1.0
+    },
+    "0081": {
+      "school_name": "SIDNEY LANIER CENTER",
+      "student_count": 139,
+      "frpl_count": 118,
+      "frpl_rate": 0.849
+    },
+    "0082": {
+      "school_name": "HOSPITAL HOMEBOUND",
+      "student_count": 29,
+      "frpl_count": 16,
+      "frpl_rate": 0.552
+    },
+    "0091": {
+      "school_name": "LITTLEWOOD ELEMENTARY SCHOOL",
+      "student_count": 714,
+      "frpl_count": 520,
+      "frpl_rate": 0.728
+    },
+    "0101": {
+      "school_name": "W. A. METCALFE ELEMENTARY SCHOOL",
+      "student_count": 463,
+      "frpl_count": 463,
+      "frpl_rate": 1.0
+    },
+    "0111": {
+      "school_name": "JOSEPH WILLIAMS ELEMENTARY SCHOOL",
+      "student_count": 398,
+      "frpl_count": 398,
+      "frpl_rate": 1.0
+    },
+    "0112": {
+      "school_name": "ABRAHAM LINCOLN MIDDLE SCHOOL",
+      "student_count": 613,
+      "frpl_count": 540,
+      "frpl_rate": 0.881
+    },
+    "0121": {
+      "school_name": "HOWARD W. BISHOP MIDDLE SCHOOL",
+      "student_count": 824,
+      "frpl_count": 662,
+      "frpl_rate": 0.803
+    },
+    "0141": {
+      "school_name": "WESTWOOD MIDDLE SCHOOL",
+      "student_count": 854,
+      "frpl_count": 654,
+      "frpl_rate": 0.766
+    },
+    "0151": {
+      "school_name": "GAINESVILLE HIGH SCHOOL",
+      "student_count": 1825,
+      "frpl_count": 822,
+      "frpl_rate": 0.45
+    },
+    "0161": {
+      "school_name": "ALACHUA ELEMENTARY SCHOOL",
+      "student_count": 323,
+      "frpl_count": 312,
+      "frpl_rate": 0.966
+    },
+    "0171": {
+      "school_name": "ARCHER ELEMENTARY",
+      "student_count": 413,
+      "frpl_count": 334,
+      "frpl_rate": 0.809
+    },
+    "0201": {
+      "school_name": "HAWTHORNE MIDDLE/HIGH SCHOOL",
+      "student_count": 472,
+      "frpl_count": 472,
+      "frpl_rate": 1.0
+    },
+    "0221": {
+      "school_name": "A. L. MEBANE MIDDLE SCHOOL",
+      "student_count": 385,
+      "frpl_count": 308,
+      "frpl_rate": 0.8
+    },
+    "0261": {
+      "school_name": "NEWBERRY HIGH SCHOOL",
+      "student_count": 791,
+      "frpl_count": 373,
+      "frpl_rate": 0.472
+    },
+    "0271": {
+      "school_name": "SANTA FE HIGH SCHOOL",
+      "student_count": 1132,
+      "frpl_count": 471,
+      "frpl_rate": 0.416
+    },
+    "0281": {
+      "school_name": "CHESTER SHELL ELEMENTARY SCHOOL",
+      "student_count": 282,
+      "frpl_count": 282,
+      "frpl_rate": 1.0
+    },
+    "0311": {
+      "school_name": "MYRA TERWILLIGER ELEMENTARY SCHOOL",
+      "student_count": 672,
+      "frpl_count": 672,
+      "frpl_rate": 1.0
+    },
+    "0321": {
+      "school_name": "IDYLWILD ELEMENTARY SCHOOL",
+      "student_count": 627,
+      "frpl_count": 627,
+      "frpl_rate": 1.0
+    },
+    "0331": {
+      "school_name": "GLEN SPRINGS ELEMENTARY SCHOOL",
+      "student_count": 429,
+      "frpl_count": 262,
+      "frpl_rate": 0.611
+    },
+    "0341": {
+      "school_name": "MARJORIE KINNAN RAWLINGS ELEMENTARY SCHOOL",
+      "student_count": 312,
+      "frpl_count": 312,
+      "frpl_rate": 1.0
+    },
+    "0411": {
+      "school_name": "PROFESSIONAL ACADEMY MAGNET AT LOFTEN HIGH SCHOOL",
+      "student_count": 328,
+      "frpl_count": 149,
+      "frpl_rate": 0.454
+    },
+    "0421": {
+      "school_name": "EASTSIDE HIGH SCHOOL",
+      "student_count": 1291,
+      "frpl_count": 1084,
+      "frpl_rate": 0.84
+    },
+    "0431": {
+      "school_name": "F. W. BUCHHOLZ HIGH SCHOOL",
+      "student_count": 2416,
+      "frpl_count": 834,
+      "frpl_rate": 0.345
+    },
+    "0461": {
+      "school_name": "HIGH SPRINGS COMMUNITY SCHOOL",
+      "student_count": 902,
+      "frpl_count": 369,
+      "frpl_rate": 0.409
+    },
+    "0481": {
+      "school_name": "FORT CLARKE MIDDLE SCHOOL",
+      "student_count": 840,
+      "frpl_count": 431,
+      "frpl_rate": 0.513
+    },
+    "0482": {
+      "school_name": "HIDDEN OAK ELEMENTARY SCHOOL",
+      "student_count": 694,
+      "frpl_count": 243,
+      "frpl_rate": 0.35
+    },
+    "0501": {
+      "school_name": "KIMBALL WILES ELEMENTARY SCHOOL",
+      "student_count": 741,
+      "frpl_count": 335,
+      "frpl_rate": 0.452
+    },
+    "0502": {
+      "school_name": "KANAPAHA MIDDLE SCHOOL",
+      "student_count": 1014,
+      "frpl_count": 506,
+      "frpl_rate": 0.499
+    },
+    "0510": {
+      "school_name": "LAWTON M. CHILES ELEMENTARY SCHOOL",
+      "student_count": 692,
+      "frpl_count": 240,
+      "frpl_rate": 0.347
+    },
+    "0520": {
+      "school_name": "MEADOWBROOK ELEMENTARY SCHOOL",
+      "student_count": 791,
+      "frpl_count": 267,
+      "frpl_rate": 0.338
+    },
+    "0531": {
+      "school_name": "NEWBERRY ELEMENTARY SCHOOL",
+      "student_count": 651,
+      "frpl_count": 433,
+      "frpl_rate": 0.665
+    },
+    "0541": {
+      "school_name": "C. W. NORTON ELEMENTARY SCHOOL",
+      "student_count": 540,
+      "frpl_count": 384,
+      "frpl_rate": 0.711
+    },
+    "0561": {
+      "school_name": "WILLIAM S. TALBOT ELEM SCHOOL",
+      "student_count": 573,
+      "frpl_count": 195,
+      "frpl_rate": 0.34
+    },
+    "0571": {
+      "school_name": "W. W. IRBY ELEMENTARY SCHOOL",
+      "student_count": 372,
+      "frpl_count": 350,
+      "frpl_rate": 0.941
+    },
+    "0591": {
+      "school_name": "OAK VIEW MIDDLE SCHOOL",
+      "student_count": 962,
+      "frpl_count": 423,
+      "frpl_rate": 0.44
+    },
+    "0604": {
+      "school_name": "PACE",
+      "student_count": 51,
+      "frpl_count": 35,
+      "frpl_rate": 0.686
+    },
+    "0922": {
+      "school_name": "SANTA FE COLLEGE ACADEMY OF SCIENCE AND TECHNOLOGY",
+      "student_count": 133,
+      "frpl_count": 53,
+      "frpl_rate": 0.398
+    },
+    "0925": {
+      "school_name": "CONSTELLATION CHARTER SCHOOL OF GAINESVILLE",
+      "student_count": 98,
+      "frpl_count": 49,
+      "frpl_rate": 0.5
+    },
+    "0950": {
+      "school_name": "THE ONE ROOM SCHOOL HOUSE PROJECT",
+      "student_count": 176,
+      "frpl_count": 176,
+      "frpl_rate": 1.0
+    },
+    "0951": {
+      "school_name": "MICANOPY AREA COOPERATIVE SCHOOL, INC.",
+      "student_count": 212,
+      "frpl_count": 60,
+      "frpl_rate": 0.283
+    },
+    "0953": {
+      "school_name": "CARING & SHARING LEARNING SCHOOL",
+      "student_count": 369,
+      "frpl_count": 369,
+      "frpl_rate": 1.0
+    },
+    "0955": {
+      "school_name": "THE EINSTEIN SCHOOL, INC.",
+      "student_count": 97,
+      "frpl_count": 73,
+      "frpl_rate": 0.753
+    },
+    "0956": {
+      "school_name": "EXPRESSIONS LEARNING ARTS ACADEMY",
+      "student_count": 84,
+      "frpl_count": 32,
+      "frpl_rate": 0.381
+    },
+    "0957": {
+      "school_name": "ALACHUA LEARNING ACADEMY ELEMENTARY",
+      "student_count": 108,
+      "frpl_count": 46,
+      "frpl_rate": 0.426
+    },
+    "0961": {
+      "school_name": "MICANOPY ACADEMY",
+      "student_count": 67,
+      "frpl_count": 31,
+      "frpl_rate": 0.463
+    },
+    "0981": {
+      "school_name": "HEALTHY LEARNING ACADEMY CHARTER SCHOOL",
+      "student_count": 107,
+      "frpl_count": 11,
+      "frpl_rate": 0.103
+    },
+    "0991": {
+      "school_name": "SIATECH MYCROSCHOOL, INC.",
+      "student_count": 97,
+      "frpl_count": 86,
+      "frpl_rate": 0.887
+    },
+    "1003": {
+      "school_name": "NORTH CENTRAL FLORIDA PUBLIC CHARTER SCHOOL",
+      "student_count": 169,
+      "frpl_count": 169,
+      "frpl_rate": 1.0
+    },
+    "1011": {
+      "school_name": "ALACHUA LEARNING ACADEMY MIDDLE",
+      "student_count": 63,
+      "frpl_count": 22,
+      "frpl_rate": 0.349
+    },
+    "1012": {
+      "school_name": "BOULWARE SPRINGS CHARTER",
+      "student_count": 171,
+      "frpl_count": 155,
+      "frpl_rate": 0.906
+    },
+    "1013": {
+      "school_name": "RESILIENCE CHARTER SCHOOL INC",
+      "student_count": 107,
+      "frpl_count": 107,
+      "frpl_rate": 1.0
+    },
+    "7004": {
+      "school_name": "ALACHUA ESCHOOL (VIRTUAL FRANCHISE)",
+      "student_count": 178,
+      "frpl_count": 81,
+      "frpl_rate": 0.455
+    },
+    "7023": {
+      "school_name": "ALACHUA VIRTUAL INSTRUCTION PROGRAM (DISTRICT PROVIDED)",
+      "student_count": 29,
+      "frpl_count": 13,
+      "frpl_rate": 0.448
+    }
+  }
+}
