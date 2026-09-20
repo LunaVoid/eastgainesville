@@ -1,0 +1,19 @@
+<script src="data-loader.js"></script>
+<pre id="out">loading...</pre>
+<script>
+(async () => {
+  setEnrollmentMode('as9');
+  const dAs9 = await loadACPSData();
+  setEnrollmentMode('excluded');
+  const dExcl = await loadACPSData();
+
+  const trend = Object.keys(dAs9.years).sort().map(y => {
+    const a = dAs9.years[y]['0071'];
+    const e = dExcl.years[y]['0071'];
+    return { year: y, as9: a && a.enrollment_total, excluded: e && e.enrollment_total };
+  });
+  document.getElementById('out').textContent = JSON.stringify({ lakeForest: trend }, null, 2);
+})().catch(e => {
+  document.getElementById('out').textContent = 'ERROR: ' + e.message + '\n' + e.stack;
+});
+</script>

@@ -1,41 +1,88 @@
-<title>ACPS School Zones — Current vs. 2026-27 Draft</title>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Equity Atlas — Interactive Zone Map</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
+  /* Palette replicated from acps-story.html */
   :root{
-    --bg:#f7f5f0; --panel:#ffffff; --text:#1c1a16; --muted:#6b665c;
-    --border:#e3ddd0; --accent:#8a3b2e;
+    --paper:#E8E3D6;
+    --paper-2:#DFD9C8;
+    --ink:#20242C;
+    --ink-soft:#4A4E58;
+    --rule:#C6BFA9;
+    --zoned:#2F5D62;      /* zoned/left-behind schools = under capacity */
+    --zoned-soft:#DCE6E4;
+    --choice:#C1791F;     /* magnet/choice pull */
+    --choice-soft:#F1E1C4;
+    --alert:#A6403C;      /* over capacity */
+    --alert-soft:#F2DCD8;
   }
   @media (prefers-color-scheme: dark){
     :root:not([data-theme="light"]){
-      --bg:#171512; --panel:#211e1a; --text:#efeae1; --muted:#a39c8d;
-      --border:#3a352c; --accent:#e08a6f;
+      --paper:#181A16; --paper-2:#1F221C; --ink:#EDE8DA; --ink-soft:#B9B3A0; --rule:#3B3B30;
+      --zoned-soft:#1C2C2B; --choice-soft:#2E2515; --alert-soft:#301B1A;
     }
   }
   :root[data-theme="dark"]{
-    --bg:#171512; --panel:#211e1a; --text:#efeae1; --muted:#a39c8d;
-    --border:#3a352c; --accent:#e08a6f;
+    --paper:#181A16; --paper-2:#1F221C; --ink:#EDE8DA; --ink-soft:#B9B3A0; --rule:#3B3B30;
+    --zoned-soft:#1C2C2B; --choice-soft:#2E2515; --alert-soft:#301B1A;
   }
   *{box-sizing:border-box}
-  body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;}
-  header{padding:14px 20px;border-bottom:1px solid var(--border);background:var(--panel);}
-  h1{font-size:1.05rem;margin:0 0 2px;font-weight:600;}
-  p.sub{margin:0;color:var(--muted);font-size:0.8rem;}
-  #wrap{display:flex;height:calc(100vh - 60px);}
+  html,body{height:100%;}
+  body{
+    margin:0;display:flex;flex-direction:column;
+    background:var(--paper);color:var(--ink);
+    font-family:'IBM Plex Sans',sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  ::selection{background:var(--choice-soft);}
+
+  /* Masthead + menu bar — same pattern as acps-story.html */
+  .masthead{
+    display:flex;align-items:baseline;justify-content:space-between;
+    padding:22px 28px 18px;border-bottom:1px solid var(--rule);
+    flex-wrap:wrap;gap:8px;
+  }
+  .masthead .title{font-family:'Lora',serif;font-weight:600;font-size:1.05rem;letter-spacing:0.01em;color:var(--ink);text-decoration:none;}
+  .masthead .sub{margin:2px 0 0;font-size:0.8rem;color:var(--ink-soft);}
+  .masthead-nav{display:flex;align-items:center;gap:18px;font-size:0.82rem;}
+  .masthead-nav a{text-decoration:none;color:var(--ink-soft);padding-bottom:2px;border-bottom:1px solid transparent;}
+  .masthead-nav a:hover{color:var(--ink);}
+  .masthead-nav a.is-active{color:var(--ink);font-weight:600;border-bottom-color:var(--choice);}
+
+  #wrap{flex:1;display:flex;min-height:0;}
   #map{flex:1;}
-  #panel{width:260px;border-left:1px solid var(--border);background:var(--panel);padding:14px 16px;overflow-y:auto;font-size:0.82rem;}
-  #panel h2{font-size:0.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);margin:0 0 8px;}
+  #panel{width:260px;border-left:1px solid var(--rule);background:var(--paper-2);padding:14px 16px;overflow-y:auto;font-size:0.82rem;}
+  #panel h2{font-size:0.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--ink-soft);margin:0 0 8px;}
   #panel h2:not(:first-child){margin-top:18px;}
   label{display:flex;align-items:center;gap:8px;margin:6px 0;cursor:pointer;}
+  input[type=checkbox]{accent-color:var(--zoned);}
   .legend-row{display:flex;align-items:center;gap:8px;margin:4px 0;}
   .swatch{width:14px;height:14px;border-radius:3px;flex-shrink:0;border:1px solid rgba(0,0,0,.15);}
-  .note{color:var(--muted);font-size:0.74rem;line-height:1.4;margin-top:14px;padding-top:12px;border-top:1px solid var(--border);}
-  .leaflet-popup-content-wrapper{background:var(--panel);color:var(--text);}
-  .leaflet-popup-tip{background:var(--panel);}
-  .leaflet-container{background:var(--bg);}
+  .note{color:var(--ink-soft);font-size:0.74rem;line-height:1.4;margin-top:14px;padding-top:12px;border-top:1px solid var(--rule);}
+  .leaflet-popup-content-wrapper{background:var(--paper-2);color:var(--ink);border:1px solid var(--rule);border-radius:2px;}
+  .leaflet-popup-content{font-family:'IBM Plex Sans',sans-serif;}
+  .leaflet-popup-tip{background:var(--paper-2);}
+  .leaflet-container{background:var(--paper);}
 </style>
+</head>
+<body>
 
-<header>
-  <h1>ACPS School Zones — Current vs. 2026-27 Draft</h1>
-  <p class="sub">Zone polygons and capacity/attendance figures pulled directly from Alachua County GIS and the ACPS rezoning consultant's live ArcGIS services.</p>
+<header class="masthead">
+  <div>
+    <a class="title" href="acps-story.html">Equity Atlas</a>
+    <p class="sub">ACPS School Zones — Current vs. 2026-27 Draft</p>
+  </div>
+  <nav class="masthead-nav">
+    <a href="acps-story.html">Investigation</a>
+    <a href="funding-paper.html">Funding paper</a>
+    <a href="map.html" class="is-active">Map</a>
+  </nav>
 </header>
 
 <div id="wrap">
@@ -51,15 +98,15 @@
     <label><input type="checkbox" id="toggle-schools" checked> School locations</label>
 
     <h2>% of Capacity (draft layers only)</h2>
-    <div class="legend-row"><span class="swatch" style="background:#7a1d1d"></span> &lt; 60%</div>
-    <div class="legend-row"><span class="swatch" style="background:#c1542f"></span> 60–79%</div>
-    <div class="legend-row"><span class="swatch" style="background:#d9a441"></span> 80–99%</div>
-    <div class="legend-row"><span class="swatch" style="background:#4d7a3f"></span> 100%+</div>
+    <div class="legend-row"><span class="swatch" style="background:#2F5D62"></span> Under capacity (&le;88%)</div>
+    <div class="legend-row"><span class="swatch" style="background:#CC8A3C"></span> Near capacity (88–108%)</div>
+    <div class="legend-row"><span class="swatch" style="background:#A6403C"></span> Over capacity (&ge;108%)</div>
     <div class="legend-row"><span class="swatch" style="background:#8a8578"></span> no data (current zones)</div>
 
     <div class="note">
       Current zones = in-effect boundaries (Alachua County GIS).<br><br>
-      Draft zones = JBPro Group's 2026-27 rezoning scenario, with Capacity2025 / Attendance2025 fields.<br><br>
+      Draft zones = JBPro Group's 2026-27 rezoning scenario, with Capacity2025 / Attendance2025 fields (figures unverified against a second source).<br><br>
+      Same capacity colors as the story page's zone map.<br><br>
       Click any zone for details.
     </div>
   </div>
@@ -73,12 +120,17 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '&copy; OpenStreetMap contributors', maxZoom: 19
 }).addTo(map);
 
+// Story-page capacity semantics (same as acps-story.html's capColor).
+// Hex literals here, not var(): Leaflet sets fill as an SVG attribute,
+// where CSS custom properties don't resolve. --zoned/--alert are the
+// same values in both the story's light and dark themes, so this is exact.
+const ZONED = '#2F5D62', ALERT = '#A6403C', NEAR = '#CC8A3C', NODATA = '#8a8578';
+
 function pctColor(pct){
-  if (pct == null) return '#8a8578';
-  if (pct < 60) return '#7a1d1d';
-  if (pct < 80) return '#c1542f';
-  if (pct < 100) return '#d9a441';
-  return '#4d7a3f';
+  if (pct == null) return NODATA;
+  if (pct >= 108) return ALERT;
+  if (pct <= 88) return ZONED;
+  return NEAR;
 }
 
 function getPct(props){
@@ -89,10 +141,10 @@ function zoneStyle(isDraft){
   return function(feature){
     const pct = isDraft ? getPct(feature.properties) : null;
     return {
-      color: isDraft ? '#1c1a16' : '#2255cc',
+      color: '#20242C',
       weight: isDraft ? 1.5 : 2.5,
-      fillColor: isDraft ? pctColor(pct) : '#5588ee',
-      fillOpacity: isDraft ? 0.65 : 0.15,
+      fillColor: isDraft ? pctColor(pct) : NODATA,
+      fillOpacity: isDraft ? 0.65 : 0.12,
       dashArray: isDraft ? null : '6 4'
     };
   };
@@ -108,7 +160,7 @@ function popupHtml(props, isDraft){
   if (props.Address) html += `<br>${esc(props.Address)}`;
   if (isDraft){
     const cap = props.Capacity2025, att = props.Attendance2025, pct = getPct(props);
-    if (cap != null && pct != null) html += `<br><br>Capacity: ${esc(cap)}<br>Attendance: ${esc(att)}<br><b>${esc(pct)}% of capacity</b>`;
+    if (cap != null && pct != null) html += `<br><br>Capacity: ${esc(cap)}<br>Attendance: ${esc(att)}<br><b>${esc(pct)}% of capacity</b> <span style="color:#4A4E58">(per ACPS rezoning consultant, unverified)</span>`;
   }
   return html;
 }
@@ -156,7 +208,7 @@ Promise.all(Object.entries(files).map(([key, url]) =>
 fetch('data/raw/zones/schools_points.geojson').then(r => r.json()).then(data => {
   const schoolLayer = L.geoJSON(data, {
     pointToLayer: (f, latlng) => L.circleMarker(latlng, {
-      radius: 4, color: '#1c1a16', weight: 1, fillColor: '#e0dccf', fillOpacity: 0.9
+      radius: 4, color: '#E8E3D6', weight: 1, fillColor: '#C1791F', fillOpacity: 0.9
     }),
     onEachFeature: (f, layer) => layer.bindPopup(`<strong>${esc(f.properties.FACILITY)}</strong><br>${esc(f.properties.GRADES || '')}<br>${esc(f.properties.FULLADDR || '')}`)
   }).addTo(map);
@@ -165,3 +217,5 @@ fetch('data/raw/zones/schools_points.geojson').then(r => r.json()).then(data => 
   });
 }).catch(err => console.error('Schools layer load failed:', err));
 </script>
+</body>
+</html>

@@ -59,13 +59,23 @@ def convert(fname):
             if is_supp:
                 suppressed.append(key)
 
-        known_total = sum(v for v in race_counts.values() if v is not None)
+        # FL DOE suppresses (masks as *) any subgroup with fewer than 10
+        # students, to protect student privacy. A suppressed cell's true
+        # value is somewhere in 1-9 (never 0 -- a true zero is left blank,
+        # not asterisked). Two totals, for a toggle in the UI:
+        #   total_as9      -- treat every suppressed cell as 9 (its max
+        #                      possible value), a single confident number
+        #   total_excluded -- drop suppressed subgroups entirely rather
+        #                      than guess at them
+        total_as9 = sum((v if v is not None else 9) for v in race_counts.values())
+        total_excluded = sum(v for v in race_counts.values() if v is not None)
 
         school = schools.setdefault(school_num, {"school_name": school_name, "grades": {}})
         school["grades"][grade] = {
             **race_counts,
             "suppressed": suppressed,
-            "known_total": known_total,
+            "total_as9": total_as9,
+            "total_excluded": total_excluded,
         }
     return schools
 

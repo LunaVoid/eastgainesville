@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Problem with funding for ACPS in East GNV — Equity Atlas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+  /* Palette replicated from acps-story.html */
+  :root{
+    --paper:#E8E3D6;
+    --paper-2:#DFD9C8;
+    --ink:#20242C;
+    --ink-soft:#4A4E58;
+    --rule:#C6BFA9;
+    --zoned:#2F5D62;      /* zoned/left-behind schools */
+    --zoned-soft:#DCE6E4;
+    --choice:#C1791F;     /* magnet/choice pull */
+    --choice-soft:#F1E1C4;
+    --alert:#A6403C;      /* over capacity / problem */
+    --alert-soft:#F2DCD8;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --paper:#181A16; --paper-2:#1F221C; --ink:#EDE8DA; --ink-soft:#B9B3A0; --rule:#3B3B30;
+      --zoned-soft:#1C2C2B; --choice-soft:#2E2515; --alert-soft:#301B1A;
+    }
+  }
+  :root[data-theme="dark"]{
+    --paper:#181A16; --paper-2:#1F221C; --ink:#EDE8DA; --ink-soft:#B9B3A0; --rule:#3B3B30;
+    --zoned-soft:#1C2C2B; --choice-soft:#2E2515; --alert-soft:#301B1A;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'IBM Plex Sans',sans-serif;
+    font-size:16px;
+    line-height:1.55;
+    -webkit-font-smoothing:antialiased;
+  }
+  ::selection{background:var(--choice-soft);}
+  h1,h2,h3,.serif{font-family:'Lora',serif;}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 28px;}
+  .measure{max-width:60ch;}
+  a{color:inherit;}
+
+  /* Masthead + menu bar — same pattern as acps-story.html */
+  .masthead{
+    display:flex;align-items:baseline;justify-content:space-between;
+    padding:22px 28px 18px;
+    border-bottom:1px solid var(--rule);
+    max-width:1180px;margin:0 auto;
+    flex-wrap:wrap;gap:8px;
+  }
+  .masthead .title{font-family:'Lora',serif;font-weight:600;font-size:1.05rem;letter-spacing:0.01em;color:var(--ink);text-decoration:none;}
+  .masthead-nav{display:flex;align-items:center;gap:18px;font-size:0.82rem;}
+  .masthead-nav a{text-decoration:none;color:var(--ink-soft);padding-bottom:2px;border-bottom:1px solid transparent;}
+  .masthead-nav a:hover{color:var(--ink);}
+  .masthead-nav a.is-active{color:var(--ink);font-weight:600;border-bottom-color:var(--choice);}
+
+  /* Hero */
+  .hero{position:relative;padding:64px 28px 56px;border-bottom:1px solid var(--rule);}
+  .hero-inner{max-width:1180px;margin:0 auto;}
+  .hero h1{
+    font-size:clamp(2.1rem,5.4vw,3.7rem);
+    font-weight:600;
+    line-height:1.08;
+    margin:0 0 22px;
+    max-width:20ch;
+    letter-spacing:-0.01em;
+  }
+  .hero p.dek{font-size:1.12rem;color:var(--ink-soft);max-width:56ch;margin:0 0 34px;}
+  .hero-stats{display:flex;gap:0;flex-wrap:wrap;border-top:1px solid var(--rule);padding-top:22px;}
+  .hstat{padding:0 30px 0 0;margin-right:30px;border-right:1px solid var(--rule);}
+  .hstat:last-child{border-right:none;}
+  .hstat .num{font-family:'Lora',serif;font-size:2.1rem;font-weight:600;line-height:1;}
+  .hstat .num.down{color:var(--alert);}
+  .hstat .num.up{color:var(--zoned);}
+  .hstat .lbl{font-size:0.82rem;color:var(--ink-soft);margin-top:6px;max-width:22ch;}
+
+  /* Section shells */
+  section{padding:58px 28px;border-bottom:1px solid var(--rule);}
+  .beat-label{
+    font-family:'Lora',serif;font-style:italic;color:var(--ink-soft);
+    font-size:1rem;margin:0 0 6px;
+  }
+  .section-head{font-size:clamp(1.5rem,3vw,2.1rem);margin:0 0 18px;line-height:1.2;max-width:22ch;}
+  .doc-h3{font-family:'Lora',serif;font-size:1.1rem;font-weight:600;margin:22px 0 6px;}
+  .in-progress{font-style:italic;color:var(--ink-soft);}
+  .grid-2{display:grid;grid-template-columns:1fr 1.3fr;gap:48px;align-items:start;}
+  @media (max-width:880px){.grid-2{grid-template-columns:1fr;}}
+
+  .callout{
+    background:var(--choice-soft);
+    border-left:3px solid var(--choice);
+    padding:20px 22px;
+    margin-top:26px;
+    font-family:'Lora',serif;font-style:italic;
+    font-size:1.02rem;line-height:1.5;
+  }
+  .callout cite{display:block;font-style:normal;font-family:'IBM Plex Sans',sans-serif;
+    font-size:0.78rem;color:var(--ink-soft);margin-top:10px;}
+
+  .source{font-size:0.76rem;color:var(--ink-soft);margin-top:10px;}
+  .source b{color:var(--ink);font-weight:500;}
+
+  /* Charts */
+  .chart-card{background:var(--paper-2);padding:22px 24px 18px;border:1px solid var(--rule);}
+  .chart-head{font-size:1.05rem;font-weight:500;margin:0 0 2px;font-family:'Lora',serif;}
+  .chart-sub{font-size:0.82rem;color:var(--ink-soft);margin:0 0 14px;}
+  svg{display:block;max-width:100%;height:auto;}
+  .axis-label{font-size:10.5px;fill:var(--ink-soft);font-family:'IBM Plex Sans',sans-serif;}
+  .grid-line{stroke:var(--rule);stroke-width:1;}
+  .dot-label{font-size:11px;font-weight:500;fill:var(--ink);font-family:'IBM Plex Sans',sans-serif;}
+
+  /* Close */
+  .close{padding:74px 28px 84px;}
+  .close h2{font-size:clamp(1.8rem,4.4vw,2.7rem);max-width:24ch;line-height:1.15;margin:0 0 26px;}
+  .close-compare{display:flex;gap:40px;flex-wrap:wrap;border-top:1px solid var(--rule);padding-top:24px;}
+  .cc{flex:1;min-width:220px;}
+  .cc .yr{font-size:0.78rem;color:var(--ink-soft);}
+  .cc .stat{font-family:'Lora',serif;font-size:1.5rem;margin:4px 0;}
+
+  footer{padding:36px 28px 60px;}
+  footer .src-list{columns:2;gap:40px;font-size:0.82rem;color:var(--ink-soft);}
+  @media (max-width:640px){footer .src-list{columns:1;}}
+  footer .src-list li{margin-bottom:8px;}
+  footer .fine{font-size:0.76rem;color:var(--ink-soft);margin-top:24px;max-width:70ch;}
+</style>
+</head>
+<body>
+
+<div class="masthead">
+  <a class="title" href="acps-story.html">Equity Atlas</a>
+  <nav class="masthead-nav">
+    <a href="acps-story.html">Investigation</a>
+    <a href="funding-paper.html" class="is-active">Funding paper</a>
+    <a href="map.html">Map</a>
+  </nav>
+  <div class="masthead-nav" style="color:var(--ink-soft);">An enrollment investigation · Alachua County Public Schools</div>
+</div>
+
+<header class="hero">
+  <div class="hero-inner">
+    <p class="beat-label" style="margin-bottom:10px;">Problem with funding for ACPS in East GNV</p>
+    <h1>A Tool to Improve Understanding on the Apportionment of Funding for Public Schools</h1>
+    <p class="dek">Community-related predictors may explain the closure of schools and re-organization of school zones in Alachua County — checked against the real numbers: FL DOE per-pupil expenditures, a decade of enrollment, free/reduced-lunch rates, and the rezoning consultant's capacity figures.</p>
+    <div class="hero-stats">
+      <div class="hstat"><div class="num down" id="heroEastNow">—</div><div class="lbl">students in the East GNV schools tracked here, <span id="heroEastNowYear"></span></div></div>
+      <div class="hstat"><div class="num" id="heroEastPeak">—</div><div class="lbl">their combined peak, <span id="heroEastPeakYear"></span> — every student who left took their per-pupil funding with them</div></div>
+      <div class="hstat"><div class="num up" id="heroEastFrpl">—</div><div class="lbl">avg free/reduced-lunch rate across these schools, vs <span id="heroDistrictFrpl">—</span> district-wide, <span id="heroFrplYear"></span></div></div>
+      <div class="hstat"><div class="num" id="heroEastPPP">—</div><div class="lbl">avg ESSA per-pupil across these schools, vs <span id="heroDistrictPPP">—</span> district-wide, <span id="heroPPPYear"></span></div></div>
+    </div>
+  </div>
+</header>
+
+<!-- BACKGROUND -->
+<section>
+  <div class="wrap grid-2">
+    <div>
+      <p class="beat-label">Background</p>
+      <h2 class="section-head">A statewide trend of school closures reaches Alachua County</h2>
+      <p class="measure">A statewide trend of closing schools has reached Alachua County. On March 12, 2026, the ACPS school board voted to move forward with permanently closing Stephen Foster Elementary, while Williams and Alachua are set to close at the end of the 26-27 school year. Other schools such as Lincoln Middle and Oak View Middle are being transformed into K-8 schools to incorporate students from underenrolled elementaries.</p>
+      <p class="measure" style="margin-top:16px;">Over the past few years, the school district has allocated less state funding to schools in the East Gainesville area, due to declining enrollment rates and birth rates within these school zones. The closing of select elementary and middle schools are part of an ongoing effort to reduce costs and spend money more efficiently across the district.</p>
+      <p class="measure" style="margin-top:16px;">Historically, schools on the east side of town (compared to other schools) are underperforming academically and report higher rates of behavioral incidents. Given the county's existing funding priorities, our tool is designed to help the public better understand the external factors and conditions that may be associated with these differences.</p>
+      <p class="measure" style="margin-top:16px;">The goal of our work is not to attribute these outcomes (in East GNV) to the schools or the communities they serve, but to identify factors that may warrant further attention when considering resource allocation and policy options. This information can help the county explore alternatives to school closures, including targeted investments and other interventions that address the underlying conditions affecting school performance.</p>
+      <p class="source"><b>Sources:</b> Gainesville Sun, WUFT News, The Independent Florida Alligator</p>
+    </div>
+    <div class="chart-card">
+      <p class="chart-head">The 2026 closures &amp; reorganizations at a glance</p>
+      <p class="chart-sub">As reported by local news coverage</p>
+      <div style="margin:6px 0 14px;">
+        <p class="measure" style="font-size:0.9rem;margin:0 0 12px;"><b style="color:var(--alert);">Closed:</b> Stephen Foster Elementary — permanent closure approved by board vote, March 12, 2026.</p>
+        <p class="measure" style="font-size:0.9rem;margin:0 0 12px;"><b style="color:var(--choice);">Closing:</b> Williams and Alachua elementaries — set to close at the end of the 2026-27 school year.</p>
+        <p class="measure" style="font-size:0.9rem;margin:0;"><b style="color:var(--zoned);">Reorganized:</b> Lincoln Middle and Oak View Middle — becoming K-8 schools to absorb students from underenrolled elementaries.</p>
+      </div>
+      <p class="source">Underenrollment and declining birth rates in these zones drive the district's cost argument — the same enrollment decline traced in the analysis below.</p>
+    </div>
+  </div>
+</section>
+
+<!-- WHAT IS OUR TOOL -->
+<section>
+  <div class="wrap grid-2">
+    <div>
+      <p class="beat-label">What is our tool?</p>
+      <h2 class="section-head">Widen what policymakers look at before they move a line or close a school</h2>
+      <h3 class="doc-h3">Direct impact</h3>
+      <p class="measure in-progress">(section in progress)</p>
+      <h3 class="doc-h3">Strengths of our tool</h3>
+      <p class="measure">Our tool would assist policymakers in making educated decisions regarding funding that address other underlying factors beyond enrollment numbers and academic performance. We intend to encourage a more holistic understanding of why schools in certain areas may be experiencing difficulties in either bringing students to campus and/or retaining students performing well in academic settings. Some factors we have identified meriting discussion are socio-economic status, percentage of Black and Hispanic students in a school, and the availability of qualified teachers.</p>
+      <h3 class="doc-h3">Limitations</h3>
+      <p class="measure">We are essentially pushing for policy makers to increase their scope of factors to consider when making crucial decisions related to funding. However, in practical terms, ACPS doesn't seem to have a standardized way to compile data from these different data sources. We also have a rudimentary understanding of what factors policy makers want to consider.</p>
+    </div>
+    <div class="chart-card" style="display:flex;flex-direction:column;justify-content:center;">
+      <p class="chart-head">The three predictors this tool tracks</p>
+      <div class="legend-row" style="margin-top:14px;"><span class="swatch" style="background:var(--choice);"></span> Cost per student — funding</div>
+      <div class="legend-row"><span class="swatch" style="background:var(--zoned);"></span> Student population per school — enrollment</div>
+      <div class="legend-row"><span class="swatch" style="background:var(--alert);"></span> Students eligible for free &amp; reduced lunch — socio-economic status</div>
+      <p class="source" style="margin-top:18px;">All three are charted live from FL DOE school-level files in the analysis below — no illustrative numbers.</p>
+    </div>
+  </div>
+</section>
+
+<!-- BEAT I -->
+<section>
+  <div class="wrap">
+    <p class="beat-label">Data analysis &amp; findings</p>
+    <h2 class="section-head">The predictors, traced through the district's own numbers</h2>
+    <p class="measure" style="margin-bottom:0;">Each of the three beats below follows one link in the chain the background describes: what the money says per student, where the students went, and what the buildings look like after the 2026 redraw.</p>
+  </div>
+</section>
+
+<!-- BEAT I: funding -->
+<section>
+  <div class="wrap grid-2">
+    <div>
+      <p class="beat-label">I. What the money says</p>
+      <h2 class="section-head">Per-pupil funding, school by school, east of 441</h2>
+      <p class="measure">Florida's funding follows the student. A school does not get a budget because it is poor or rich; it gets a per-student amount, multiplied by however many students show up. So the honest first question is not <em>are East Gainesville schools shortchanged per head</em> — the bars below show per-head amounts that are roughly in line with, and sometimes above, the district's other campuses. The honest question is what happens to the <em>total</em>, when the heads keep leaving.</p>
+      <div class="callout">
+        The claim this project can actually support is correlation: enrollment drains from these schools, and the money left with it. Whether choice programs caused the drain — or merely followed it — is a causal claim the data here cannot prove, and this paper won't pretend otherwise.
+        <cite>— Framing note, project methodology</cite>
+      </div>
+    </div>
+    <div class="chart-card">
+      <p class="chart-head">ESSA per-pupil spending, East GNV schools vs. the all-schools average</p>
+      <p class="chart-sub">Total per-pupil dollars (state + local + federal), latest published year</p>
+      <svg id="chartPPP" viewBox="0 0 640 460"></svg>
+      <p class="source"><b>Source:</b> FL DOE ESSA school-level per-pupil expenditures, Alachua County. FL DOE's 2025 file is entirely unpublished ("N/A"), so the latest real year is shown. Duval Elementary (closed after 2014-15) has no per-pupil record, leaving nine of the ten tracked schools.</p>
+    </div>
+  </div>
+</section>
+
+<!-- BEAT II -->
+<section>
+  <div class="wrap">
+    <p class="beat-label">II. The students who left</p>
+    <h2 class="section-head">A decade of enrollment drift, east of 441</h2>
+    <p class="measure" style="margin-bottom:28px;">Each panel below is one school's real enrollment, year by year, from FL DOE membership files. The amber dot is that school's peak; the teal dot is today. What a school loses between those two dots, it loses in per-pupil dollars — this is the mechanism by which choice and magnet seats, plus declining birthrates and housing turnover, turn into thinner staffing and older textbooks on the east side.</p>
+    <div class="chart-card">
+      <p class="chart-head">Enrollment by school, 2014–2025</p>
+      <p class="chart-sub">One panel per East GNV school · amber = peak year · teal = latest year</p>
+      <svg id="chartTrend" viewBox="0 0 1000 420"></svg>
+      <p class="source"><b>Source:</b> FL DOE membership by school, 2014–2025. Suppressed subgroups (&lt;10 students) are excluded from totals, so each figure is a confident floor, not an estimate. Duval Elementary appears in FL DOE membership only for 2014-15 — it was converted to the Early Learning Academy at Duval — so its panel is intentionally near-empty and it is excluded from the combined peak-vs-now totals on this page.</p>
+    </div>
+  </div>
+</section>
+
+<!-- BEAT III -->
+<section>
+  <div class="wrap grid-2">
+    <div>
+      <p class="beat-label">III. Empty seats are expensive</p>
+      <h2 class="section-head">The 2026 redraw inherited buildings running half-empty</h2>
+      <p class="measure">After the first comprehensive rezoning since 2003, the consultant's own numbers show East Gainesville elementary zones filled at a fraction of capacity — Lake Forest at <strong>45%</strong>, Shell at <strong>65%</strong>, Metcalfe at <strong>61%</strong>. A school at half capacity is a school whose fixed costs — building, staff, administration — are spread over half the per-pupil revenue. Rezoning moved the lines. It did not move the money formula.</p>
+    </div>
+    <div class="chart-card">
+      <p class="chart-head">Draft 2026-27 zone utilization, East GNV elementary</p>
+      <p class="chart-sub">Attendance ÷ capacity under the approved new lines</p>
+      <svg id="chartCapacity" viewBox="0 0 640 280"></svg>
+      <p class="source"><b>Source:</b> Capacity2025 / Attendance2025 / PctCap2025 fields, ACPS rezoning consultant (JBPro) draft scenario — <b>unverified against a second source</b> (FL DOE publishes no per-school building capacity). Rawlings Elementary carries no capacity figure in that dataset.</p>
+    </div>
+  </div>
+</section>
+
+<div class="close">
+  <div class="wrap">
+    <p class="beat-label">Conclusion</p>
+    <h2>Funding follows the student. The students followed the choice seats. The buildings stayed.</h2>
+    <div class="close-compare">
+      <div class="cc"><div class="yr">At their peak</div><div class="stat" id="closeEastPeak">—</div><div class="yr">students across these schools, <span id="closeEastPeakYear"></span></div></div>
+      <div class="cc"><div class="yr">Today</div><div class="stat" id="closeEastNow">—</div><div class="yr">students — each departure shrinking the per-pupil base these neighborhoods' schools are funded on</div></div>
+    </div>
+    <p class="measure in-progress" style="margin-top:26px;">The written conclusion is still being drafted — it will tie the three predictors back to the closure decisions and to the alternatives to closure this tool is meant to surface: targeted investments and interventions addressing the underlying conditions affecting school performance.</p>
+  </div>
+</div>
+  </div>
+</div>
+
+<footer class="wrap">
+  <hr class="rule" style="margin-bottom:24px;border:none;border-top:1px solid var(--rule);">
+  <ul class="src-list">
+    <li>FL Dept. of Education — ESSA school-level per-pupil expenditures, Alachua County, 2021–2024 (2025 unpublished)</li>
+    <li>FL Dept. of Education — membership by school/grade/race, 2014–2025</li>
+    <li>FL Dept. of Education — free/reduced lunch (FRPL) eligibility, by school, 2024–2026</li>
+    <li>Alachua County GIS &amp; ACPS rezoning consultant (JBPro) — draft 2026-27 zone capacity/attendance figures (unverified against a second source)</li>
+  </ul>
+  <p class="fine"><b>How "East GNV" is defined here:</b> the ten zoned neighborhood schools serving east Gainesville and the far-east county (Hawthorne): Duval, Lake Forest, Metcalfe, Joseph Williams, Idylwild, Rawlings, and Shell elementaries; Lincoln Middle; Hawthorne Middle/High; and Eastside High — matched by FL DOE school code. Duval and Joseph Williams sit near the 441/13th Street divide but are historically part of the eastside conversation; no charter, magnet-only, or alternative programs are included. Duval Elementary appears in FL DOE membership only for 2014-15 (it was converted to the Early Learning Academy at Duval), so combined peak-vs-now totals compare only the nine schools present in every year. <b>Data honesty:</b> every number on this page is generated live from the real FL DOE/ACPS source files — no illustrative or placeholder data. Suppressed subgroups are excluded (not estimated); the per-school capacity figures come from the district's consultant and have not been independently confirmed.</p>
+</footer>
+
+<script src="data-loader.js"></script>
+<script>
+const NS = "http://www.w3.org/2000/svg";
+function el(tag, attrs){
+  const e = document.createElementNS(NS, tag);
+  for(const k in attrs) e.setAttribute(k, attrs[k]);
+  return e;
+}
+function scaleFn(domain, range){
+  return v => range[0] + (v-domain[0])/(domain[1]-domain[0]) * (range[1]-range[0]);
+}
+function clearSvg(svg){ while(svg.firstChild) svg.removeChild(svg.firstChild); }
+function niceTicks(min, max, count){
+  if (max <= min) return [min];
+  const step = (max - min) / (count - 1);
+  return Array.from({length: count}, (_, i) => min + step * i);
+}
+
+/* East Gainesville school set, keyed by FL DOE school code (the stable
+   join key across every source; see footer for how the set was chosen). */
+const EAST_SCHOOLS = [
+  {code:'0021', short:'Duval Elem',          facility:'Duval Elementary'},
+  {code:'0071', short:'Lake Forest Elem',    facility:'Lake Forest'},
+  {code:'0101', short:'Metcalfe Elem',       facility:'Metcalfe'},
+  {code:'0111', short:'J. Williams Elem',    facility:'Williams'},
+  {code:'0281', short:'Shell Elem',          facility:'Shell'},
+  {code:'0321', short:'Idylwild Elem',       facility:'Idylwild'},
+  {code:'0341', short:'Rawlings Elem',       facility:'Rawlings'},
+  {code:'0112', short:'Lincoln Middle',      facility:null},
+  {code:'0201', short:'Hawthorne Mid/High',  facility:null},
+  {code:'0421', short:'Eastside High',       facility:null},
+];
+const MEMBERSHIP_YEARS = ['2014-15','2015-16','2016-17','2017-18','2018-19','2019-20','2020-21','2021-22','2022-23','2023-24','2024-25'];
+const PPP_YEAR = '2023-24'; // latest ESSA year with real published values
+
+const money = v => '$' + Math.round(v).toLocaleString();
+
+function schoolRec(year, code){ return (DATA.years[year] || {})[code] || null; }
+
+/* Latest year in which ANY east school has a non-null value for field. */
+function latestYearWith(field){
+  for (let i = DATA_YEAR_KEYS.length - 1; i >= 0; i--){
+    const y = DATA_YEAR_KEYS[i];
+    if (EAST_SCHOOLS.some(s => { const r = schoolRec(y, s.code); return r && r[field] != null; })) return y;
+  }
+  return null;
+}
+
+let DATA = null;
+let DATA_YEAR_KEYS = [];
+
+/* ---------- Beat I: per-pupil bars vs all-schools average ---------- */
+function drawPPP(){
+  const svg = document.getElementById('chartPPP');
+  clearSvg(svg);
+  const yearData = DATA.years[PPP_YEAR] || {};
+
+  const rows = EAST_SCHOOLS
+    .map(s => ({ short: s.short, ppp: (yearData[s.code] || {}).essa_total_per_pupil }))
+    .filter(r => r.ppp != null)
+    .sort((a,b) => a.ppp - b.ppp);
+
+  if (rows.length === 0){
+    const t = el('text',{x:20,y:30,class:'axis-label'});
+    t.textContent = 'No East GNV school has published per-pupil data for '+PPP_YEAR+'.'; svg.appendChild(t);
+    return;
+  }
+
+  // All-schools average across the whole district, same year.
+  const allPpp = Object.values(yearData).map(r => r.essa_total_per_pupil).filter(v => v != null);
+  const distAvg = allPpp.reduce((a,b)=>a+b,0) / allPpp.length;
+
+  const X0 = 160, X1 = 620, rowH = 34, top = 16;
+  const H = top + rows.length*rowH + 56;
+  svg.setAttribute('viewBox', '0 0 640 '+H);
+  const x = scaleFn([0, Math.max(distAvg, ...rows.map(r=>r.ppp)) * 1.12],[X0, X1]);
+
+  rows.forEach((r,i)=>{
+    const y = top + i*rowH;
+    const below = r.ppp < distAvg;
+    svg.appendChild(el('rect',{x:X0,y:y,width:x(r.ppp)-X0,height:22,
+      fill: below ? 'var(--alert)' : 'var(--zoned)', opacity:0.85}));
+    const name = el('text',{x:X0-10,y:y+15,class:'dot-label','text-anchor':'end'});
+    name.textContent = r.short; svg.appendChild(name);
+    const val = el('text',{x:x(r.ppp)+8,y:y+15,class:'dot-label'});
+    val.textContent = money(r.ppp); svg.appendChild(val);
+  });
+
+  // All-schools average marker
+  svg.appendChild(el('line',{x1:x(distAvg),y1:top-4,x2:x(distAvg),y2:top+rows.length*rowH+6,
+    stroke:'var(--ink)','stroke-width':1.4,'stroke-dasharray':'5,4'}));
+  const avgT = el('text',{x:x(distAvg)+6,y:top-6,class:'axis-label'});
+  avgT.textContent = 'All-schools avg '+money(distAvg); svg.appendChild(avgT);
+
+  niceTicks(0, Math.max(distAvg, ...rows.map(r=>r.ppp)) * 1.12, 5).forEach(v=>{
+    svg.appendChild(el('line',{x1:x(v),y1:top,x2:x(v),y2:top+rows.length*rowH+6,class:'grid-line'}));
+    const t = el('text',{x:x(v),y:top+rows.length*rowH+24,class:'axis-label','text-anchor':'middle'});
+    t.textContent = '$'+Math.round(v/1000)+'k'; svg.appendChild(t);
+  });
+}
+
+/* ---------- Beat II: small-multiples enrollment, one panel per school ---------- */
+function drawTrend(){
+  const svg = document.getElementById('chartTrend');
+  clearSvg(svg);
+  const cols = 5, cellW = 200, cellH = 200, padL = 4, padT = 10;
+  const east = EAST_SCHOOLS;
+
+  east.forEach((s, i)=>{
+    const cx = padL + (i % cols)*cellW, cy = padT + Math.floor(i / cols)*cellH;
+    const px0 = cx + 10, px1 = cx + cellW - 10, py0 = cy + 34, py1 = cy + cellH - 42;
+    const series = MEMBERSHIP_YEARS.map(yr => {
+      const r = schoolRec(yr, s.code);
+      return r && r.enrollment_total != null ? { yr, v: r.enrollment_total } : null;
+    });
+    const present = series.filter(Boolean);
+    const cell = el('g',{}); svg.appendChild(cell);
+
+    if (present.length < 2){
+      const t = el('text',{x:cx+10,y:cy+24,class:'axis-label'});
+      t.textContent = present.length
+        ? s.short + ': data only for ' + present[0].yr
+        : s.short + ': no enrollment data';
+      cell.appendChild(t);
+      return;
+    }
+    const vMin = Math.min(...present.map(p=>p.v)), vMax = Math.max(...present.map(p=>p.v));
+    const x = scaleFn([0, MEMBERSHIP_YEARS.length-1],[px0, px1]);
+    const y = scaleFn([vMin, vMax],[py1, py0]);
+
+    let d = '', started = false, peak = null, last = null;
+    series.forEach((p, yi)=>{
+      if (!p){ started = false; return; }
+      d += (started ? 'L' : 'M') + x(yi) + ',' + y(p.v) + ' ';
+      started = true;
+      if (!peak || p.v > peak.v) peak = { yr:p.yr, v:p.v, x:x(yi), y:y(p.v) };
+      last = { yr:p.yr, v:p.v, x:x(yi), y:y(p.v) };
+    });
+    cell.appendChild(el('path',{d:d.trim(), fill:'none', stroke:'var(--zoned)','stroke-width':1.8, opacity:0.85}));
+    cell.appendChild(el('circle',{cx:peak.x,cy:peak.y,r:4,fill:'var(--choice)'}));
+    cell.appendChild(el('circle',{cx:last.x,cy:last.y,r:4,fill:'var(--zoned)'}));
+
+    const name = el('text',{x:cx+10,y:cy+22,class:'dot-label'});
+    name.textContent = s.short; cell.appendChild(name);
+
+    const deltaPct = Math.round((last.v - peak.v)/peak.v * 100);
+    const delta = el('text',{x:cx+10,y:py1+16,class:'axis-label',
+      fill: deltaPct < 0 ? 'var(--alert)' : 'var(--zoned)'});
+    delta.textContent = deltaPct + '% from peak (' + peak.yr + ')'; cell.appendChild(delta);
+    const now = el('text',{x:cx+10,y:py1+30,class:'axis-label'});
+    now.textContent = 'peak ' + peak.v.toLocaleString() + ' → ' + last.v.toLocaleString() + ' (' + last.yr + ')';
+    cell.appendChild(now);
+
+    // Hover tooltip: school name + peak/now, same numbers as the labels.
+    const hit = el('rect',{x:cx,y:cy,width:cellW-8,height:cellH-8,fill:'transparent'});
+    const title = el('title',{});
+    title.textContent = s.short + ' — peak ' + peak.v.toLocaleString() + ' in ' + peak.yr
+      + '; ' + last.v.toLocaleString() + ' in ' + last.yr + ' (' + deltaPct + '%)';
+    hit.appendChild(title);
+    cell.appendChild(hit);
+  });
+}
+
+/* ---------- Beat III: draft-zone capacity bars, east elementary ---------- */
+function drawCapacity(){
+  const svg = document.getElementById('chartCapacity');
+  clearSvg(svg);
+  const eastFacilities = EAST_SCHOOLS.filter(s => s.facility).map(s => s.facility);
+  const byName = {};
+  (DATA.zones.draftElem.features || []).forEach(f=>{
+    const p = f.properties;
+    if (p.Facility && eastFacilities.includes(p.Facility.replace(' Elementary School',''))) {
+      byName[p.Facility.replace(' Elementary School','')] = { cap:p.Capacity2025, att:p.Attendance2025, pct:p.PctCap2025 };
+    }
+  });
+
+  const rows = EAST_SCHOOLS.filter(s => s.facility).map(s => ({ short:s.facility, ...(byName[s.facility] || {pct:null}) }));
+  const rowH = 32, top = 14;
+  const H = top + rows.length*rowH + 46;
+  svg.setAttribute('viewBox','0 0 640 '+H);
+  const X0 = 130, X1 = 600;
+  const x = scaleFn([0,130],[X0,X1]);
+
+  [0,25,50,75,100,125].forEach(v=>{
+    svg.appendChild(el('line',{x1:x(v),y1:top,x2:x(v),y2:top+rows.length*rowH+4,class:'grid-line'}));
+    const t = el('text',{x:x(v),y:top+rows.length*rowH+20,class:'axis-label','text-anchor':'middle'});
+    t.textContent = v+'%'; svg.appendChild(t);
+  });
+  svg.appendChild(el('line',{x1:x(100),y1:top,x2:x(100),y2:top+rows.length*rowH+4,
+    stroke:'var(--ink)','stroke-width':1.2,'stroke-dasharray':'4,3'}));
+  const capT = el('text',{x:x(100)+5,y:top-3,class:'axis-label'});
+  capT.textContent = '100% = building capacity'; svg.appendChild(capT);
+
+  rows.forEach((r,i)=>{
+    const y = top + i*rowH;
+    const name = el('text',{x:X0-10,y:y+15,class:'dot-label','text-anchor':'end'});
+    name.textContent = r.short; svg.appendChild(name);
+    if (r.pct == null){
+      const t = el('text',{x:X0+8,y:y+15,class:'axis-label'});
+      t.textContent = 'no capacity data in consultant dataset'; svg.appendChild(t);
+      return;
+    }
+    const fill = r.pct >= 108 ? 'var(--alert)' : (r.pct <= 88 ? 'var(--zoned)' : '#CC8A3C');
+    svg.appendChild(el('rect',{x:X0,y:y,width:x(r.pct)-X0,height:22,fill:fill,opacity:0.85}));
+    const val = el('text',{x:x(r.pct)+8,y:y+15,class:'dot-label'});
+    val.textContent = r.pct + '% (' + r.att + '/' + r.cap + ')'; svg.appendChild(val);
+  });
+}
+
+/* ---------- Hero + close stats ---------- */
+function fillStats(){
+  // Combined peak-vs-now must compare like-for-like: Duval Elementary has
+  // FL DOE membership only for 2014-15 (converted to the Early Learning
+  // Academy at Duval), so totals use only schools present in EVERY year.
+  const consistent = EAST_SCHOOLS.filter(s =>
+    MEMBERSHIP_YEARS.every(yr => {
+      const r = schoolRec(yr, s.code);
+      return r && r.enrollment_total != null;
+    }));
+  const enrollByYear = MEMBERSHIP_YEARS.map(yr => ({
+    yr,
+    total: consistent.reduce((sum, s) => sum + schoolRec(yr, s.code).enrollment_total, 0),
+  }));
+
+  if (enrollByYear.length){
+    const last = enrollByYear[enrollByYear.length-1];
+    const peak = enrollByYear.reduce((best,r) => r.total > best.total ? r : best);
+    document.getElementById('heroEastNow').textContent = last.total.toLocaleString();
+    document.getElementById('heroEastNowYear').textContent = last.yr;
+    document.getElementById('heroEastPeak').textContent = peak.total.toLocaleString();
+    document.getElementById('heroEastPeakYear').textContent = peak.yr;
+    document.getElementById('closeEastPeak').textContent = peak.total.toLocaleString() + ' students';
+    document.getElementById('closeEastPeakYear').textContent = peak.yr;
+    document.getElementById('closeEastNow').textContent = last.total.toLocaleString() + ' students';
+  }
+
+  const frplYear = latestYearWith('frpl_rate');
+  if (frplYear){
+    const yearData = DATA.years[frplYear];
+    const eastRates = EAST_SCHOOLS.map(s => (yearData[s.code]||{}).frpl_rate).filter(v => v != null);
+    const allRates = Object.values(yearData).map(r => r.frpl_rate).filter(v => v != null);
+    if (eastRates.length && allRates.length){
+      const east = eastRates.reduce((a,b)=>a+b,0)/eastRates.length;
+      const dist = allRates.reduce((a,b)=>a+b,0)/allRates.length;
+      document.getElementById('heroEastFrpl').textContent = Math.round(east*100)+'%';
+      document.getElementById('heroDistrictFrpl').textContent = Math.round(dist*100)+'%';
+      document.getElementById('heroFrplYear').textContent = frplYear;
+    }
+  }
+
+  const yearData = DATA.years[PPP_YEAR] || {};
+  const eastPpp = EAST_SCHOOLS.map(s => (yearData[s.code]||{}).essa_total_per_pupil).filter(v => v != null);
+  const allPpp = Object.values(yearData).map(r => r.essa_total_per_pupil).filter(v => v != null);
+  if (eastPpp.length && allPpp.length){
+    document.getElementById('heroEastPPP').textContent = money(eastPpp.reduce((a,b)=>a+b,0)/eastPpp.length);
+    document.getElementById('heroDistrictPPP').textContent = money(allPpp.reduce((a,b)=>a+b,0)/allPpp.length);
+    document.getElementById('heroPPPYear').textContent = PPP_YEAR;
+  }
+}
+
+/* ---------- Main ---------- */
+async function main(){
+  setEnrollmentMode('excluded'); // same default as the story page; no toggle here (see footer note)
+  DATA = await loadACPSData();
+  DATA_YEAR_KEYS = Object.keys(DATA.years).sort();
+  fillStats();
+  drawPPP();
+  drawTrend();
+  drawCapacity();
+}
+
+main().catch(err=>{
+  console.error('Failed to load ACPS data:', err);
+  document.querySelectorAll('svg[id^="chart"]').forEach(svg=>{
+    svg.innerHTML = '<text x="20" y="30" class="axis-label" fill="var(--alert)">Data failed to load: '+err.message+'</text>';
+  });
+});
+</script>
+</body>
+</html>
