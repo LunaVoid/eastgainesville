@@ -1,0 +1,167 @@
+<title>ACPS School Zones — Current vs. 2026-27 Draft</title>
+<style>
+  :root{
+    --bg:#f7f5f0; --panel:#ffffff; --text:#1c1a16; --muted:#6b665c;
+    --border:#e3ddd0; --accent:#8a3b2e;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#171512; --panel:#211e1a; --text:#efeae1; --muted:#a39c8d;
+      --border:#3a352c; --accent:#e08a6f;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#171512; --panel:#211e1a; --text:#efeae1; --muted:#a39c8d;
+    --border:#3a352c; --accent:#e08a6f;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;}
+  header{padding:14px 20px;border-bottom:1px solid var(--border);background:var(--panel);}
+  h1{font-size:1.05rem;margin:0 0 2px;font-weight:600;}
+  p.sub{margin:0;color:var(--muted);font-size:0.8rem;}
+  #wrap{display:flex;height:calc(100vh - 60px);}
+  #map{flex:1;}
+  #panel{width:260px;border-left:1px solid var(--border);background:var(--panel);padding:14px 16px;overflow-y:auto;font-size:0.82rem;}
+  #panel h2{font-size:0.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);margin:0 0 8px;}
+  #panel h2:not(:first-child){margin-top:18px;}
+  label{display:flex;align-items:center;gap:8px;margin:6px 0;cursor:pointer;}
+  .legend-row{display:flex;align-items:center;gap:8px;margin:4px 0;}
+  .swatch{width:14px;height:14px;border-radius:3px;flex-shrink:0;border:1px solid rgba(0,0,0,.15);}
+  .note{color:var(--muted);font-size:0.74rem;line-height:1.4;margin-top:14px;padding-top:12px;border-top:1px solid var(--border);}
+  .leaflet-popup-content-wrapper{background:var(--panel);color:var(--text);}
+  .leaflet-popup-tip{background:var(--panel);}
+  .leaflet-container{background:var(--bg);}
+</style>
+
+<header>
+  <h1>ACPS School Zones — Current vs. 2026-27 Draft</h1>
+  <p class="sub">Zone polygons and capacity/attendance figures pulled directly from Alachua County GIS and the ACPS rezoning consultant's live ArcGIS services.</p>
+</header>
+
+<div id="wrap">
+  <div id="map"></div>
+  <div id="panel">
+    <h2>Layers</h2>
+    <label><input type="checkbox" id="toggle-current-elem" checked> Current — Elementary</label>
+    <label><input type="checkbox" id="toggle-current-mid"> Current — Middle</label>
+    <label><input type="checkbox" id="toggle-current-high"> Current — High</label>
+    <label><input type="checkbox" id="toggle-draft-elem"> Draft 26-27 — Elementary</label>
+    <label><input type="checkbox" id="toggle-draft-mid"> Draft 26-27 — Middle</label>
+    <label><input type="checkbox" id="toggle-draft-high"> Draft 26-27 — High</label>
+    <label><input type="checkbox" id="toggle-schools" checked> School locations</label>
+
+    <h2>% of Capacity (draft layers only)</h2>
+    <div class="legend-row"><span class="swatch" style="background:#7a1d1d"></span> &lt; 60%</div>
+    <div class="legend-row"><span class="swatch" style="background:#c1542f"></span> 60–79%</div>
+    <div class="legend-row"><span class="swatch" style="background:#d9a441"></span> 80–99%</div>
+    <div class="legend-row"><span class="swatch" style="background:#4d7a3f"></span> 100%+</div>
+    <div class="legend-row"><span class="swatch" style="background:#8a8578"></span> no data (current zones)</div>
+
+    <div class="note">
+      Current zones = in-effect boundaries (Alachua County GIS).<br><br>
+      Draft zones = JBPro Group's 2026-27 rezoning scenario, with Capacity2025 / Attendance2025 fields.<br><br>
+      Click any zone for details.
+    </div>
+  </div>
+</div>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+const map = L.map('map').setView([29.66, -82.33], 11);
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '&copy; OpenStreetMap contributors', maxZoom: 19
+}).addTo(map);
+
+function pctColor(pct){
+  if (pct == null) return '#8a8578';
+  if (pct < 60) return '#7a1d1d';
+  if (pct < 80) return '#c1542f';
+  if (pct < 100) return '#d9a441';
+  return '#4d7a3f';
+}
+
+function getPct(props){
+  return props.PctCap2025 ?? props.PctCapacity2025 ?? null;
+}
+
+function zoneStyle(isDraft){
+  return function(feature){
+    const pct = isDraft ? getPct(feature.properties) : null;
+    return {
+      color: isDraft ? '#1c1a16' : '#2255cc',
+      weight: isDraft ? 1.5 : 2.5,
+      fillColor: isDraft ? pctColor(pct) : '#5588ee',
+      fillOpacity: isDraft ? 0.65 : 0.15,
+      dashArray: isDraft ? null : '6 4'
+    };
+  };
+}
+
+function esc(s){
+  return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+function popupHtml(props, isDraft){
+  const name = esc(props.Facility || props.FACILITY || 'Unknown');
+  let html = `<strong>${name}</strong>`;
+  if (props.Address) html += `<br>${esc(props.Address)}`;
+  if (isDraft){
+    const cap = props.Capacity2025, att = props.Attendance2025, pct = getPct(props);
+    if (cap != null && pct != null) html += `<br><br>Capacity: ${esc(cap)}<br>Attendance: ${esc(att)}<br><b>${esc(pct)}% of capacity</b>`;
+  }
+  return html;
+}
+
+function loadZoneLayer(url, isDraft){
+  return fetch(url).then(r => r.json()).then(data =>
+    L.geoJSON(data, {
+      style: zoneStyle(isDraft),
+      onEachFeature: (f, layer) => layer.bindPopup(popupHtml(f.properties, isDraft))
+    })
+  );
+}
+
+const files = {
+  currentElem: 'data/raw/zones/current_elem_zones.geojson',
+  currentMid:  'data/raw/zones/current_middle_zones.geojson',
+  currentHigh: 'data/raw/zones/current_high_zones.geojson',
+  draftElem:   'data/raw/zones/draft_elem_zones.geojson',
+  draftMid:    'data/raw/zones/draft_middle_zones.geojson',
+  draftHigh:   'data/raw/zones/draft_high_zones.geojson',
+};
+
+const layers = {};
+const toggleMap = {
+  currentElem: 'toggle-current-elem',
+  currentMid:  'toggle-current-mid',
+  currentHigh: 'toggle-current-high',
+  draftElem:   'toggle-draft-elem',
+  draftMid:    'toggle-draft-mid',
+  draftHigh:   'toggle-draft-high',
+};
+
+Promise.all(Object.entries(files).map(([key, url]) =>
+  loadZoneLayer(url, key.startsWith('draft')).then(layer => { layers[key] = layer; })
+)).then(() => {
+  Object.entries(toggleMap).forEach(([key, id]) => {
+    const cb = document.getElementById(id);
+    if (cb.checked) layers[key].addTo(map);
+    cb.addEventListener('change', () => {
+      if (cb.checked) layers[key].addTo(map); else map.removeLayer(layers[key]);
+    });
+  });
+}).catch(err => console.error('Zone layer load failed:', err));
+
+fetch('data/raw/zones/schools_points.geojson').then(r => r.json()).then(data => {
+  const schoolLayer = L.geoJSON(data, {
+    pointToLayer: (f, latlng) => L.circleMarker(latlng, {
+      radius: 4, color: '#1c1a16', weight: 1, fillColor: '#e0dccf', fillOpacity: 0.9
+    }),
+    onEachFeature: (f, layer) => layer.bindPopup(`<strong>${esc(f.properties.FACILITY)}</strong><br>${esc(f.properties.GRADES || '')}<br>${esc(f.properties.FULLADDR || '')}`)
+  }).addTo(map);
+  document.getElementById('toggle-schools').addEventListener('change', e => {
+    if (e.target.checked) schoolLayer.addTo(map); else map.removeLayer(schoolLayer);
+  });
+}).catch(err => console.error('Schools layer load failed:', err));
+</script>

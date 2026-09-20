@@ -1,0 +1,3992 @@
+{
+  "2021": {
+    "0031": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "CAROLYN BEATRICE PARKER ELEMENTARY",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9573,
+        "federal": 1507,
+        "total": 11080
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 1043,
+        "federal": 384,
+        "total": 1427
+      },
+      "total_per_pupil": 12506
+    },
+    "0041": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "STEPHEN FOSTER ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8839,
+        "federal": 1667,
+        "total": 10506
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 1024,
+        "federal": 375,
+        "total": 1400
+      },
+      "total_per_pupil": 11906
+    },
+    "0071": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "LAKE FOREST ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 11953,
+        "federal": 2988,
+        "total": 14942
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 1222,
+        "federal": 496,
+        "total": 1718
+      },
+      "total_per_pupil": 16660
+    },
+    "0081": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "SIDNEY LANIER CENTER",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 25074,
+        "federal": 6468,
+        "total": 31543
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 2437,
+        "federal": 665,
+        "total": 3102
+      },
+      "total_per_pupil": 34645
+    },
+    "0082": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HOSPITAL HOMEBOUND",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 19477,
+        "federal": 1756,
+        "total": 21232
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 2083,
+        "federal": 295,
+        "total": 2379
+      },
+      "total_per_pupil": 23611
+    },
+    "0091": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "LITTLEWOOD ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9477,
+        "federal": 1722,
+        "total": 11199
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 1144,
+        "federal": 350,
+        "total": 1495
+      },
+      "total_per_pupil": 12694
+    },
+    "0101": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "W. A. METCALFE ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 14188,
+        "federal": 2292,
+        "total": 16479
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 1316,
+        "federal": 433,
+        "total": 1749
+      },
+      "total_per_pupil": 18228
+    },
+    "0111": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "JOSEPH WILLIAMS ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7938,
+        "federal": 2135,
+        "total": 10072
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 951,
+        "federal": 301,
+        "total": 1252
+      },
+      "total_per_pupil": 11324
+    },
+    "0112": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ABRAHAM LINCOLN MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 6613,
+        "federal": 554,
+        "total": 7167
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 791,
+        "federal": 170,
+        "total": 962
+      },
+      "total_per_pupil": 8129
+    },
+    "0121": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HOWARD W. BISHOP MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7959,
+        "federal": 557,
+        "total": 8516
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 818,
+        "federal": 193,
+        "total": 1010
+      },
+      "total_per_pupil": 9526
+    },
+    "0141": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "WESTWOOD MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7846,
+        "federal": 688,
+        "total": 8533
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 890,
+        "federal": 206,
+        "total": 1096
+      },
+      "total_per_pupil": 9629
+    },
+    "0151": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "GAINESVILLE HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 6824,
+        "federal": 481,
+        "total": 7305
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 724,
+        "federal": 194,
+        "total": 917
+      },
+      "total_per_pupil": 8222
+    },
+    "0161": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9881,
+        "federal": 1601,
+        "total": 11482
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 1043,
+        "federal": 352,
+        "total": 1395
+      },
+      "total_per_pupil": 12878
+    },
+    "0171": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ARCHER ELEMENTARY",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8568,
+        "federal": 1439,
+        "total": 10007
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 1054,
+        "federal": 350,
+        "total": 1404
+      },
+      "total_per_pupil": 11411
+    },
+    "0201": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HAWTHORNE MIDDLE/HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8131,
+        "federal": 1176,
+        "total": 9306
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 760,
+        "federal": 272,
+        "total": 1032
+      },
+      "total_per_pupil": 10338
+    },
+    "0221": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "A. L. MEBANE MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8657,
+        "federal": 746,
+        "total": 9404
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 850,
+        "federal": 202,
+        "total": 1051
+      },
+      "total_per_pupil": 10455
+    },
+    "0261": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "NEWBERRY HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8230,
+        "federal": 762,
+        "total": 8992
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 864,
+        "federal": 187,
+        "total": 1051
+      },
+      "total_per_pupil": 10043
+    },
+    "0271": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "SANTA FE HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 6927,
+        "federal": 453,
+        "total": 7381
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 686,
+        "federal": 140,
+        "total": 827
+      },
+      "total_per_pupil": 8208
+    },
+    "0281": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "CHESTER SHELL ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8537,
+        "federal": 2240,
+        "total": 10777
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 1020,
+        "federal": 355,
+        "total": 1375
+      },
+      "total_per_pupil": 12152
+    },
+    "0311": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MYRA TERWILLIGER ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9868,
+        "federal": 1991,
+        "total": 11859
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 1000,
+        "federal": 392,
+        "total": 1392
+      },
+      "total_per_pupil": 13250
+    },
+    "0321": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "IDYLWILD ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9247,
+        "federal": 2464,
+        "total": 11712
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 1010,
+        "federal": 385,
+        "total": 1394
+      },
+      "total_per_pupil": 13106
+    },
+    "0331": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "GLEN SPRINGS ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8799,
+        "federal": 1750,
+        "total": 10549
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 991,
+        "federal": 329,
+        "total": 1320
+      },
+      "total_per_pupil": 11869
+    },
+    "0341": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MARJORIE KINNAN RAWLINGS ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 11365,
+        "federal": 2471,
+        "total": 13835
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 1327,
+        "federal": 415,
+        "total": 1743
+      },
+      "total_per_pupil": 15578
+    },
+    "0411": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "PROFESSIONAL ACADEMY MAGNET AT LOFTEN HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 12418,
+        "federal": 1072,
+        "total": 13490
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 1017,
+        "federal": 307,
+        "total": 1323
+      },
+      "total_per_pupil": 14813
+    },
+    "0421": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "EASTSIDE HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7930,
+        "federal": 653,
+        "total": 8584
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 797,
+        "federal": 199,
+        "total": 996
+      },
+      "total_per_pupil": 9580
+    },
+    "0431": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "F. W. BUCHHOLZ HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 6207,
+        "federal": 379,
+        "total": 6586
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 613,
+        "federal": 131,
+        "total": 744
+      },
+      "total_per_pupil": 7330
+    },
+    "0461": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HIGH SPRINGS COMMUNITY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7530,
+        "federal": 600,
+        "total": 8130
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 788,
+        "federal": 195,
+        "total": 982
+      },
+      "total_per_pupil": 9113
+    },
+    "0481": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "FORT CLARKE MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 6774,
+        "federal": 581,
+        "total": 7355
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 727,
+        "federal": 135,
+        "total": 862
+      },
+      "total_per_pupil": 8217
+    },
+    "0482": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HIDDEN OAK ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7653,
+        "federal": 728,
+        "total": 8381
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 906,
+        "federal": 197,
+        "total": 1103
+      },
+      "total_per_pupil": 9484
+    },
+    "0501": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "KIMBALL WILES ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7673,
+        "federal": 1246,
+        "total": 8919
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 958,
+        "federal": 342,
+        "total": 1300
+      },
+      "total_per_pupil": 10219
+    },
+    "0502": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "KANAPAHA MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7073,
+        "federal": 754,
+        "total": 7827
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 827,
+        "federal": 176,
+        "total": 1002
+      },
+      "total_per_pupil": 8830
+    },
+    "0510": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "LAWTON M. CHILES ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7752,
+        "federal": 723,
+        "total": 8475
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 936,
+        "federal": 201,
+        "total": 1136
+      },
+      "total_per_pupil": 9612
+    },
+    "0520": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MEADOWBROOK ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7304,
+        "federal": 612,
+        "total": 7916
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 879,
+        "federal": 166,
+        "total": 1045
+      },
+      "total_per_pupil": 8960
+    },
+    "0531": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "NEWBERRY ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7704,
+        "federal": 1503,
+        "total": 9208
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 964,
+        "federal": 329,
+        "total": 1294
+      },
+      "total_per_pupil": 10502
+    },
+    "0541": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "C. W. NORTON ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8408,
+        "federal": 1598,
+        "total": 10007
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 1043,
+        "federal": 304,
+        "total": 1347
+      },
+      "total_per_pupil": 11354
+    },
+    "0561": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "WILLIAM S. TALBOT ELEM SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8515,
+        "federal": 975,
+        "total": 9491
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 1018,
+        "federal": 190,
+        "total": 1208
+      },
+      "total_per_pupil": 10699
+    },
+    "0591": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "OAK VIEW MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 6903,
+        "federal": 536,
+        "total": 7438
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 665,
+        "federal": 130,
+        "total": 795
+      },
+      "total_per_pupil": 8233
+    },
+    "0950": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "THE ONE ROOM SCHOOL HOUSE PROJECT",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8275,
+        "federal": 870,
+        "total": 9146
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 9146
+    },
+    "0951": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MICANOPY AREA COOPERATIVE SCHOOL, INC.",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7605,
+        "federal": 1022,
+        "total": 8628
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 8628
+    },
+    "0953": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "CARING & SHARING LEARNING SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8495,
+        "federal": 1568,
+        "total": 10063
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 10063
+    },
+    "0955": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "THE EINSTEIN SCHOOL, INC.",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 10107,
+        "federal": 344,
+        "total": 10451
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 10451
+    },
+    "0956": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "EXPRESSIONS LEARNING ARTS ACADEMY",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9358,
+        "federal": 84,
+        "total": 9442
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 9442
+    },
+    "0957": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA LEARNING ACADEMY ELEMENTARY",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 5986,
+        "federal": 749,
+        "total": 6735
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 6735
+    },
+    "0961": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MICANOPY  ACADEMY",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 5807,
+        "federal": 81,
+        "total": 5888
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 5888
+    },
+    "0981": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HEALTHY LEARNING ACADEMY CHARTER SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7572,
+        "federal": 129,
+        "total": 7701
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 7701
+    },
+    "0991": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "SIATECH AT GAINESVILLE",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7613,
+        "federal": 0,
+        "total": 7613
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 7613
+    },
+    "1003": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "NORTH CENTRAL FLORIDA PUBLIC CHARTER SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7294,
+        "federal": 865,
+        "total": 8159
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 8159
+    },
+    "1011": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA LEARNING ACADEMY MIDDLE",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 5346,
+        "federal": 321,
+        "total": 5668
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 5668
+    },
+    "1012": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "BOULWARE SPRINGS CHARTER",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 6960,
+        "federal": 1423,
+        "total": 8384
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 8384
+    },
+    "1013": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "RESILIENCE CHARTER SCHOOL INC",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 6673,
+        "federal": 420,
+        "total": 7093
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 7093
+    },
+    "7004": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA ESCHOOL (VIRTUAL FRANCHISE)",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 5178,
+        "federal": 1610,
+        "total": 6788
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 669,
+        "federal": 118,
+        "total": 787
+      },
+      "total_per_pupil": 7575
+    },
+    "7023": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA VIRTUAL INSTRUCTION PROGRAM (DISTRICT PROVIDED)",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 5212,
+        "federal": 2447,
+        "total": 7659
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 857,
+        "federal": 151,
+        "total": 1008
+      },
+      "total_per_pupil": 8667
+    }
+  },
+  "2022": {
+    "0031": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "CAROLYN BEATRICE PARKER ELEMENTARY",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8781,
+        "federal": 1724,
+        "total": 10505
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 771,
+        "federal": 253,
+        "total": 1023
+      },
+      "total_per_pupil": 11528
+    },
+    "0041": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "STEPHEN FOSTER ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8614,
+        "federal": 1792,
+        "total": 10406
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 799,
+        "federal": 291,
+        "total": 1090
+      },
+      "total_per_pupil": 11496
+    },
+    "0052": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "A.QUINN JONES CENTER",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 40890,
+        "federal": 5975,
+        "total": 46865
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 2457,
+        "federal": 935,
+        "total": 3392
+      },
+      "total_per_pupil": 50258
+    },
+    "0071": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "LAKE FOREST ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 13078,
+        "federal": 3292,
+        "total": 16370
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 1067,
+        "federal": 409,
+        "total": 1475
+      },
+      "total_per_pupil": 17845
+    },
+    "0081": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "SIDNEY LANIER CENTER",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 24716,
+        "federal": 6637,
+        "total": 31353
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 1658,
+        "federal": 860,
+        "total": 2518
+      },
+      "total_per_pupil": 33871
+    },
+    "0082": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HOSPITAL HOMEBOUND",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 96882,
+        "federal": 3363,
+        "total": 100246
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 7286,
+        "federal": 5463,
+        "total": 12750
+      },
+      "total_per_pupil": 112995
+    },
+    "0091": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "LITTLEWOOD ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9060,
+        "federal": 1805,
+        "total": 10865
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 845,
+        "federal": 293,
+        "total": 1138
+      },
+      "total_per_pupil": 12003
+    },
+    "0101": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "W. A. METCALFE ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 12226,
+        "federal": 2081,
+        "total": 14306
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 992,
+        "federal": 364,
+        "total": 1357
+      },
+      "total_per_pupil": 15663
+    },
+    "0111": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "JOSEPH WILLIAMS ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8365,
+        "federal": 2047,
+        "total": 10413
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 760,
+        "federal": 297,
+        "total": 1058
+      },
+      "total_per_pupil": 11471
+    },
+    "0112": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ABRAHAM LINCOLN MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 6764,
+        "federal": 527,
+        "total": 7291
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 554,
+        "federal": 195,
+        "total": 749
+      },
+      "total_per_pupil": 8039
+    },
+    "0121": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HOWARD W. BISHOP MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7651,
+        "federal": 503,
+        "total": 8154
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 552,
+        "federal": 161,
+        "total": 714
+      },
+      "total_per_pupil": 8868
+    },
+    "0141": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "WESTWOOD MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8260,
+        "federal": 827,
+        "total": 9088
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 651,
+        "federal": 211,
+        "total": 862
+      },
+      "total_per_pupil": 9950
+    },
+    "0151": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "GAINESVILLE HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 6684,
+        "federal": 577,
+        "total": 7261
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 461,
+        "federal": 110,
+        "total": 571
+      },
+      "total_per_pupil": 7832
+    },
+    "0161": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9787,
+        "federal": 1652,
+        "total": 11439
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 770,
+        "federal": 285,
+        "total": 1055
+      },
+      "total_per_pupil": 12494
+    },
+    "0171": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ARCHER ELEMENTARY",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8431,
+        "federal": 1415,
+        "total": 9846
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 720,
+        "federal": 192,
+        "total": 912
+      },
+      "total_per_pupil": 10758
+    },
+    "0201": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HAWTHORNE MIDDLE/HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7994,
+        "federal": 1385,
+        "total": 9379
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 526,
+        "federal": 161,
+        "total": 687
+      },
+      "total_per_pupil": 10066
+    },
+    "0221": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "A. L. MEBANE MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9196,
+        "federal": 858,
+        "total": 10054
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 671,
+        "federal": 192,
+        "total": 862
+      },
+      "total_per_pupil": 10916
+    },
+    "0261": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "NEWBERRY HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7455,
+        "federal": 648,
+        "total": 8103
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 493,
+        "federal": 122,
+        "total": 615
+      },
+      "total_per_pupil": 8717
+    },
+    "0271": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "SANTA FE HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 6935,
+        "federal": 544,
+        "total": 7479
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 484,
+        "federal": 121,
+        "total": 606
+      },
+      "total_per_pupil": 8085
+    },
+    "0281": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "CHESTER SHELL ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9344,
+        "federal": 2166,
+        "total": 11510
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 860,
+        "federal": 253,
+        "total": 1113
+      },
+      "total_per_pupil": 12623
+    },
+    "0311": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MYRA TERWILLIGER ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9084,
+        "federal": 1864,
+        "total": 10948
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 778,
+        "federal": 237,
+        "total": 1015
+      },
+      "total_per_pupil": 11963
+    },
+    "0321": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "IDYLWILD ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8556,
+        "federal": 2156,
+        "total": 10712
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 727,
+        "federal": 261,
+        "total": 988
+      },
+      "total_per_pupil": 11701
+    },
+    "0331": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "GLEN SPRINGS ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8714,
+        "federal": 1632,
+        "total": 10346
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 732,
+        "federal": 202,
+        "total": 935
+      },
+      "total_per_pupil": 11281
+    },
+    "0341": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MARJORIE KINNAN RAWLINGS ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 11329,
+        "federal": 2276,
+        "total": 13604
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 978,
+        "federal": 323,
+        "total": 1300
+      },
+      "total_per_pupil": 14905
+    },
+    "0411": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "PROFESSIONAL ACADEMY MAGNET AT LOFTEN HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 12603,
+        "federal": 1206,
+        "total": 13809
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 731,
+        "federal": 204,
+        "total": 935
+      },
+      "total_per_pupil": 14744
+    },
+    "0421": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "EASTSIDE HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8048,
+        "federal": 670,
+        "total": 8718
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 559,
+        "federal": 130,
+        "total": 689
+      },
+      "total_per_pupil": 9408
+    },
+    "0431": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "F. W. BUCHHOLZ HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 5899,
+        "federal": 432,
+        "total": 6332
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 412,
+        "federal": 92,
+        "total": 504
+      },
+      "total_per_pupil": 6836
+    },
+    "0461": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HIGH SPRINGS COMMUNITY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7568,
+        "federal": 690,
+        "total": 8258
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 639,
+        "federal": 170,
+        "total": 808
+      },
+      "total_per_pupil": 9066
+    },
+    "0481": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "FORT CLARKE MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7151,
+        "federal": 671,
+        "total": 7822
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 617,
+        "federal": 171,
+        "total": 788
+      },
+      "total_per_pupil": 8610
+    },
+    "0482": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HIDDEN OAK ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7672,
+        "federal": 772,
+        "total": 8443
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 708,
+        "federal": 212,
+        "total": 919
+      },
+      "total_per_pupil": 9362
+    },
+    "0501": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "KIMBALL WILES ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7811,
+        "federal": 1324,
+        "total": 9135
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 743,
+        "federal": 233,
+        "total": 976
+      },
+      "total_per_pupil": 10110
+    },
+    "0502": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "KANAPAHA MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 6692,
+        "federal": 630,
+        "total": 7322
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 530,
+        "federal": 154,
+        "total": 684
+      },
+      "total_per_pupil": 8006
+    },
+    "0510": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "LAWTON M. CHILES ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8193,
+        "federal": 772,
+        "total": 8965
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 738,
+        "federal": 221,
+        "total": 958
+      },
+      "total_per_pupil": 9923
+    },
+    "0520": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MEADOWBROOK ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7473,
+        "federal": 660,
+        "total": 8133
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 691,
+        "federal": 191,
+        "total": 882
+      },
+      "total_per_pupil": 9014
+    },
+    "0531": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "NEWBERRY ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7734,
+        "federal": 1671,
+        "total": 9405
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 733,
+        "federal": 232,
+        "total": 966
+      },
+      "total_per_pupil": 10371
+    },
+    "0541": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "C. W. NORTON ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8727,
+        "federal": 1578,
+        "total": 10305
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 800,
+        "federal": 256,
+        "total": 1056
+      },
+      "total_per_pupil": 11360
+    },
+    "0561": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "WILLIAM S. TALBOT ELEM SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8636,
+        "federal": 888,
+        "total": 9524
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 779,
+        "federal": 235,
+        "total": 1014
+      },
+      "total_per_pupil": 10538
+    },
+    "0591": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "OAK VIEW MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 6890,
+        "federal": 544,
+        "total": 7435
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 537,
+        "federal": 159,
+        "total": 696
+      },
+      "total_per_pupil": 8131
+    },
+    "0950": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "THE ONE ROOM SCHOOL HOUSE PROJECT",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8107,
+        "federal": 3554,
+        "total": 11661
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 11661
+    },
+    "0951": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MICANOPY AREA COOPERATIVE SCHOOL, INC.",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8440,
+        "federal": 828,
+        "total": 9269
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 9269
+    },
+    "0953": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "CARING & SHARING LEARNING SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7729,
+        "federal": 3062,
+        "total": 10791
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 10791
+    },
+    "0955": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "THE EINSTEIN SCHOOL, INC.",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9061,
+        "federal": 2258,
+        "total": 11319
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 11319
+    },
+    "0956": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "EXPRESSIONS LEARNING ARTS ACADEMY",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8094,
+        "federal": 540,
+        "total": 8635
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 8635
+    },
+    "0957": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA LEARNING ACADEMY ELEMENTARY",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7568,
+        "federal": 1358,
+        "total": 8927
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 8927
+    },
+    "0961": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MICANOPY ACADEMY",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7143,
+        "federal": 698,
+        "total": 7840
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 7840
+    },
+    "0981": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HEALTHY LEARNING ACADEMY CHARTER SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7798,
+        "federal": 2580,
+        "total": 10378
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 10378
+    },
+    "0991": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "SIATECH AT GAINESVILLE",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7324,
+        "federal": 2308,
+        "total": 9632
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 9632
+    },
+    "1003": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "NORTH CENTRAL FLORIDA PUBLIC CHARTER SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7925,
+        "federal": 1634,
+        "total": 9559
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 9559
+    },
+    "1011": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA LEARNING ACADEMY MIDDLE",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 6825,
+        "federal": 1111,
+        "total": 7936
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 7936
+    },
+    "1012": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "BOULWARE SPRINGS CHARTER",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8207,
+        "federal": 2185,
+        "total": 10391
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 10391
+    },
+    "1013": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "RESILIENCE CHARTER SCHOOL INC",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7622,
+        "federal": 2872,
+        "total": 10494
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 10494
+    },
+    "7004": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA ESCHOOL (VIRTUAL FRANCHISE)",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 5535,
+        "federal": 290,
+        "total": 5825
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 373,
+        "federal": 68,
+        "total": 441
+      },
+      "total_per_pupil": 6266
+    },
+    "7023": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA VIRTUAL INSTRUCTION PROGRAM (DISTRICT PROVIDED)",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 2911,
+        "federal": 137,
+        "total": 3047
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 272,
+        "federal": 49,
+        "total": 321
+      },
+      "total_per_pupil": 3368
+    }
+  },
+  "2023": {
+    "0031": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "CAROLYN BEATRICE PARKER ELEMENTARY",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9176,
+        "federal": 1641,
+        "total": 10817
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 505,
+        "federal": 53,
+        "total": 558
+      },
+      "total_per_pupil": 11375
+    },
+    "0041": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "STEPHEN FOSTER ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8894,
+        "federal": 1966,
+        "total": 10860
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 514,
+        "federal": 57,
+        "total": 571
+      },
+      "total_per_pupil": 11431
+    },
+    "0052": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "A.QUINN JONES CENTER",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 38513,
+        "federal": 7241,
+        "total": 45754
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 1478,
+        "federal": 188,
+        "total": 1665
+      },
+      "total_per_pupil": 47419
+    },
+    "0071": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "LAKE FOREST ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 11175,
+        "federal": 3607,
+        "total": 14782
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 600,
+        "federal": 67,
+        "total": 667
+      },
+      "total_per_pupil": 15449
+    },
+    "0081": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "SIDNEY LANIER CENTER",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 27626,
+        "federal": 8039,
+        "total": 35665
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 1270,
+        "federal": 143,
+        "total": 1412
+      },
+      "total_per_pupil": 37077
+    },
+    "0091": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "LITTLEWOOD ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8932,
+        "federal": 1864,
+        "total": 10797
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 531,
+        "federal": 60,
+        "total": 590
+      },
+      "total_per_pupil": 11387
+    },
+    "0101": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "W. A. METCALFE ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8072,
+        "federal": 2129,
+        "total": 10202
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 459,
+        "federal": 44,
+        "total": 503
+      },
+      "total_per_pupil": 10705
+    },
+    "0111": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "JOSEPH WILLIAMS ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8259,
+        "federal": 1696,
+        "total": 9955
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 448,
+        "federal": 46,
+        "total": 494
+      },
+      "total_per_pupil": 10448
+    },
+    "0112": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ABRAHAM LINCOLN MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7387,
+        "federal": 751,
+        "total": 8138
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 405,
+        "federal": 32,
+        "total": 438
+      },
+      "total_per_pupil": 8576
+    },
+    "0121": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HOWARD W. BISHOP MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7177,
+        "federal": 760,
+        "total": 7936
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 369,
+        "federal": 34,
+        "total": 402
+      },
+      "total_per_pupil": 8338
+    },
+    "0141": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "WESTWOOD MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8017,
+        "federal": 844,
+        "total": 8861
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 378,
+        "federal": 35,
+        "total": 414
+      },
+      "total_per_pupil": 9275
+    },
+    "0151": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "GAINESVILLE HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7250,
+        "federal": 645,
+        "total": 7896
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 327,
+        "federal": 28,
+        "total": 354
+      },
+      "total_per_pupil": 8250
+    },
+    "0161": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 10109,
+        "federal": 2649,
+        "total": 12759
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 519,
+        "federal": 57,
+        "total": 577
+      },
+      "total_per_pupil": 13335
+    },
+    "0171": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ARCHER ELEMENTARY",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9585,
+        "federal": 1893,
+        "total": 11478
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 552,
+        "federal": 48,
+        "total": 600
+      },
+      "total_per_pupil": 12078
+    },
+    "0201": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HAWTHORNE MIDDLE/HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8161,
+        "federal": 1611,
+        "total": 9772
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 375,
+        "federal": 37,
+        "total": 413
+      },
+      "total_per_pupil": 10185
+    },
+    "0221": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "A. L. MEBANE MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9111,
+        "federal": 866,
+        "total": 9977
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 410,
+        "federal": 39,
+        "total": 448
+      },
+      "total_per_pupil": 10425
+    },
+    "0261": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "NEWBERRY HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7797,
+        "federal": 688,
+        "total": 8485
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 382,
+        "federal": 30,
+        "total": 412
+      },
+      "total_per_pupil": 8898
+    },
+    "0271": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "SANTA FE HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7180,
+        "federal": 620,
+        "total": 7800
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 339,
+        "federal": 29,
+        "total": 367
+      },
+      "total_per_pupil": 8167
+    },
+    "0281": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "CHESTER SHELL ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9599,
+        "federal": 3578,
+        "total": 13177
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 522,
+        "federal": 64,
+        "total": 586
+      },
+      "total_per_pupil": 13763
+    },
+    "0311": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MYRA TERWILLIGER ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8190,
+        "federal": 2174,
+        "total": 10364
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 494,
+        "federal": 54,
+        "total": 548
+      },
+      "total_per_pupil": 10911
+    },
+    "0321": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "IDYLWILD ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9846,
+        "federal": 2937,
+        "total": 12784
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 536,
+        "federal": 66,
+        "total": 602
+      },
+      "total_per_pupil": 13386
+    },
+    "0331": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "GLEN SPRINGS ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8882,
+        "federal": 1748,
+        "total": 10630
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 481,
+        "federal": 44,
+        "total": 525
+      },
+      "total_per_pupil": 11155
+    },
+    "0341": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MARJORIE KINNAN RAWLINGS ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 10474,
+        "federal": 3339,
+        "total": 13812
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 619,
+        "federal": 65,
+        "total": 684
+      },
+      "total_per_pupil": 14496
+    },
+    "0411": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "PROFESSIONAL ACADEMY MAGNET AT LOFTEN HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 12883,
+        "federal": 1318,
+        "total": 14201
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 479,
+        "federal": 36,
+        "total": 515
+      },
+      "total_per_pupil": 14716
+    },
+    "0421": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "EASTSIDE HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8430,
+        "federal": 662,
+        "total": 9093
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 372,
+        "federal": 31,
+        "total": 403
+      },
+      "total_per_pupil": 9495
+    },
+    "0431": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "F. W. BUCHHOLZ HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 6445,
+        "federal": 450,
+        "total": 6895
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 297,
+        "federal": 25,
+        "total": 322
+      },
+      "total_per_pupil": 7217
+    },
+    "0461": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HIGH SPRINGS COMMUNITY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8106,
+        "federal": 1178,
+        "total": 9284
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 448,
+        "federal": 47,
+        "total": 495
+      },
+      "total_per_pupil": 9779
+    },
+    "0481": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "FORT CLARKE MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7261,
+        "federal": 798,
+        "total": 8059
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 373,
+        "federal": 36,
+        "total": 409
+      },
+      "total_per_pupil": 8468
+    },
+    "0482": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HIDDEN OAK ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8593,
+        "federal": 1118,
+        "total": 9710
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 498,
+        "federal": 56,
+        "total": 553
+      },
+      "total_per_pupil": 10263
+    },
+    "0501": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "KIMBALL WILES ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8353,
+        "federal": 1467,
+        "total": 9820
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 501,
+        "federal": 47,
+        "total": 548
+      },
+      "total_per_pupil": 10368
+    },
+    "0502": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "KANAPAHA MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7335,
+        "federal": 884,
+        "total": 8219
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 385,
+        "federal": 37,
+        "total": 421
+      },
+      "total_per_pupil": 8640
+    },
+    "0510": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "LAWTON M. CHILES ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8232,
+        "federal": 1058,
+        "total": 9290
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 475,
+        "federal": 46,
+        "total": 522
+      },
+      "total_per_pupil": 9812
+    },
+    "0520": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MEADOWBROOK ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7609,
+        "federal": 870,
+        "total": 8480
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 446,
+        "federal": 35,
+        "total": 482
+      },
+      "total_per_pupil": 8962
+    },
+    "0531": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "NEWBERRY ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8071,
+        "federal": 1674,
+        "total": 9745
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 455,
+        "federal": 48,
+        "total": 503
+      },
+      "total_per_pupil": 10248
+    },
+    "0541": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "C. W. NORTON ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8201,
+        "federal": 1731,
+        "total": 9932
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 497,
+        "federal": 47,
+        "total": 544
+      },
+      "total_per_pupil": 10476
+    },
+    "0561": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "WILLIAM S. TALBOT ELEM SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8981,
+        "federal": 1079,
+        "total": 10060
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 506,
+        "federal": 51,
+        "total": 557
+      },
+      "total_per_pupil": 10617
+    },
+    "0591": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "OAK VIEW MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7146,
+        "federal": 843,
+        "total": 7990
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 360,
+        "federal": 38,
+        "total": 398
+      },
+      "total_per_pupil": 8388
+    },
+    "0950": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "THE ONE ROOM SCHOOL HOUSE PROJECT",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7427,
+        "federal": 809,
+        "total": 8236
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 8236
+    },
+    "0951": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MICANOPY AREA COOPERATIVE SCHOOL, INC.",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8195,
+        "federal": 967,
+        "total": 9162
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 9162
+    },
+    "0953": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "CARING & SHARING LEARNING SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8022,
+        "federal": 1549,
+        "total": 9571
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 9571
+    },
+    "0955": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "THE EINSTEIN SCHOOL, INC.",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8942,
+        "federal": 1084,
+        "total": 10026
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 10026
+    },
+    "0956": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "EXPRESSIONS LEARNING ARTS ACADEMY",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8266,
+        "federal": 854,
+        "total": 9121
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 9121
+    },
+    "0957": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA LEARNING ACADEMY ELEMENTARY",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8060,
+        "federal": 2193,
+        "total": 10254
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 10254
+    },
+    "0961": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MICANOPY ACADEMY",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7722,
+        "federal": 791,
+        "total": 8513
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 8513
+    },
+    "0981": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HEALTHY LEARNING ACADEMY CHARTER SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8101,
+        "federal": 132,
+        "total": 8234
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 8234
+    },
+    "0991": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "SIATECH MYCROSCHOOL, INC.",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 6659,
+        "federal": 1161,
+        "total": 7820
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 7820
+    },
+    "1003": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "NORTH CENTRAL FLORIDA PUBLIC CHARTER SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7158,
+        "federal": 921,
+        "total": 8080
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 8080
+    },
+    "1011": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA LEARNING ACADEMY MIDDLE",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7635,
+        "federal": 1933,
+        "total": 9568
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 9568
+    },
+    "1012": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "BOULWARE SPRINGS CHARTER",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8110,
+        "federal": 1296,
+        "total": 9407
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 9407
+    },
+    "1013": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "RESILIENCE CHARTER SCHOOL INC",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7744,
+        "federal": 864,
+        "total": 8608
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 8608
+    },
+    "7004": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA ESCHOOL (VIRTUAL FRANCHISE)",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 6488,
+        "federal": 300,
+        "total": 6787
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 193,
+        "federal": 15,
+        "total": 208
+      },
+      "total_per_pupil": 6996
+    },
+    "7023": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA VIRTUAL INSTRUCTION PROGRAM (DISTRICT PROVIDED)",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8321,
+        "federal": 752,
+        "total": 9074
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 463,
+        "federal": 35,
+        "total": 499
+      },
+      "total_per_pupil": 9572
+    }
+  },
+  "2024": {
+    "0031": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "CAROLYN BEATRICE PARKER ELEMENTARY",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9436,
+        "federal": 1714,
+        "total": 11150
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 554,
+        "federal": 84,
+        "total": 638
+      },
+      "total_per_pupil": 11788
+    },
+    "0041": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "STEPHEN FOSTER ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 10121,
+        "federal": 2435,
+        "total": 12557
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 600,
+        "federal": 93,
+        "total": 693
+      },
+      "total_per_pupil": 13250
+    },
+    "0052": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "A.QUINN JONES CENTER",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 32727,
+        "federal": 6934,
+        "total": 39660
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 1310,
+        "federal": 141,
+        "total": 1451
+      },
+      "total_per_pupil": 41111
+    },
+    "0071": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "LAKE FOREST ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 14317,
+        "federal": 3523,
+        "total": 17840
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 736,
+        "federal": 79,
+        "total": 816
+      },
+      "total_per_pupil": 18656
+    },
+    "0081": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "SIDNEY LANIER CENTER",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 27101,
+        "federal": 7591,
+        "total": 34693
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 1237,
+        "federal": 119,
+        "total": 1356
+      },
+      "total_per_pupil": 36049
+    },
+    "0091": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "LITTLEWOOD ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9442,
+        "federal": 1997,
+        "total": 11439
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 586,
+        "federal": 89,
+        "total": 676
+      },
+      "total_per_pupil": 12115
+    },
+    "0101": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "W. A. METCALFE ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9542,
+        "federal": 2772,
+        "total": 12314
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 605,
+        "federal": 65,
+        "total": 670
+      },
+      "total_per_pupil": 12985
+    },
+    "0111": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "JOSEPH WILLIAMS ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8491,
+        "federal": 1858,
+        "total": 10350
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 509,
+        "federal": 55,
+        "total": 564
+      },
+      "total_per_pupil": 10914
+    },
+    "0112": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ABRAHAM LINCOLN MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8214,
+        "federal": 706,
+        "total": 8920
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 443,
+        "federal": 33,
+        "total": 477
+      },
+      "total_per_pupil": 9397
+    },
+    "0121": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HOWARD W. BISHOP MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8051,
+        "federal": 710,
+        "total": 8761
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 422,
+        "federal": 33,
+        "total": 454
+      },
+      "total_per_pupil": 9215
+    },
+    "0141": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "WESTWOOD MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9093,
+        "federal": 997,
+        "total": 10090
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 453,
+        "federal": 58,
+        "total": 510
+      },
+      "total_per_pupil": 10601
+    },
+    "0151": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "GAINESVILLE HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7858,
+        "federal": 746,
+        "total": 8605
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 397,
+        "federal": 48,
+        "total": 445
+      },
+      "total_per_pupil": 9049
+    },
+    "0161": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 11959,
+        "federal": 3399,
+        "total": 15358
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 715,
+        "federal": 73,
+        "total": 787
+      },
+      "total_per_pupil": 16145
+    },
+    "0171": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ARCHER ELEMENTARY",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 10556,
+        "federal": 2218,
+        "total": 12773
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 620,
+        "federal": 65,
+        "total": 685
+      },
+      "total_per_pupil": 13458
+    },
+    "0201": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HAWTHORNE MIDDLE/HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8292,
+        "federal": 1591,
+        "total": 9883
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 417,
+        "federal": 45,
+        "total": 462
+      },
+      "total_per_pupil": 10345
+    },
+    "0221": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "A. L. MEBANE MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9084,
+        "federal": 803,
+        "total": 9887
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 436,
+        "federal": 35,
+        "total": 472
+      },
+      "total_per_pupil": 10358
+    },
+    "0261": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "NEWBERRY HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8393,
+        "federal": 682,
+        "total": 9075
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 404,
+        "federal": 29,
+        "total": 433
+      },
+      "total_per_pupil": 9508
+    },
+    "0271": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "SANTA FE HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8265,
+        "federal": 661,
+        "total": 8927
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 395,
+        "federal": 29,
+        "total": 425
+      },
+      "total_per_pupil": 9352
+    },
+    "0281": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "CHESTER SHELL ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 10961,
+        "federal": 3485,
+        "total": 14446
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 649,
+        "federal": 70,
+        "total": 719
+      },
+      "total_per_pupil": 15165
+    },
+    "0311": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MYRA TERWILLIGER ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9284,
+        "federal": 2846,
+        "total": 12130
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 583,
+        "federal": 63,
+        "total": 646
+      },
+      "total_per_pupil": 12777
+    },
+    "0321": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "IDYLWILD ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9107,
+        "federal": 2659,
+        "total": 11766
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 523,
+        "federal": 80,
+        "total": 603
+      },
+      "total_per_pupil": 12369
+    },
+    "0331": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "GLEN SPRINGS ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9581,
+        "federal": 2062,
+        "total": 11643
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 547,
+        "federal": 60,
+        "total": 607
+      },
+      "total_per_pupil": 12250
+    },
+    "0341": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MARJORIE KINNAN RAWLINGS ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 10382,
+        "federal": 2974,
+        "total": 13356
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 582,
+        "federal": 64,
+        "total": 646
+      },
+      "total_per_pupil": 14002
+    },
+    "0411": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "PROFESSIONAL ACADEMY MAGNET AT LOFTEN HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 13009,
+        "federal": 1002,
+        "total": 14011
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 523,
+        "federal": 41,
+        "total": 564
+      },
+      "total_per_pupil": 14574
+    },
+    "0421": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "EASTSIDE HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8929,
+        "federal": 733,
+        "total": 9662
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 439,
+        "federal": 38,
+        "total": 478
+      },
+      "total_per_pupil": 10140
+    },
+    "0431": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "F. W. BUCHHOLZ HIGH SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7155,
+        "federal": 539,
+        "total": 7694
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 341,
+        "federal": 31,
+        "total": 372
+      },
+      "total_per_pupil": 8066
+    },
+    "0461": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HIGH SPRINGS COMMUNITY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8978,
+        "federal": 1527,
+        "total": 10504
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 526,
+        "federal": 61,
+        "total": 588
+      },
+      "total_per_pupil": 11092
+    },
+    "0481": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "FORT CLARKE MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8069,
+        "federal": 1080,
+        "total": 9149
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 448,
+        "federal": 43,
+        "total": 491
+      },
+      "total_per_pupil": 9640
+    },
+    "0482": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HIDDEN OAK ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9179,
+        "federal": 1098,
+        "total": 10277
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 544,
+        "federal": 47,
+        "total": 591
+      },
+      "total_per_pupil": 10867
+    },
+    "0501": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "KIMBALL WILES ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9445,
+        "federal": 1682,
+        "total": 11126
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 564,
+        "federal": 60,
+        "total": 625
+      },
+      "total_per_pupil": 11751
+    },
+    "0502": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "KANAPAHA MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7634,
+        "federal": 1024,
+        "total": 8658
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 422,
+        "federal": 57,
+        "total": 480
+      },
+      "total_per_pupil": 9138
+    },
+    "0510": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "LAWTON M. CHILES ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9557,
+        "federal": 1074,
+        "total": 10631
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 559,
+        "federal": 48,
+        "total": 607
+      },
+      "total_per_pupil": 11238
+    },
+    "0520": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MEADOWBROOK ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8292,
+        "federal": 957,
+        "total": 9249
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 509,
+        "federal": 43,
+        "total": 552
+      },
+      "total_per_pupil": 9801
+    },
+    "0531": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "NEWBERRY ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8766,
+        "federal": 1801,
+        "total": 10567
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 540,
+        "federal": 57,
+        "total": 597
+      },
+      "total_per_pupil": 11164
+    },
+    "0541": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "C. W. NORTON ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9709,
+        "federal": 2023,
+        "total": 11732
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 595,
+        "federal": 65,
+        "total": 660
+      },
+      "total_per_pupil": 12392
+    },
+    "0561": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "WILLIAM S. TALBOT ELEM SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9520,
+        "federal": 1191,
+        "total": 10712
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 562,
+        "federal": 48,
+        "total": 610
+      },
+      "total_per_pupil": 11321
+    },
+    "0571": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "W. W. IRBY ELEMENTARY SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 11944,
+        "federal": 2832,
+        "total": 14775
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 698,
+        "federal": 75,
+        "total": 773
+      },
+      "total_per_pupil": 15549
+    },
+    "0591": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "OAK VIEW MIDDLE SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7711,
+        "federal": 865,
+        "total": 8575
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 417,
+        "federal": 61,
+        "total": 478
+      },
+      "total_per_pupil": 9053
+    },
+    "0604": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "PACE",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7385,
+        "federal": 1380,
+        "total": 8764
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 93,
+        "federal": 57,
+        "total": 151
+      },
+      "total_per_pupil": 8915
+    },
+    "0922": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "SANTA FE COLLEGE ACADEMY OF SCIENCE AND TECHNOLOGY",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7429,
+        "federal": 0,
+        "total": 7429
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 7429
+    },
+    "0925": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "CONSTELLATION CHARTER SCHOOL OF GAINESVILLE",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9058,
+        "federal": 326,
+        "total": 9384
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 9384
+    },
+    "0950": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "THE ONE ROOM SCHOOL HOUSE PROJECT",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8953,
+        "federal": 660,
+        "total": 9613
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 9613
+    },
+    "0951": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MICANOPY AREA COOPERATIVE SCHOOL, INC.",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7306,
+        "federal": 953,
+        "total": 8260
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 8260
+    },
+    "0953": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "CARING & SHARING LEARNING SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7478,
+        "federal": 1105,
+        "total": 8582
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 8582
+    },
+    "0955": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "THE EINSTEIN SCHOOL, INC.",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 11610,
+        "federal": 577,
+        "total": 12187
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 12187
+    },
+    "0956": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "EXPRESSIONS LEARNING ARTS ACADEMY",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 10154,
+        "federal": 502,
+        "total": 10656
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 10656
+    },
+    "0957": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA LEARNING ACADEMY ELEMENTARY",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8191,
+        "federal": 331,
+        "total": 8522
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 8522
+    },
+    "0961": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MICANOPY ACADEMY",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7137,
+        "federal": 459,
+        "total": 7595
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 7595
+    },
+    "0981": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HEALTHY LEARNING ACADEMY CHARTER SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 7873,
+        "federal": 539,
+        "total": 8411
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 8411
+    },
+    "0991": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "SIATECH MYCROSCHOOL, INC.",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8050,
+        "federal": 608,
+        "total": 8658
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 8658
+    },
+    "1003": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "NORTH CENTRAL FLORIDA PUBLIC CHARTER SCHOOL",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8920,
+        "federal": 911,
+        "total": 9831
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 9831
+    },
+    "1011": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA LEARNING ACADEMY MIDDLE",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 6391,
+        "federal": 0,
+        "total": 6391
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 6391
+    },
+    "1012": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "BOULWARE SPRINGS CHARTER",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8399,
+        "federal": 1326,
+        "total": 9725
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 9725
+    },
+    "1013": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "RESILIENCE CHARTER SCHOOL INC",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 8222,
+        "federal": 917,
+        "total": 9139
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 0,
+        "federal": 0,
+        "total": 0
+      },
+      "total_per_pupil": 9139
+    },
+    "7004": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA ESCHOOL (VIRTUAL FRANCHISE)",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 9948,
+        "federal": 497,
+        "total": 10445
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 236,
+        "federal": 17,
+        "total": 254
+      },
+      "total_per_pupil": 10699
+    },
+    "7023": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA VIRTUAL INSTRUCTION PROGRAM (DISTRICT PROVIDED)",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 5896,
+        "federal": 539,
+        "total": 6434
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 292,
+        "federal": 22,
+        "total": 314
+      },
+      "total_per_pupil": 6748
+    },
+    "9025": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA REGIONAL JUEVNILE DETENTION CENTER",
+      "empty": false,
+      "school_costs_per_pupil": {
+        "state_and_local": 5248,
+        "federal": 1388,
+        "total": 6636
+      },
+      "district_indirect_costs_per_pupil": {
+        "state_and_local": 192,
+        "federal": 114,
+        "total": 307
+      },
+      "total_per_pupil": 6943
+    }
+  },
+  "2025": {
+    "0031": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "CAROLYN BEATRICE PARKER ELEMENTARY",
+      "empty": true
+    },
+    "0041": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "STEPHEN FOSTER ELEMENTARY SCHOOL",
+      "empty": true
+    },
+    "0052": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "A.QUINN JONES CENTER",
+      "empty": true
+    },
+    "0071": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "LAKE FOREST ELEMENTARY SCHOOL",
+      "empty": true
+    },
+    "0081": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "SIDNEY LANIER CENTER",
+      "empty": true
+    },
+    "0082": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HOSPITAL HOMEBOUND",
+      "empty": true
+    },
+    "0091": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "LITTLEWOOD ELEMENTARY SCHOOL",
+      "empty": true
+    },
+    "0101": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "W. A. METCALFE ELEMENTARY SCHOOL",
+      "empty": true
+    },
+    "0111": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "JOSEPH WILLIAMS ELEMENTARY SCHOOL",
+      "empty": true
+    },
+    "0112": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ABRAHAM LINCOLN MIDDLE SCHOOL",
+      "empty": true
+    },
+    "0121": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HOWARD W. BISHOP MIDDLE SCHOOL",
+      "empty": true
+    },
+    "0141": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "WESTWOOD MIDDLE SCHOOL",
+      "empty": true
+    },
+    "0151": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "GAINESVILLE HIGH SCHOOL",
+      "empty": true
+    },
+    "0161": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA ELEMENTARY SCHOOL",
+      "empty": true
+    },
+    "0171": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ARCHER ELEMENTARY",
+      "empty": true
+    },
+    "0201": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HAWTHORNE MIDDLE/HIGH SCHOOL",
+      "empty": true
+    },
+    "0221": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "A. L. MEBANE MIDDLE SCHOOL",
+      "empty": true
+    },
+    "0261": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "NEWBERRY HIGH SCHOOL",
+      "empty": true
+    },
+    "0271": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "SANTA FE HIGH SCHOOL",
+      "empty": true
+    },
+    "0281": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "CHESTER SHELL ELEMENTARY SCHOOL",
+      "empty": true
+    },
+    "0311": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MYRA TERWILLIGER ELEMENTARY SCHOOL",
+      "empty": true
+    },
+    "0321": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "IDYLWILD ELEMENTARY SCHOOL",
+      "empty": true
+    },
+    "0331": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "GLEN SPRINGS ELEMENTARY SCHOOL",
+      "empty": true
+    },
+    "0341": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MARJORIE KINNAN RAWLINGS ELEMENTARY SCHOOL",
+      "empty": true
+    },
+    "0411": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "PROFESSIONAL ACADEMY MAGNET AT LOFTEN HIGH SCHOOL",
+      "empty": true
+    },
+    "0421": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "EASTSIDE HIGH SCHOOL",
+      "empty": true
+    },
+    "0431": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "F. W. BUCHHOLZ HIGH SCHOOL",
+      "empty": true
+    },
+    "0461": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HIGH SPRINGS COMMUNITY SCHOOL",
+      "empty": true
+    },
+    "0481": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "FORT CLARKE MIDDLE SCHOOL",
+      "empty": true
+    },
+    "0482": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HIDDEN OAK ELEMENTARY SCHOOL",
+      "empty": true
+    },
+    "0501": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "KIMBALL WILES ELEMENTARY SCHOOL",
+      "empty": true
+    },
+    "0502": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "KANAPAHA MIDDLE SCHOOL",
+      "empty": true
+    },
+    "0510": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "LAWTON M. CHILES ELEMENTARY SCHOOL",
+      "empty": true
+    },
+    "0520": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MEADOWBROOK ELEMENTARY SCHOOL",
+      "empty": true
+    },
+    "0531": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "NEWBERRY ELEMENTARY SCHOOL",
+      "empty": true
+    },
+    "0541": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "C. W. NORTON ELEMENTARY SCHOOL",
+      "empty": true
+    },
+    "0561": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "WILLIAM S. TALBOT ELEM SCHOOL",
+      "empty": true
+    },
+    "0571": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "W. W. IRBY ELEMENTARY SCHOOL",
+      "empty": true
+    },
+    "0591": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "OAK VIEW MIDDLE SCHOOL",
+      "empty": true
+    },
+    "0604": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "PACE",
+      "empty": true
+    },
+    "0922": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "SANTA FE COLLEGE ACADEMY OF SCIENCE AND TECHNOLOGY",
+      "empty": true
+    },
+    "0925": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "CONSTELLATION CHARTER SCHOOL OF GAINESVILLE",
+      "empty": true
+    },
+    "0950": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "THE ONE ROOM SCHOOL HOUSE PROJECT",
+      "empty": true
+    },
+    "0951": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MICANOPY AREA COOPERATIVE SCHOOL, INC.",
+      "empty": true
+    },
+    "0953": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "CARING & SHARING LEARNING SCHOOL",
+      "empty": true
+    },
+    "0955": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "THE EINSTEIN SCHOOL, INC.",
+      "empty": true
+    },
+    "0956": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "EXPRESSIONS LEARNING ARTS ACADEMY",
+      "empty": true
+    },
+    "0957": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA LEARNING ACADEMY ELEMENTARY",
+      "empty": true
+    },
+    "0961": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "MICANOPY ACADEMY",
+      "empty": true
+    },
+    "0981": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "HEALTHY LEARNING ACADEMY CHARTER SCHOOL",
+      "empty": true
+    },
+    "0991": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "SIATECH MYCROSCHOOL, INC.",
+      "empty": true
+    },
+    "1003": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "NORTH CENTRAL FLORIDA PUBLIC CHARTER SCHOOL",
+      "empty": true
+    },
+    "1011": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA LEARNING ACADEMY MIDDLE",
+      "empty": true
+    },
+    "1012": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "BOULWARE SPRINGS CHARTER",
+      "empty": true
+    },
+    "1013": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "RESILIENCE CHARTER SCHOOL INC",
+      "empty": true
+    },
+    "7004": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA ESCHOOL (VIRTUAL FRANCHISE)",
+      "empty": true
+    },
+    "9025": {
+      "district_code": "01",
+      "district_name": "ALACHUA",
+      "school_name": "ALACHUA REGIONAL JUVENILE DETENTION CENTER",
+      "empty": true
+    }
+  }
+}
