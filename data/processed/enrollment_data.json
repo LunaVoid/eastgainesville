@@ -1,0 +1,618 @@
+{
+  "pasted_school_enrollment": [
+    {
+      "nces_id": "120003000018",
+      "school_name": "A. L. Mebane Middle School",
+      "district": "Alachua",
+      "students_enrolled": 334
+    },
+    {
+      "nces_id": "120003000004",
+      "school_name": "A.Quinn Jones Center",
+      "district": "Alachua",
+      "students_enrolled": 67
+    },
+    {
+      "nces_id": "120003000010",
+      "school_name": "Abraham Lincoln Middle School",
+      "district": "Alachua",
+      "students_enrolled": 743
+    },
+    {
+      "nces_id": "120003003281",
+      "school_name": "Alachua Academy",
+      "district": "Alachua",
+      "students_enrolled": 12
+    },
+    {
+      "nces_id": "120003000014",
+      "school_name": "Alachua Elementary School",
+      "district": "Alachua",
+      "students_enrolled": 298
+    },
+    {
+      "nces_id": "120003007945",
+      "school_name": "Alachua Eschool (Virtual Franchise)",
+      "district": "Alachua",
+      "students_enrolled": 774
+    },
+    {
+      "nces_id": "120003003534",
+      "school_name": "Alachua Learning Academy Elementary",
+      "district": "Alachua",
+      "students_enrolled": 98
+    },
+    {
+      "nces_id": "120003007954",
+      "school_name": "Alachua Learning Academy Middle",
+      "district": "Alachua",
+      "students_enrolled": 52
+    },
+    {
+      "nces_id": "120003002107",
+      "school_name": "Alachua Regional Juvenile Detention Center",
+      "district": "Alachua",
+      "students_enrolled": 35
+    },
+    {
+      "nces_id": "120003008285",
+      "school_name": "Alachua Virtual Instruction Program (District Provided)",
+      "district": "Alachua",
+      "students_enrolled": 954
+    },
+    {
+      "nces_id": "120003003282",
+      "school_name": "Amikids",
+      "district": "Alachua",
+      "students_enrolled": 13
+    },
+    {
+      "nces_id": "120003000015",
+      "school_name": "Archer Elementary",
+      "district": "Alachua",
+      "students_enrolled": 444
+    },
+    {
+      "nces_id": "120003008358",
+      "school_name": "Boulware Springs Charter",
+      "district": "Alachua",
+      "students_enrolled": 152
+    },
+    {
+      "nces_id": "120003000017",
+      "school_name": "C. W. Norton Elementary School",
+      "district": "Alachua",
+      "students_enrolled": 548
+    },
+    {
+      "nces_id": "120003003285",
+      "school_name": "Caring & Sharing Learning School",
+      "district": "Alachua",
+      "students_enrolled": 215
+    },
+    {
+      "nces_id": "120003000002",
+      "school_name": "Carolyn Beatrice Parker Elementary",
+      "district": "Alachua",
+      "students_enrolled": 495
+    },
+    {
+      "nces_id": "120003000021",
+      "school_name": "Chester Shell Elementary School",
+      "district": "Alachua",
+      "students_enrolled": 362
+    },
+    {
+      "nces_id": "120003008485",
+      "school_name": "Early Learning Academy At Duval",
+      "district": "Alachua",
+      "students_enrolled": 113
+    },
+    {
+      "nces_id": "120003000028",
+      "school_name": "Eastside High School",
+      "district": "Alachua",
+      "students_enrolled": 1240
+    },
+    {
+      "nces_id": "120003003533",
+      "school_name": "Expressions Learning Arts Academy",
+      "district": "Alachua",
+      "students_enrolled": 82
+    },
+    {
+      "nces_id": "120003000029",
+      "school_name": "F. W. Buchholz High School",
+      "district": "Alachua",
+      "students_enrolled": 2241
+    },
+    {
+      "nces_id": "120003000032",
+      "school_name": "Fort Clarke Middle School",
+      "district": "Alachua",
+      "students_enrolled": 932
+    },
+    {
+      "nces_id": "120003000013",
+      "school_name": "Gainesville High School",
+      "district": "Alachua",
+      "students_enrolled": 1823
+    },
+    {
+      "nces_id": "120003000025",
+      "school_name": "Glen Springs Elementary School",
+      "district": "Alachua",
+      "students_enrolled": 368
+    },
+    {
+      "nces_id": "120003000016",
+      "school_name": "Hawthorne Middle/High School",
+      "district": "Alachua",
+      "students_enrolled": 412
+    },
+    {
+      "nces_id": "120003003981",
+      "school_name": "Healthy Learning Academy Charter School",
+      "district": "Alachua",
+      "students_enrolled": 106
+    },
+    {
+      "nces_id": "120003002588",
+      "school_name": "Hidden Oak Elementary School",
+      "district": "Alachua",
+      "students_enrolled": 711
+    },
+    {
+      "nces_id": "120003003989",
+      "school_name": "High Springs Community School",
+      "district": "Alachua",
+      "students_enrolled": 876
+    },
+    {
+      "nces_id": "120003000011",
+      "school_name": "Howard W. Bishop Middle School",
+      "district": "Alachua",
+      "students_enrolled": 628
+    },
+    {
+      "nces_id": "120003000024",
+      "school_name": "Idylwild Elementary School",
+      "district": "Alachua",
+      "students_enrolled": 574
+    },
+    {
+      "nces_id": "120003000009",
+      "school_name": "Joseph Williams Elementary School",
+      "district": "Alachua",
+      "students_enrolled": 499
+    },
+    {
+      "nces_id": "120003003022",
+      "school_name": "Kanapaha Middle School",
+      "district": "Alachua",
+      "students_enrolled": 1050
+    },
+    {
+      "nces_id": "120003002465",
+      "school_name": "Kimball Wiles Elementary School",
+      "district": "Alachua",
+      "students_enrolled": 793
+    },
+    {
+      "nces_id": "120003000005",
+      "school_name": "Lake Forest Elementary School",
+      "district": "Alachua",
+      "students_enrolled": 333
+    },
+    {
+      "nces_id": "120003003530",
+      "school_name": "Lawton M. Chiles Elementary School",
+      "district": "Alachua",
+      "students_enrolled": 716
+    },
+    {
+      "nces_id": "120003000007",
+      "school_name": "Littlewood Elementary School",
+      "district": "Alachua",
+      "students_enrolled": 598
+    },
+    {
+      "nces_id": "120003000026",
+      "school_name": "Marjorie Kinnan Rawlings Elementary School",
+      "district": "Alachua",
+      "students_enrolled": 331
+    },
+    {
+      "nces_id": "120003008203",
+      "school_name": "Meadowbrook Elementary School",
+      "district": "Alachua",
+      "students_enrolled": 794
+    },
+    {
+      "nces_id": "120003003811",
+      "school_name": "Micanopy Academy",
+      "district": "Alachua",
+      "students_enrolled": 90
+    },
+    {
+      "nces_id": "120003003145",
+      "school_name": "Micanopy Area Cooperative School Inc.",
+      "district": "Alachua",
+      "students_enrolled": 197
+    },
+    {
+      "nces_id": "120003000023",
+      "school_name": "Myra Terwilliger Elementary School",
+      "district": "Alachua",
+      "students_enrolled": 448
+    },
+    {
+      "nces_id": "120003000033",
+      "school_name": "Newberry Elementary School",
+      "district": "Alachua",
+      "students_enrolled": 563
+    },
+    {
+      "nces_id": "120003000019",
+      "school_name": "Newberry High School",
+      "district": "Alachua",
+      "students_enrolled": 634
+    },
+    {
+      "nces_id": "120003007948",
+      "school_name": "North Central Florida Public Charter School",
+      "district": "Alachua",
+      "students_enrolled": 155
+    },
+    {
+      "nces_id": "120003000619",
+      "school_name": "Oak View Middle School",
+      "district": "Alachua",
+      "students_enrolled": 857
+    },
+    {
+      "nces_id": "120003003283",
+      "school_name": "Pace",
+      "district": "Alachua",
+      "students_enrolled": 57
+    },
+    {
+      "nces_id": "120003000027",
+      "school_name": "Professional Academy Magnet At Loften High School",
+      "district": "Alachua",
+      "students_enrolled": 276
+    },
+    {
+      "nces_id": "120003008516",
+      "school_name": "Resilience Charter School Inc",
+      "district": "Alachua",
+      "students_enrolled": 111
+    },
+    {
+      "nces_id": "120003000020",
+      "school_name": "Santa Fe High School",
+      "district": "Alachua",
+      "students_enrolled": 1050
+    },
+    {
+      "nces_id": "120003004047",
+      "school_name": "Siatech At Gainesville",
+      "district": "Alachua",
+      "students_enrolled": 110
+    },
+    {
+      "nces_id": "120003000006",
+      "school_name": "Sidney Lanier Center",
+      "district": "Alachua",
+      "students_enrolled": 167
+    },
+    {
+      "nces_id": "120003000003",
+      "school_name": "Stephen Foster Elementary School",
+      "district": "Alachua",
+      "students_enrolled": 433
+    },
+    {
+      "nces_id": "120003003532",
+      "school_name": "The Einstein School Inc.",
+      "district": "Alachua",
+      "students_enrolled": 101
+    },
+    {
+      "nces_id": "120003003144",
+      "school_name": "The One Room School House Project",
+      "district": "Alachua",
+      "students_enrolled": 158
+    },
+    {
+      "nces_id": "120003000008",
+      "school_name": "W. A. Metcalfe Elementary School",
+      "district": "Alachua",
+      "students_enrolled": 203
+    },
+    {
+      "nces_id": "120003000034",
+      "school_name": "W. W. Irby Elementary School",
+      "district": "Alachua",
+      "students_enrolled": 330
+    },
+    {
+      "nces_id": "120003000012",
+      "school_name": "Westwood Middle School",
+      "district": "Alachua",
+      "students_enrolled": 893
+    },
+    {
+      "nces_id": "120003002466",
+      "school_name": "William S. Talbot Elem School",
+      "district": "Alachua",
+      "students_enrolled": 617
+    }
+  ],
+  "excel_workbooks": [
+    {
+      "file": "Overall Enrollment_export_1789926639818.xlsx",
+      "sheets": [
+        {
+          "name": "data",
+          "records": [
+            {
+              "Group": "American Indian or Alaska Native",
+              "District": 44,
+              "State": 7107,
+              "National": 457993,
+              "District Female": 23,
+              "District Male": 21
+            },
+            {
+              "Group": "Asian",
+              "District": 1493,
+              "State": 77532,
+              "National": 2605592,
+              "District Female": 702,
+              "District Male": 791
+            },
+            {
+              "Group": "Black or African American",
+              "District": 9560,
+              "State": 597230,
+              "National": 7386606,
+              "District Female": 4666,
+              "District Male": 4894
+            },
+            {
+              "Group": "Hispanic or Latino of any race",
+              "District": 3335,
+              "State": 968976,
+              "National": 13982344,
+              "District Female": 1617,
+              "District Male": 1718
+            },
+            {
+              "Group": "Native Hawaiian or Other Pacific Islander",
+              "District": 31,
+              "State": 4704,
+              "National": 159581,
+              "District Female": 16,
+              "District Male": 15
+            },
+            {
+              "Group": "Two or more races",
+              "District": 2048,
+              "State": 106492,
+              "National": 2171706,
+              "District Female": 1028,
+              "District Male": 1020
+            },
+            {
+              "Group": "White",
+              "District": 11755,
+              "State": 1002472,
+              "National": 22386744,
+              "District Female": 5730,
+              "District Male": 6025
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "AP Student Enrollment_export_1789926646229.xlsx",
+      "sheets": [
+        {
+          "name": "data",
+          "records": [
+            {
+              "Group": "American Indian or Alaska Native",
+              "District": 5,
+              "State": 442,
+              "National": 12158,
+              "District Female": 3,
+              "District Male": 2
+            },
+            {
+              "Group": "Asian",
+              "District": 328,
+              "State": 12640,
+              "National": 345173,
+              "District Female": 158,
+              "District Male": 170
+            },
+            {
+              "Group": "Black or African American",
+              "District": 362,
+              "State": 22529,
+              "National": 273207,
+              "District Female": 225,
+              "District Male": 137
+            },
+            {
+              "Group": "Hispanic or Latino of any race",
+              "District": 261,
+              "State": 66059,
+              "National": 717464,
+              "District Female": 145,
+              "District Male": 116
+            },
+            {
+              "Group": "Native Hawaiian or Other Pacific Islander",
+              "District": 1,
+              "State": 344,
+              "National": 6894,
+              "District Female": 0,
+              "District Male": 1
+            },
+            {
+              "Group": "Two or more races",
+              "District": 165,
+              "State": 6419,
+              "National": 103718,
+              "District Female": 88,
+              "District Male": 77
+            },
+            {
+              "Group": "White",
+              "District": 1392,
+              "State": 82453,
+              "National": 1423670,
+              "District Female": 747,
+              "District Male": 645
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "Students Repeating Total_export_1789926665528.xlsx",
+      "sheets": [
+        {
+          "name": "data",
+          "records": [
+            {
+              "Group": "American Indian or Alaska Native",
+              "District": 1,
+              "State": 241,
+              "National": 11698,
+              "District Female": 1,
+              "District Male": 0
+            },
+            {
+              "Group": "Asian",
+              "District": 5,
+              "State": 756,
+              "National": 15316,
+              "District Female": 3,
+              "District Male": 2
+            },
+            {
+              "Group": "Black or African American",
+              "District": 433,
+              "State": 25003,
+              "National": 257653,
+              "District Female": 204,
+              "District Male": 229
+            },
+            {
+              "Group": "Hispanic or Latino of any race",
+              "District": 86,
+              "State": 24613,
+              "National": 307815,
+              "District Female": 35,
+              "District Male": 51
+            },
+            {
+              "Group": "Native Hawaiian or Other Pacific Islander",
+              "District": 1,
+              "State": 131,
+              "National": 2452,
+              "District Female": 1,
+              "District Male": 0
+            },
+            {
+              "Group": "Two or more races",
+              "District": 62,
+              "State": 3370,
+              "National": 37876,
+              "District Female": 34,
+              "District Male": 28
+            },
+            {
+              "Group": "White",
+              "District": 175,
+              "State": 24779,
+              "National": 291999,
+              "District Female": 78,
+              "District Male": 97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "Referral – Students without Disabilities_export_1789926674561.xlsx",
+      "sheets": [
+        {
+          "name": "data",
+          "records": [
+            {
+              "Group": "American Indian or Alaska Native",
+              "District": 0,
+              "State": 29,
+              "National": 988,
+              "District Female": 0,
+              "District Male": 0
+            },
+            {
+              "Group": "Asian",
+              "District": 0,
+              "State": 35,
+              "National": 449,
+              "District Female": 0,
+              "District Male": 0
+            },
+            {
+              "Group": "Black or African American",
+              "District": 76,
+              "State": 1437,
+              "National": 8111,
+              "District Female": 45,
+              "District Male": 31
+            },
+            {
+              "Group": "Hispanic or Latino of any race",
+              "District": 5,
+              "State": 1435,
+              "National": 9234,
+              "District Female": 3,
+              "District Male": 2
+            },
+            {
+              "Group": "Native Hawaiian or Other Pacific Islander",
+              "District": 0,
+              "State": 9,
+              "National": 127,
+              "District Female": 0,
+              "District Male": 0
+            },
+            {
+              "Group": "Two or more races",
+              "District": 6,
+              "State": 329,
+              "National": 2302,
+              "District Female": 2,
+              "District Male": 4
+            },
+            {
+              "Group": "White",
+              "District": 24,
+              "State": 3286,
+              "National": 25462,
+              "District Female": 13,
+              "District Male": 11
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
